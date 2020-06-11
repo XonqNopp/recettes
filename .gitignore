@@ -4,4 +4,4 @@ __pycache__
 .*.swp
 *.pdf
 *.odt
-
+_venv*

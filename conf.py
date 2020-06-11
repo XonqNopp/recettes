@@ -49,7 +49,8 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 
 # General information about the project.
-copyright = '{}, {}'.format(strftime('%Y'), author)
+ccLicense = 'CC BY-SA 4.0'
+copyright = '{}, {}'.format(ccLicense, author)
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -80,7 +81,7 @@ language = 'fr'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'sphinx']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'sphinx', 'scripts', '_venv']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -241,19 +242,22 @@ htmlhelp_basename = projectCamelCase
 
 # -- Options for LaTeX output ---------------------------------------------
 latex_elements = {
-}
-latex_elements = {
-    #     The paper size ('letterpaper' or 'a4paper').
     'papersize': 'a4paper',
-
-    #     The font size ('10pt', '11pt' or '12pt').
     'pointsize': '12pt',
 
     #     Additional stuff for the LaTeX preamble.
     'preamble': r"""
-    \usepackage{titlesec}
-    \newcommand{\sectionbreak}{\clearpage}
-    """,
+
+
+%%% CUSTOM %%%
+
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+\AtBeginDocument{\renewcommand{\labelitemi}{\textbullet}}
+
+%%% /CUSTOM %%%
+
+""",
 
     # Latex figure (float) alignment
     #'figure_align': 'htbp',
