@@ -2,6 +2,9 @@
 Recettes
 ########
 
+:download:`_build/latex/Recettes.pdf`
+
+
 .. toctree::
    :maxdepth: 2
 
