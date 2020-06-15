@@ -25,4 +25,6 @@ Links:
 * Film alimentaire https://planetezerodechet.fr/film-alimentaire-zero-dechet-cire-tuto-facile/
 * Panification https://fr.m.wikipedia.org/wiki/Panification_sur_levure
 * Lessive https://www.famillezerodechet.com/archives/2017/01/16/34813559.html
+  et
+  https://planetezerodechet.fr/lessive-au-lierre-recette-zero-dechet-naturelle/
 
