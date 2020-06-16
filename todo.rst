@@ -27,4 +27,5 @@ Links:
 * Lessive https://www.famillezerodechet.com/archives/2017/01/16/34813559.html
   et
   https://planetezerodechet.fr/lessive-au-lierre-recette-zero-dechet-naturelle/
+* Creme mains: cire abeille, huile olive, bain marie
 
