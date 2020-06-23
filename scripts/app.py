@@ -38,7 +38,6 @@ class Recettes(QtWidgets.QDialog):
         self.setLayout(layout)
 
         self.setWindowTitle('Ajouter une nouvelle recette')
-        #self.resize(800, 600)
 
     def categories(self) -> QtWidgets.QGroupBox:
         layout = QtWidgets.QVBoxLayout()
@@ -138,7 +137,6 @@ class Recettes(QtWidgets.QDialog):
 
 class App:
     def __init__(self):
-        # TODO logger
         self._logger = logging.getLogger(self.__class__.__name__)
 
         self._results = OrderedDict([
@@ -156,20 +154,6 @@ class App:
     def indexRst(self) -> str:
         return os.path.join(self._results['category'], 'index.rst')
 
-    @property
-    def filename(self) -> str:
-        if self._filename is not None:
-            return self._filename
-
-        title = self._results['title']
-        # TODO check if not empty
-        # TODO change characters
-        self._filename = os.path.join(self._results['category'], title)
-
-        self._logger.debug('filename={}'.format(self._filename))
-
-        return self._filename
-
     def run(self) -> None:
         app = QtWidgets.QApplication(sys.argv)
         recettes = Recettes()
@@ -186,6 +170,20 @@ class App:
         self._results['exitCode'] = exitCode
 
         self._logger.debug(self._results)
+
+    @property
+    def filename(self) -> str:
+        if self._filename is not None:
+            return self._filename
+
+        title = self._results['title']
+        # TODO check if not empty
+        # TODO change characters
+        self._filename = os.path.join(self._results['category'], title)
+
+        self._logger.debug('filename={}'.format(self._filename))
+
+        return self._filename
 
     def fileExists(self) -> bool:
         self.filename
@@ -240,9 +238,9 @@ def main() -> None:
     app.run()
     exitCode = app.process()
 
-    #sys.exit(exitCode)
+    return exitCode
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
 
