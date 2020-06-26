@@ -28,6 +28,8 @@ class Recettes(QtWidgets.QDialog):
     def __init__(self, parent=None):
         super().__init__(parent)
 
+        self._logger = logging.getLogger(self.__class__.__name__)
+
         layout = QtWidgets.QVBoxLayout()
 
         layout.addWidget(self.categories())
@@ -40,6 +42,8 @@ class Recettes(QtWidgets.QDialog):
         self.setWindowTitle('Ajouter une nouvelle recette')
 
     def categories(self) -> QtWidgets.QGroupBox:
+        self._logger.debug('Setting categories widget')
+
         layout = QtWidgets.QVBoxLayout()
 
         self._categories = {}
@@ -57,6 +61,11 @@ class Recettes(QtWidgets.QDialog):
         return categories
 
     def getCategory(self) -> str:
+        self._logger.debug('categories: cuisine={} cosmetique={}'.format(
+            self._categories['cuisine'].isChecked(),
+            self._categories['cosmetique'].isChecked()
+        ))
+
         if self._categories['cuisine'].isChecked():
             return 'cuisine'
 
@@ -79,6 +88,15 @@ class Recettes(QtWidgets.QDialog):
 
     def getTitle(self) -> str:
         return self._title.text()
+
+    @property
+    def filename(self) -> str:
+        title = self.getTitle()
+        filename = os.path.join(self.getCategory(), title) + '.rst'
+
+        self._logger.debug('filename={}'.format(filename))
+
+        return filename
 
     def templates(self) -> QtWidgets.QGroupBox:
         layout = QtWidgets.QVBoxLayout()
@@ -114,6 +132,35 @@ class Recettes(QtWidgets.QDialog):
 
         return 'UNDEFINED'
 
+    def isTitleEmpty(self) -> bool:
+        return self.getTitle() == ''
+
+    def fileExists(self) -> bool:
+        return os.path.exists(self.filename)
+
+    def rejectEmptyTitle(self):
+        msgBox = QtWidgets.QMessageBox()
+        msgBox.setText('Le titre ne peut pas etre vide')
+        msgBox.exec()
+
+    def rejectExistingFile(self):
+        msgBox = QtWidgets.QMessageBox()
+        msgBox.setText('Il y a deja un fichier avec le meme nom: {}'.format(self.filename))
+        msgBox.exec()
+
+    def accept(self) -> None:
+        if self.isTitleEmpty():
+            self._logger.debug('Not accepted: title empty')
+            self.rejectEmptyTitle()
+            return
+
+        if self.fileExists():
+            self._logger.debug('Not accepted: file exists {}'.format(self.filename))
+            self.rejectExistingFile()
+            return
+
+        super().accept()
+
     def buttons(self) -> QtWidgets.QDialogButtonBox:
         """
         OK cancel
@@ -132,6 +179,7 @@ class Recettes(QtWidgets.QDialog):
             ('category', self.getCategory()),
             ('title', self.getTitle()),
             ('template', self.getTemplate()),
+            ('filename', self.filename),
         ])
 
 
@@ -143,8 +191,6 @@ class App:
             ('exitCode', None),
             ('category', 'UNDEFINED'),
         ])
-
-        self._filename = None
 
     @property
     def exitCode(self):
@@ -173,17 +219,7 @@ class App:
 
     @property
     def filename(self) -> str:
-        if self._filename is not None:
-            return self._filename
-
-        title = self._results['title']
-        # TODO check if not empty
-        # TODO change characters
-        self._filename = os.path.join(self._results['category'], title)
-
-        self._logger.debug('filename={}'.format(self._filename))
-
-        return self._filename
+        return self._results['filename']
 
     def fileExists(self) -> bool:
         self.filename
