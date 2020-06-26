@@ -92,6 +92,20 @@ class Recettes(QtWidgets.QDialog):
     @property
     def filename(self) -> str:
         title = self.getTitle()
+
+        # Format filename
+        translateTable = str.maketrans(
+            'áàâäãçéêèëíìîïóòôöõúùûüýÿñÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÝÑ',
+            'aaaaaceeeeiiiiooooouuuuyynAAAAAEEEEIIIIOOOOOUUUUYN'
+        )
+
+        #translateTable[ord('AE')] = [ord('A'), ord('E')]  # FIXME
+        # FIXME remove apostrophe virgule point deux-points point-virgule
+
+        title = title.translate(translateTable)
+
+        title = title.title().replace(' ', '').replace('(', '_').replace(')', '_').rstrip('_')
+
         filename = os.path.join(self.getCategory(), title) + '.rst'
 
         self._logger.debug('filename={}'.format(filename))
