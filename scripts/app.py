@@ -1,15 +1,11 @@
 #!/usr/bin/env python3
 # coding=utf-8
 """
-.. todo::
-
-   * doc
-   * post-actions
-   * error if title invalid (empty)
-   * error if file exists
+This script opens a GUI app to introduce a new recipe.
 """
 import os.path
 import sys
+import re
 from collections import OrderedDict
 from argparse import ArgumentParser
 import logging
@@ -18,12 +14,20 @@ from PySide2 import QtWidgets
 
 class Recettes(QtWidgets.QDialog):
     """
-    App to create a new recette in this repo.
+    Pop-up window to create a new recette in this repo.
     """
     BUTTON_STATUS = {
         0: False,  # cancel
         1: True,  # ok
     }
+
+    UNDEFINED = 'UNDEFINED'
+
+    CATEGORIES = ['cuisine', 'cosmétique']
+    DEFAULT_CATEGORY = 'cuisine'
+
+    TEMPLATES = ['aucun', 'standard', 'X personnes', 'petite et grande plaques']
+    DEFAULT_TEMPLATE = 'standard'
 
     def __init__(self, parent=None):
         super().__init__(parent)
@@ -42,18 +46,22 @@ class Recettes(QtWidgets.QDialog):
         self.setWindowTitle('Ajouter une nouvelle recette')
 
     def categories(self) -> QtWidgets.QGroupBox:
+        """
+        Sets the categories as radio buttons.
+        """
         self._logger.debug('Setting categories widget')
 
         layout = QtWidgets.QVBoxLayout()
 
         self._categories = {}
-        self._categories['cuisine'] = QtWidgets.QRadioButton('cuisine')
-        self._categories['cosmetique'] = QtWidgets.QRadioButton('cosmétique')
 
-        self._categories['cuisine'].setChecked(True)
+        for category in self.CATEGORIES:
+            self._categories[category] = QtWidgets.QRadioButton(category)
 
-        layout.addWidget(self._categories['cuisine'])
-        layout.addWidget(self._categories['cosmetique'])
+        self._categories[self.DEFAULT_CATEGORY].setChecked(True)
+
+        for category in self.CATEGORIES:
+            layout.addWidget(self._categories[category])
 
         categories = QtWidgets.QGroupBox('Catégorie')
         categories.setLayout(layout)
@@ -61,20 +69,27 @@ class Recettes(QtWidgets.QDialog):
         return categories
 
     def getCategory(self) -> str:
-        self._logger.debug('categories: cuisine={} cosmetique={}'.format(
-            self._categories['cuisine'].isChecked(),
-            self._categories['cosmetique'].isChecked()
-        ))
+        """
+        Read which category is selected.
+        """
+        logString = 'categories:'
+        for category in self.CATEGORIES:
+            logString += ' {}'.format(category) + '={}'.format(self._categories[category].isChecked())
 
-        if self._categories['cuisine'].isChecked():
-            return 'cuisine'
+        self._logger.debug(logString)
 
-        if self._categories['cosmetique'].isChecked():
-            return 'cosmetique'
+        for category in self.CATEGORIES:
+            if self._categories[category].isChecked():
+                return category
 
-        return 'UNDEFINED'
+        return self.UNDEFINED
 
     def title(self) -> QtWidgets.QGroupBox:
+        """
+        Sets the title as text input field.
+        """
+        self._logger.debug('Setting title widget')
+
         self._title = QtWidgets.QLineEdit()
         self._title.setFixedWidth(500)
 
@@ -87,24 +102,47 @@ class Recettes(QtWidgets.QDialog):
         return title
 
     def getTitle(self) -> str:
-        return self._title.text()
+        """
+        Read the title field contents.
+        """
+        title = self._title.text()
+        self._logger.debug('title={}'.format(title))
+        return title
 
     @property
     def filename(self) -> str:
+        """
+        Get the filename for the new recipe.
+        """
+        self._logger.debug('Prepare filename')
+
         title = self.getTitle()
+
+        self._logger.debug('title={}'.format(title))
 
         # Format filename
         translateTable = str.maketrans(
-            'áàâäãçéêèëíìîïóòôöõúùûüýÿñÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÝÑ',
-            'aaaaaceeeeiiiiooooouuuuyynAAAAAEEEEIIIIOOOOOUUUUYN'
+            'áàâäãçéêèëẽíìîïĩóòôöõúùûüũýỳŷÿỹñÁÀÂÄÃÉÈÊËẼÍÌÎÏĨÓÒÔÖÕÚÙÛÜŨÝỲŶŸỸÑ',
+            'aaaaaceeeeeiiiiiooooouuuuuyyyyynAAAAAEEEEEIIIIIOOOOOUUUUUYYYYYN'
         )
 
-        #translateTable[ord('AE')] = [ord('A'), ord('E')]  # FIXME
-        # FIXME remove apostrophe virgule point deux-points point-virgule
+        translateTable[ord('æ')] = 'ae'
+        translateTable[ord('œ')] = 'oe'
+
+        translateTable[ord('Æ')] = 'AE'
+        translateTable[ord('Œ')] = 'OE'
 
         title = title.translate(translateTable)
 
-        title = title.title().replace(' ', '').replace('(', '_').replace(')', '_').rstrip('_')
+        title = title.title()
+        title = title.replace(' ', '')
+        title = title.replace('(', '_').replace(')', '_').rstrip('_')
+
+        # Get rid of non-standard characters
+        title = title.replace("'", '')
+        title = re.sub(r'\[\]{}"\/:;.,?!<>+&%=$°§ßµ', '', title)
+
+        self._logger.debug('title formatted: {}'.format(title))
 
         filename = os.path.join(self.getCategory(), title) + '.rst'
 
@@ -113,81 +151,121 @@ class Recettes(QtWidgets.QDialog):
         return filename
 
     def templates(self) -> QtWidgets.QGroupBox:
+        """
+        Sets the template as radio buttons.
+        """
+        self._logger.debug('Setting templates widget')
+
         layout = QtWidgets.QVBoxLayout()
 
         templates = QtWidgets.QGroupBox('Modèle')
 
         self._templates = {}
-        self._templates['NONE'] = QtWidgets.QRadioButton('aucun')
-        self._templates['default'] = QtWidgets.QRadioButton('standard')
-        self._templates['personnes'] = QtWidgets.QRadioButton('X personnes')
-        self._templates['plaques'] = QtWidgets.QRadioButton('petite et grande plaques')
+        for template in self.TEMPLATES:
+            self._templates[template] = QtWidgets.QRadioButton(template)
 
-        self._templates['default'].setChecked(True)
+        self._templates[self.DEFAULT_TEMPLATE].setChecked(True)
 
-        layout.addWidget(self._templates['NONE'])
-        layout.addWidget(self._templates['default'])
-        layout.addWidget(self._templates['personnes'])
-        layout.addWidget(self._templates['plaques'])
+        for template in self.TEMPLATES:
+            layout.addWidget(self._templates[template])
 
         templates.setLayout(layout)
 
         return templates
 
     def getTemplate(self) -> str:
-        if self._templates['default'].isChecked():
-            return 'default'
+        """
+        Read which template is selected.
+        """
+        logString = 'templates:'
+        for template in self.TEMPLATES:
+            logString += ' {}'.format(template) + '={}'.format(self._templates[template].isChecked())
 
-        if self._templates['personnes'].isChecked():
-            return 'personnes'
+        self._logger.debug(logString)
 
-        if self._templates['plaques'].isChecked():
-            return 'plaques'
+        for template in self.TEMPLATES:
+            if self._templates[template].isChecked():
+                return template
 
-        return 'UNDEFINED'
+        return self.UNDEFINED
 
     def isTitleEmpty(self) -> bool:
-        return self.getTitle() == ''
+        """
+        Check if title is empty.
+        """
+        emptyTitle = bool(self.getTitle() == '')
+        self._logger.debug('title is empty={}'.format(emptyTitle))
+        return emptyTitle
 
-    def fileExists(self) -> bool:
-        return os.path.exists(self.filename)
+    def rejectEmptyTitle(self) -> None:
+        """
+        Reject if title is empty.
+        """
+        self._logger.debug('REJECTED: empty title not allowed')
 
-    def rejectEmptyTitle(self):
         msgBox = QtWidgets.QMessageBox()
         msgBox.setText('Le titre ne peut pas etre vide')
         msgBox.exec()
 
-    def rejectExistingFile(self):
+    # FIXME ask if want to use existing
+    def confirmUseExistingFile(self, filename: str) -> bool:
+        """
+        Ask user if existing file is the one to use.
+
+        Returns:
+            False if user does not want to use existing one.
+        """
+        self._logger.debug('File {} exists, ask user confirmation to use it'.format(filename))
+
         msgBox = QtWidgets.QMessageBox()
-        msgBox.setText('Il y a deja un fichier avec le meme nom: {}'.format(self.filename))
+        msgBox.setWindowTitle('{} existe...'.format(filename))
+        msgBox.setText('Le fichier {} existe déjà. Est-ce bien celui que tu veux éditer?'.format(filename))
+        msgBox.setStandardButtons(QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
+        msgBox.setDefaultButton(QtWidgets.QMessageBox.Yes)
         msgBox.exec()
+        # FIXME handle return value (clicked button)
 
     def accept(self) -> None:
+        """
+        What to do when user clicks on OK.
+        """
+        self._logger.debug('accept')
+
         if self.isTitleEmpty():
-            self._logger.debug('Not accepted: title empty')
             self.rejectEmptyTitle()
             return
 
-        if self.fileExists():
-            self._logger.debug('Not accepted: file exists {}'.format(self.filename))
-            self.rejectExistingFile()
+        filename = self.filename
+        if os.path.exists(filename):
+            self.confirmUseExistingFile(filename)
             return
 
         super().accept()
 
     def buttons(self) -> QtWidgets.QDialogButtonBox:
         """
-        OK cancel
+        Buttons for the app.
         """
+        self._logger.debug('Setting buttons widget')
+
         self._buttons = QtWidgets.QDialogButtonBox(QtWidgets.QDialogButtonBox.Ok | QtWidgets.QDialogButtonBox.Cancel)
         self._buttons.accepted.connect(self.accept)
         self._buttons.rejected.connect(self.reject)
+
         return self._buttons
 
     def getButton(self) -> bool:
-        return self.BUTTON_STATUS[self.result()]
+        """
+        Read which button was clicked.
+        """
+        buttonStatus = self.BUTTON_STATUS[self.result()]
+        self._logger.debug('Clicked on OK={}'.format(buttonStatus))
+        return buttonStatus
 
     def getInputs(self) -> OrderedDict:
+        """
+        Get all the user inputs we need to run post-processing.
+        """
         return OrderedDict([
             ('button', self.getButton()),
             ('category', self.getCategory()),
@@ -198,6 +276,9 @@ class Recettes(QtWidgets.QDialog):
 
 
 class App:
+    """
+    Main app handling post-processing too.
+    """
     def __init__(self):
         self._logger = logging.getLogger(self.__class__.__name__)
 
@@ -208,13 +289,22 @@ class App:
 
     @property
     def exitCode(self):
+        """
+        Get the exit code.
+        """
         return self._results['exitCode']
 
     @property
     def indexRst(self) -> str:
+        """
+        Get the relevant ``xxx/index.rst`` filename.
+        """
         return os.path.join(self._results['category'], 'index.rst')
 
     def run(self) -> None:
+        """
+        Run the GUI app (no post-processing here).
+        """
         app = QtWidgets.QApplication(sys.argv)
         recettes = Recettes()
         recettes.show()
@@ -231,32 +321,29 @@ class App:
 
         self._logger.debug(self._results)
 
-    @property
-    def filename(self) -> str:
-        return self._results['filename']
-
-    def fileExists(self) -> bool:
-        self.filename
-        pass
-
     def createFile(self) -> None:
-        pass
-
-    def applyTemplate(self) -> None:
+        """
+        Create file from template (except if file exists).
+        """
         pass
 
     def updateIndex(self) -> None:
+        """
+        Update the relevant index file to insert the new recipe.
+        """
         pass
 
     def gitStageFiles(self) -> None:
+        """
+        Stage touched files to git for the next commit.
+        """
         pass
 
     def process(self) -> int:
-        if self.fileExists():
-            raise Exception
-
+        """
+        Run the complete post-processing.
+        """
         self.createFile()
-        self.applyTemplate()
         self.updateIndex()
         self.gitStageFiles()
 
@@ -278,10 +365,11 @@ def main() -> None:
     args = parser.parse_args()
 
     # Logging
+    logFormat = '%(asctime)s:%(levelname)s:%(funcName)s[%(lineno)d]:%(message)s'
     if args.debug:
-        logging.basicConfig(level=logging.DEBUG)
+        logging.basicConfig(format=logFormat, level=logging.DEBUG)
     else:
-        logging.basicConfig(level=logging.INFO)
+        logging.basicConfig(format=logFormat, level=logging.INFO)
 
     # App
     app = App()
