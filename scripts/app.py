@@ -110,9 +110,9 @@ class Recettes(QtWidgets.QDialog):
         return title
 
     @property
-    def filename(self) -> str:
+    def basename(self) -> str:
         """
-        Get the filename for the new recipe.
+        Get the filename for the new recipe WITHOUT the prefixed dirname.
         """
         self._logger.debug('Prepare filename')
 
@@ -144,7 +144,14 @@ class Recettes(QtWidgets.QDialog):
 
         self._logger.debug('title formatted: {}'.format(title))
 
-        filename = os.path.join(self.getCategory(), title) + '.rst'
+        return title + '.rst'
+
+    @property
+    def filename(self) -> str:
+        """
+        Get the filename for the new recipe.
+        """
+        filename = os.path.join(self.getCategory(), self.basename)
 
         self._logger.debug('filename={}'.format(filename))
 
@@ -275,6 +282,7 @@ class Recettes(QtWidgets.QDialog):
             ('title', self.getTitle()),
             ('template', self.getTemplate()),
             ('filename', self.filename),
+            ('basename', self.basename),
         ])
 
 
@@ -351,7 +359,55 @@ class App:
         """
         Update the relevant index file to insert the new recipe.
         """
-        pass
+        with open(self.indexRst, 'r') as indexFile:
+            indexContents = indexFile.readlines()
+
+        header = []
+        footer = []
+        files = []
+
+        # Look for toctree
+        iLine = 0  # init at beginning
+        for iLine in range(iLine, len(indexContents)):
+            line = indexContents[iLine]
+            header.append(line)
+
+            if line == '.. toctree::':
+                break
+
+        # Now look for empty line
+        for iLine in range(iLine, len(indexContents)):
+            line = indexContents[iLine]
+            header.append(line)
+
+            if line == '':
+                break
+
+        # From here until empty line, it is list of files
+        for iLine in range(iLine, len(indexContents)):
+            line = indexContents[iLine]
+            files.append(line)
+
+            if line == '':
+                break
+
+        # Footer
+        for iLine in range(iLine, len(indexContents)):
+            line = indexContents[iLine]
+            footer.append(line)
+
+        # READING DONE
+
+        # Introduce new files and sort again
+        files.append('   {}'.format(self._results['basename']))
+        files.sort()
+
+        # Rewrite
+        with open(self.indexRst, 'w') as indexFile:
+            indexFile.write('\n'.join(header) + '\n')
+            indexFile.write('\n'.join(files) + '\n')
+            indexFile.write('\n'.join(footer) + '\n')
+            # FIXME be sure we did not loose blank lines
 
     def gitStageFiles(self) -> None:
         """
