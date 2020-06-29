@@ -11,8 +11,9 @@ TODO
    * Police tableau en-tete
    * itemize bullet
    * section number
-   * github
    * file.command: ouvrir, nouveau, sauver (www?)
+
+   * populate _templates
 
 
 Links:

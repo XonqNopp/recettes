@@ -9,6 +9,7 @@ import re
 from collections import OrderedDict
 from argparse import ArgumentParser
 import logging
+from subprocess import run
 from PySide2 import QtWidgets
 
 
@@ -290,6 +291,10 @@ class App:
     """
     Main app handling post-processing too.
     """
+    NEWLINE = '\n'
+
+    TEMPLATE_DIR = '_templates'
+
     def __init__(self):
         self._logger = logging.getLogger(self.__class__.__name__)
 
@@ -372,48 +377,58 @@ class App:
             line = indexContents[iLine]
             header.append(line)
 
-            if line == '.. toctree::':
+            if line == '.. toctree::{}'.format(self.NEWLINE):
                 break
 
         # Now look for empty line
-        for iLine in range(iLine, len(indexContents)):
+        for iLine in range(iLine + 1, len(indexContents)):
             line = indexContents[iLine]
             header.append(line)
 
-            if line == '':
+            if line == self.NEWLINE:
                 break
 
         # From here until empty line, it is list of files
-        for iLine in range(iLine, len(indexContents)):
+        for iLine in range(iLine + 1, len(indexContents)):
             line = indexContents[iLine]
             files.append(line)
 
-            if line == '':
+            if line == self.NEWLINE:
                 break
 
         # Footer
-        for iLine in range(iLine, len(indexContents)):
+        for iLine in range(iLine + 1, len(indexContents)):
             line = indexContents[iLine]
             footer.append(line)
 
         # READING DONE
 
         # Introduce new files and sort again
-        files.append('   {}'.format(self._results['basename']))
+        files.append('   {}{}'.format(self._results['basename'], self.NEWLINE))
         files.sort()
 
         # Rewrite
-        with open(self.indexRst, 'w') as indexFile:
-            indexFile.write('\n'.join(header) + '\n')
-            indexFile.write('\n'.join(files) + '\n')
-            indexFile.write('\n'.join(footer) + '\n')
-            # FIXME be sure we did not loose blank lines
+        with open(self.indexRst, 'w', newline=self.NEWLINE) as indexFile:
+            indexFile.write(''.join(header))
+            indexFile.write(''.join(files))
+            indexFile.write(''.join(footer))
 
     def gitStageFiles(self) -> None:
         """
         Stage touched files to git for the next commit.
         """
-        pass
+        command = ['git', 'add', self._results['filename'], self.indexRst]
+        self._logger.debug(' '.join(command))
+        run(command)
+
+    def confirm(self) -> None:
+        """
+        Confirm file is ready.
+        """
+        msgBox = QtWidgets.QMessageBox()
+        msgBox.setWindowTitle('Nouvelle recette prête')
+        msgBox.setText('La nouvelle recette peut maintenant être éditée dans:\n{}'.format(self._results['filename']))
+        msgBox.exec()
 
     def process(self) -> int:
         """
@@ -422,6 +437,8 @@ class App:
         self.createFile()
         self.updateIndex()
         self.gitStageFiles()
+
+        self.confirm()
 
         return self.exitCode
 
