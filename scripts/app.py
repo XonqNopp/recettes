@@ -204,10 +204,10 @@ class Recettes(QtWidgets.QDialog):
         self._logger.debug('REJECTED: empty title not allowed')
 
         msgBox = QtWidgets.QMessageBox()
+        msgBox.setWindowTitle('Titre manquant')
         msgBox.setText('Le titre ne peut pas etre vide')
         msgBox.exec()
 
-    # FIXME ask if want to use existing
     def confirmUseExistingFile(self, filename: str) -> bool:
         """
         Ask user if existing file is the one to use.
@@ -218,12 +218,16 @@ class Recettes(QtWidgets.QDialog):
         self._logger.debug('File {} exists, ask user confirmation to use it'.format(filename))
 
         msgBox = QtWidgets.QMessageBox()
+
         msgBox.setWindowTitle('{} existe...'.format(filename))
         msgBox.setText('Le fichier {} existe déjà. Est-ce bien celui que tu veux éditer?'.format(filename))
-        msgBox.setStandardButtons(QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
-        msgBox.setDefaultButton(QtWidgets.QMessageBox.Yes)
+
+        msgBox.setStandardButtons(msgBox.Yes | msgBox.No)
+        msgBox.setDefaultButton(msgBox.No)
+
         msgBox.exec()
-        # FIXME handle return value (clicked button)
+
+        return msgBox.result() == msgBox.Yes
 
     def accept(self) -> None:
         """
@@ -236,8 +240,7 @@ class Recettes(QtWidgets.QDialog):
             return
 
         filename = self.filename
-        if os.path.exists(filename):
-            self.confirmUseExistingFile(filename)
+        if os.path.exists(filename) and not self.confirmUseExistingFile(filename):
             return
 
         super().accept()
@@ -325,7 +328,24 @@ class App:
         """
         Create file from template (except if file exists).
         """
-        pass
+        if os.path.exists(self._results['filename']):
+            self._logger.debug('File already exists, skipping creation from template')
+            return
+
+        contents = ''
+
+        templateFilename = os.path.join(self.TEMPLATE_DIR, self._results['template'] + '.rst')
+        if self._results['template'] == 'aucun' or not os.path.exists(templateFilename):
+            self._logger.debug('No template available: {}'.format(templateFilename))
+
+        else:
+            self._logger.debug('Reading template: {}'.format(templateFilename))
+
+            with open(templateFilename, 'r') as template:
+                contents = template.read()
+
+        with open(self._results['filename'], 'w') as newFile:
+            newFile.write(contents)
 
     def updateIndex(self) -> None:
         """
@@ -357,8 +377,8 @@ def main() -> None:
     # Parser
     parser = ArgumentParser()
     parser.add_argument(
-        '-d',
-        '--debug',
+        '-v',
+        '--verbose',
         action='store_true',
         default=False,
     )
@@ -366,7 +386,7 @@ def main() -> None:
 
     # Logging
     logFormat = '%(asctime)s:%(levelname)s:%(funcName)s[%(lineno)d]:%(message)s'
-    if args.debug:
+    if args.verbose:
         logging.basicConfig(format=logFormat, level=logging.DEBUG)
     else:
         logging.basicConfig(format=logFormat, level=logging.INFO)
