@@ -1,5 +1,5 @@
 Quiche aux tomates
-==================
+##################
 
 Préparation
 30
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 **
 plaque à four
@@ -39,33 +39,33 @@ herbes aromatiques
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Mettre un peu de farine sur le plan de travail, étendre la pâte et la poser sur une plaque du four couverte de papier de cuisson.
-
-
-
-*   Mélanger la moutarde avec le concentré de tomates et en badigeonner la pâte.
+* Mettre un peu de farine sur le plan de travail, étendre la pâte et la poser sur une plaque du four couverte de papier de cuisson.
 
 
 
-*   Piquer ensuite avec une fourchette pour éviter la formation de bulles d’air.
+* Mélanger la moutarde avec le concentré de tomates et en badigeonner la pâte.
 
 
 
-*   Couper les tomates en rondelles de 1cm d’épais et les disposer sur la pâte.
+* Piquer ensuite avec une fourchette pour éviter la formation de bulles d’air.
 
 
 
-*   Dans un pot, battre les oaeufs, le lait, le sel et les épices.
+* Couper les tomates en rondelles de 1cm d’épais et les disposer sur la pâte.
 
 
 
-*   Verser le tout sur les tomates et bien répartir.
+* Dans un pot, battre les oaeufs, le lait, le sel et les épices.
 
 
 
-*   Cuire au four préchauffé à 200°C pendant 30 minutes.
+* Verser le tout sur les tomates et bien répartir.
+
+
+
+* Cuire au four préchauffé à 200°C pendant 30 minutes.
 
 
 

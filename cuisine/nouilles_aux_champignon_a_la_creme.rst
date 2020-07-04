@@ -1,5 +1,5 @@
 Nouilles aux champignons à la crème
-===================================
+###################################
 
 Préparation
 ??
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 **4 personnes**
@@ -56,37 +56,37 @@ ciboulettes fraîches (+ un peu pour la décoration)
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Hacher l’échalotte et l’ail. Ciseler la ciboulette.
-
-
-
-*   Sauter les chanterelles dans une poêle avec un peu d’huile d’olive bien chaude.
+* Hacher l’échalotte et l’ail. Ciseler la ciboulette.
 
 
 
-*   Rajouter l’échalotte et l’ail, et déglacer avec la Madère.
+* Sauter les chanterelles dans une poêle avec un peu d’huile d’olive bien chaude.
 
 
 
-*   Réduire, mouiller avec la crème, cuire une minute et retirer du feu.
+* Rajouter l’échalotte et l’ail, et déglacer avec la Madère.
 
 
 
-*   Mettre la ciboulette dans la sauce et rectifier l’assaisonnement.
+* Réduire, mouiller avec la crème, cuire une minute et retirer du feu.
 
 
 
-*   Chauffer les nouilles, bien les égoutter puis les mettre dans la sauce.
+* Mettre la ciboulette dans la sauce et rectifier l’assaisonnement.
 
 
 
-*   Mélanger et dresser dans une assiette creuse.
+* Chauffer les nouilles, bien les égoutter puis les mettre dans la sauce.
 
 
 
-*   Disposer quelques chanterelles sautées séparément et les branches de ciboulette autour de l’assiette.
+* Mélanger et dresser dans une assiette creuse.
+
+
+
+* Disposer quelques chanterelles sautées séparément et les branches de ciboulette autour de l’assiette.
 
 
 

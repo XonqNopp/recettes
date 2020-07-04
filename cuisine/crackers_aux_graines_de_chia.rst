@@ -1,5 +1,5 @@
 Crackers aux graines de Chia
-============================
+############################
 
 Préparation
 15
@@ -10,7 +10,7 @@ Cuisson
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 **
 plaque, environ 36 pièces
@@ -49,50 +49,50 @@ eau
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Mettre de côté 1 cs de graine de chia, courge et sésame, dans un même récipient
-
-
-
-*   Mélanger le reste des graines à la farine, aux flocons d’avoine et au sel.
+* Mettre de côté 1 cs de graine de chia, courge et sésame, dans un même récipient
 
 
 
-*   Ajouter l’huile et l’eau, mélanger
+* Mélanger le reste des graines à la farine, aux flocons d’avoine et au sel.
 
 
 
-*   Laisser reposer 10-15 minutes
+* Ajouter l’huile et l’eau, mélanger
 
 
 
-*   Préchauffer le four à 170°
+* Laisser reposer 10-15 minutes
+
+
+
+* Préchauffer le four à 170°
     C (A CONFIRMER)
 
 
 
-*   Verser la masse sur une plaque du four (sur du papier cuisson). Etaler de sorte à répartir la masse sur la plaque.
+* Verser la masse sur une plaque du four (sur du papier cuisson). Etaler de sorte à répartir la masse sur la plaque.
 
 
 
-*   Saupoudrer la préparation des graines mises de côté
+* Saupoudrer la préparation des graines mises de côté
 
 
 
-*   Mettre dans le four environ 15 minutes
+* Mettre dans le four environ 15 minutes
 
 
 
-*   Couper en petits rectangles
+* Couper en petits rectangles
 
 
 
-*   Remettre environ 50-60 minutes dans le four
+* Remettre environ 50-60 minutes dans le four
 
 
 
-*   Laisser refroidir
+* Laisser refroidir
 
 
 

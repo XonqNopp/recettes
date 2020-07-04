@@ -1,5 +1,5 @@
 Sauce bolognaise
-================
+################
 
 Préparation
 30
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -63,25 +63,25 @@ feuilles de laurier
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Peler l’oignon et le hacher.
-
-
-
-*   Chauffer une grande casserole, y mettre l’huile et faire revenir la viande et l’oignon.
+* Peler l’oignon et le hacher.
 
 
 
-*   Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le vin, puis l’eau, le bouillon et les tomates.
+* Chauffer une grande casserole, y mettre l’huile et faire revenir la viande et l’oignon.
 
 
 
-*   Bien mélanger et assaisonner avec le sel, un peu de poivre et les feuilles de laurier.
+* Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le vin, puis l’eau, le bouillon et les tomates.
 
 
 
-*   Laisser mijoter à feu doux au moins 30 minutes. Au besoin, rajouter de l’eau
+* Bien mélanger et assaisonner avec le sel, un peu de poivre et les feuilles de laurier.
+
+
+
+* Laisser mijoter à feu doux au moins 30 minutes. Au besoin, rajouter de l’eau
     **petit à petit**
     .
 

@@ -1,5 +1,5 @@
 Viande hachée
-=============
+#############
 
 Préparation
 10
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -47,25 +47,25 @@ eau
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Peler l’oignon et le hacher.
-
-
-
-*   Chauffer une grande casserole, y mettre un peu d’huile et faire revenir la viande et l’oignon en remuant bien.
+* Peler l’oignon et le hacher.
 
 
 
-*   Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le bouillon et l’eau.
+* Chauffer une grande casserole, y mettre un peu d’huile et faire revenir la viande et l’oignon en remuant bien.
 
 
 
-*   Bien remuer et assaisonner.
+* Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le bouillon et l’eau.
 
 
 
-*   Laisser mijoter 5 minutes à feu doux.
+* Bien remuer et assaisonner.
+
+
+
+* Laisser mijoter 5 minutes à feu doux.
 
 
 

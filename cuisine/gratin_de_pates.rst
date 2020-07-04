@@ -1,5 +1,5 @@
 Gratin de pâtes
-===============
+###############
 
 Préparation
 30
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -37,17 +37,17 @@ fromage râpé
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Cuire les pâtes (dans plusieurs casseroles si nécessaire)
-
-
-
-*   Tout mettre dans un plat à gratin.
+* Cuire les pâtes (dans plusieurs casseroles si nécessaire)
 
 
 
-*   Environ 30min au four à 200°C.
+* Tout mettre dans un plat à gratin.
+
+
+
+* Environ 30min au four à 200°C.
 
 
 

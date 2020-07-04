@@ -1,5 +1,5 @@
 Lait à la pomme
-===============
+###############
 
 Préparation
 10
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 1.5
 dl
@@ -27,9 +27,9 @@ miel
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Tout mélanger :-)
+* Tout mélanger :-)
 
 
 

@@ -1,5 +1,5 @@
 Glace sorbet au gingembre et au kiwi
-====================================
+####################################
 
 Préparation
 ??
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 **6 personnes**
@@ -40,25 +40,25 @@ kiwis
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Éplucher et râper finement le gingembre.
-
-
-
-*   Mettre le sucre et l’eau dans une casserole et chauffer doucement jusqu’à ce que le sucre ait fondu. Ajouter le gingembre, faire cuire une minute puis laisser refroidir, filtrer et réfrigérer.
+* Éplucher et râper finement le gingembre.
 
 
 
-*   Éplucher les kiwis et mixer pour obtenir une consistance lisse. Ajouter au sirop et bien mélanger.
+* Mettre le sucre et l’eau dans une casserole et chauffer doucement jusqu’à ce que le sucre ait fondu. Ajouter le gingembre, faire cuire une minute puis laisser refroidir, filtrer et réfrigérer.
 
 
 
-*   Verser le mélange dans un bac à glace et faire congeler 3 à 4 heures en brassant 2 fois.
+* Éplucher les kiwis et mixer pour obtenir une consistance lisse. Ajouter au sirop et bien mélanger.
 
 
 
-*   Conserver au congélateur jusqu’au moment de servir.
+* Verser le mélange dans un bac à glace et faire congeler 3 à 4 heures en brassant 2 fois.
+
+
+
+* Conserver au congélateur jusqu’au moment de servir.
 
 
 

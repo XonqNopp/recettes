@@ -1,5 +1,5 @@
 Tian de Saint-Jacques à la verveine
-===================================
+###################################
 
 Préparation
 20
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -39,37 +39,37 @@ vinaigre balsamique
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Rincer et égoutter les noix. Les trancher en trois dans le sens de l’épaisseur et les poser sur un plat.
-
-
-
-*   Prélever le jus des deux citrons verts. Dans un petit récipient, mélanger le jus des citrons et les feuilles de verveine ciselées.
+* Rincer et égoutter les noix. Les trancher en trois dans le sens de l’épaisseur et les poser sur un plat.
 
 
 
-*   Assaisonner avec le sel et le poivre.
+* Prélever le jus des deux citrons verts. Dans un petit récipient, mélanger le jus des citrons et les feuilles de verveine ciselées.
 
 
 
-*   Arroser les noix de ce jus.
+* Assaisonner avec le sel et le poivre.
 
 
 
-*   Couvrir d’un film alimentaire et laisser 30 minutes au réfrigérateur.
+* Arroser les noix de ce jus.
 
 
 
-*   Sur des assiettes, disposer les noix en rosace.
+* Couvrir d’un film alimentaire et laisser 30 minutes au réfrigérateur.
 
 
 
-*   Arroser l’ensemble avec la marinade.
+* Sur des assiettes, disposer les noix en rosace.
 
 
 
-*   Décorer avec les feuilles de verveine fraı̂che.
+* Arroser l’ensemble avec la marinade.
+
+
+
+* Décorer avec les feuilles de verveine fraı̂che.
 
 
 

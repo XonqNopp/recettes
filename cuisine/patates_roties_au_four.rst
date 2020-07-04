@@ -1,5 +1,5 @@
 Patates rôties au four
-======================
+######################
 
 Préparation
 20
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -39,21 +39,21 @@ sel
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Couper les pommes de terre en 2.
-
-
-
-*   Badigeonner la face coupée des pommes de terre d’huile d’olive et les placer sur une plaque.
+* Couper les pommes de terre en 2.
 
 
 
-*   Enduire le dos des pommes de terre d’huile et de sel.
+* Badigeonner la face coupée des pommes de terre d’huile d’olive et les placer sur une plaque.
 
 
 
-*   Mettre au four chauffé à
+* Enduire le dos des pommes de terre d’huile et de sel.
+
+
+
+* Mettre au four chauffé à
     200
     °C pendant 30 minutes.
 

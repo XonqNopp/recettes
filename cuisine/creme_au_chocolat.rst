@@ -1,5 +1,5 @@
 Crème au chocolat
-=================
+#################
 
 Préparation
 15
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -39,45 +39,45 @@ lait
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Dans un grand plat, mélanger au fouet le sucre et la maı̈zena.
-
-
-
-*   Dans une grande casserole en téflon, verser le lait et le chocolat, porter à ébullition.
+* Dans un grand plat, mélanger au fouet le sucre et la maı̈zena.
 
 
 
-*   Quand le lait bout, le verser dans le plat en fouettant énergiquement.
+* Dans une grande casserole en téflon, verser le lait et le chocolat, porter à ébullition.
 
 
 
-*   Laver la casserole et remettre la crème dans la casserole, puis remettre sur le feu
+* Quand le lait bout, le verser dans le plat en fouettant énergiquement.
 
 
 
-*   sans arrêter de remuer.
+* Laver la casserole et remettre la crème dans la casserole, puis remettre sur le feu
 
 
 
-*   Au premier signe d’ébullition, retirer immédiatemment du feu et verser la crème
+* sans arrêter de remuer.
 
 
 
-*   dans un plat propre.
+* Au premier signe d’ébullition, retirer immédiatemment du feu et verser la crème
 
 
 
-*   S’il y a des grumeaux, passer la crème dans une passoire immédiatemment.
+* dans un plat propre.
 
 
 
-*   Laisser refroidir en remuant de temps en temps avant de mettre au frigo.
+* S’il y a des grumeaux, passer la crème dans une passoire immédiatemment.
 
 
 
-*   Si la crème est trop épaisse une fois refroidie, la diluer avec du lait frois selon l’envie.
+* Laisser refroidir en remuant de temps en temps avant de mettre au frigo.
+
+
+
+* Si la crème est trop épaisse une fois refroidie, la diluer avec du lait frois selon l’envie.
 
 
 

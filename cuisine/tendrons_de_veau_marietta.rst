@@ -1,5 +1,5 @@
 Tendrons de veau Marietta
-=========================
+#########################
 
 Préparation
 XX
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -69,68 +69,68 @@ bouquet de persil haché
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Assaisonner la viande.
-
-
-
-*   Fariner les tendrons, secouer pour faire tomber l’excès.
+* Assaisonner la viande.
 
 
 
-*   Chauffer un peu d’huile dans une poêle, ajouter la viande, faire prendre de couleur de part et d’autre.
+* Fariner les tendrons, secouer pour faire tomber l’excès.
 
 
 
-*   Ajouter l’oignon et l’ail et laisser légèrement dorer.
+* Chauffer un peu d’huile dans une poêle, ajouter la viande, faire prendre de couleur de part et d’autre.
 
 
 
-*   Mouiller le vin blanc, donner en bouilon.
+* Ajouter l’oignon et l’ail et laisser légèrement dorer.
 
 
 
-*   Ajouter le bouillon petit à petit et laisser mijoter pendant 40-50 minutes.
+* Mouiller le vin blanc, donner en bouilon.
 
 
 
-*   Retirer les tendrons et les dresser sur le plat de service.
+* Ajouter le bouillon petit à petit et laisser mijoter pendant 40-50 minutes.
 
 
 
-*   Laissez reposer...
+* Retirer les tendrons et les dresser sur le plat de service.
 
 
 
-*   Réchauffer la viande doucement et la dresser sur un plat chaud, terminer la sauce.
+* Laissez reposer...
 
 
 
-*   Mélanger la crème, les jaunes d’oeufs, le parmesan et le persil au fouet et ajouter à la sauce en remuant constamment, chauffer sans cuire.
+* Réchauffer la viande doucement et la dresser sur un plat chaud, terminer la sauce.
 
 
 
-*   Rectifier l’assaisonnement, verser sur la viande.
+* Mélanger la crème, les jaunes d’oeufs, le parmesan et le persil au fouet et ajouter à la sauce en remuant constamment, chauffer sans cuire.
 
 
 
-*   Garder le plat prêt à servir au four à 50°C en prenant soin de le couvrir d’une feuille d’aluminium.
+* Rectifier l’assaisonnement, verser sur la viande.
+
+
+
+* Garder le plat prêt à servir au four à 50°C en prenant soin de le couvrir d’une feuille d’aluminium.
 
 
 
 
 Variantes
-~~~~~~~~~
+=========
 
-*   Remplacer l’origan par un mélange d’épices italiennes.
-
-
-
-*   Remplacer la demi-crème par de la demi-crème aigre.
+* Remplacer l’origan par un mélange d’épices italiennes.
 
 
 
-*   Les tranches de jarret de veau se préparent de la même manière (cuisson : environ 1h30).
+* Remplacer la demi-crème par de la demi-crème aigre.
+
+
+
+* Les tranches de jarret de veau se préparent de la même manière (cuisson : environ 1h30).
 
 

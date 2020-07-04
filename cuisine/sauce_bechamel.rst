@@ -1,5 +1,5 @@
 Sauce béchamel
-==============
+##############
 
 Préparation
 5
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 Beurre
 
@@ -27,18 +27,18 @@ noix de muscade en poudre
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   F
+* F
     aire fondre le beurre.
 
 
 
-*   Ajouter la farine et mélanger.
+* Ajouter la farine et mélanger.
 
 
 
-*   Ajouter le lait et les épices.
+* Ajouter le lait et les épices.
 
 
 

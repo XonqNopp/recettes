@@ -1,5 +1,5 @@
 Jambon au Madère
-================
+################
 
 Préparation
 10
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -59,21 +59,21 @@ poivre
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Rouler les tranches de jambon et les disposer dans un plat à gratin.
-
-
-
-*   Dans un pot, mélanger le concentré de tomates avec les tomates, la crème et le Madère, puis assaisonner.
+* Rouler les tranches de jambon et les disposer dans un plat à gratin.
 
 
 
-*   Verser sur le jambon.
+* Dans un pot, mélanger le concentré de tomates avec les tomates, la crème et le Madère, puis assaisonner.
 
 
 
-*   Cuire au four préchauffé à
+* Verser sur le jambon.
+
+
+
+* Cuire au four préchauffé à
     20
     0°C pendant 15-20 minutes.
 

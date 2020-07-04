@@ -1,5 +1,5 @@
 Salade de riz
-=============
+#############
 
 Préparation
 20
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -55,25 +55,25 @@ sauce à salade
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Préparer le riz et le laisser refroidir.
-
-
-
-*   Préparer la sauce à salade.
+* Préparer le riz et le laisser refroidir.
 
 
 
-*   Épépiner les poivrons.
+* Préparer la sauce à salade.
 
 
 
-*   Couper les poivrons, les tomates et les cornichons en dés de 5mm.
+* Épépiner les poivrons.
 
 
 
-*   Mettre dans la sauce le riz, les légumes, le maı̈s, le thon, les petits pois-carottes et les petits oignons, puis bien mélanger.
+* Couper les poivrons, les tomates et les cornichons en dés de 5mm.
+
+
+
+* Mettre dans la sauce le riz, les légumes, le maı̈s, le thon, les petits pois-carottes et les petits oignons, puis bien mélanger.
 
 
 

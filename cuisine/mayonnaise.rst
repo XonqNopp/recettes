@@ -1,5 +1,5 @@
 Mayonnaise
-==========
+##########
 
 Préparation
 15
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 1
 œuf
@@ -26,33 +26,33 @@ jus de citron
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Séparer le blanc d’oeuf du jaune.
-
-
-
-*   Mettre le jaune dans un saladier.
+* Séparer le blanc d’oeuf du jaune.
 
 
 
-*   Ajouter la moutarde, le sel, le poivre et mélanger.
+* Mettre le jaune dans un saladier.
 
 
 
-*   Ajouter l’huile peu à peu tout en mélangeant.
+* Ajouter la moutarde, le sel, le poivre et mélanger.
 
 
 
-*   Battre le blanc en neige avec une pincée de sel.
+* Ajouter l’huile peu à peu tout en mélangeant.
 
 
 
-*   Ajouter le blanc battu petit à petit en remuant à la main.
+* Battre le blanc en neige avec une pincée de sel.
 
 
 
-*   Ajouter le jus de citron.
+* Ajouter le blanc battu petit à petit en remuant à la main.
+
+
+
+* Ajouter le jus de citron.
 
 
 

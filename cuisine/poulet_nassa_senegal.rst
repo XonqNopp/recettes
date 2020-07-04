@@ -1,5 +1,5 @@
 Poulet Nassa (Sénégal)
-======================
+######################
 
 Préparation
 30
@@ -12,7 +12,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -42,19 +42,19 @@ gousses d’ail
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
 La veille, préparer la marinade :
 
-*   Peler et couper les oignons en fines tranches, laver et couper en tronçons le piment.
+* Peler et couper les oignons en fines tranches, laver et couper en tronçons le piment.
 
 
 
-*   Mettre le tout dans un saladier, verser le jus des citrons, ajouter l’ail, saler et poivrer, bien remuer.
+* Mettre le tout dans un saladier, verser le jus des citrons, ajouter l’ail, saler et poivrer, bien remuer.
 
 
 
-*   Mettre les morceaux de poulet dans cette marinade en les retournant pour qu’ils soient bien imprégnés de toutes parts.
+* Mettre les morceaux de poulet dans cette marinade en les retournant pour qu’ils soient bien imprégnés de toutes parts.
 
 
 
@@ -62,21 +62,21 @@ La veille, préparer la marinade :
 Laisser reposer au moins 12 heures.
 
 
-*   Retirer le poulet de la marinade.
+* Retirer le poulet de la marinade.
 
 
 
-*   Faire chauffer
+* Faire chauffer
     un peu d
     ’huile dans une cocotte et y mettre les morceaux de poulet à dorer en les retournant.
 
 
 
-*   Verser la marinade dans la cocotte.
+* Verser la marinade dans la cocotte.
 
 
 
-*   Laisser cuire à feu doux 40 minutes.
+* Laisser cuire à feu doux 40 minutes.
 
 
 

@@ -1,5 +1,5 @@
 Tartelettes a la raisinée
-=========================
+#########################
 
 Préparation
 7
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 1
 dl
@@ -30,9 +30,9 @@ grain de sel
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Tout mélanger puis cuire 2-3 minutes. Laisser refroidir.
+* Tout mélanger puis cuire 2-3 minutes. Laisser refroidir.
 
 
 

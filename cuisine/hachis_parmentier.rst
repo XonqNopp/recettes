@@ -1,5 +1,5 @@
 Hachis parmentier
-=================
+#################
 
 Préparation
 20
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -39,21 +39,21 @@ beurre
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Préparer la purée de pommes de terre et la viande hachée.
-
-
-
-*   Dans un grand plat à gratin, répartir la viande hachée et recouvrir avec la purée de pommes de terre.
+* Préparer la purée de pommes de terre et la viande hachée.
 
 
 
-*   Saupoudrer avec le fromage et répartir une dizaine de flocons de beurre.
+* Dans un grand plat à gratin, répartir la viande hachée et recouvrir avec la purée de pommes de terre.
 
 
 
-*   Mettre dans le four préchauffé à 200°C pendant 30 minutes.
+* Saupoudrer avec le fromage et répartir une dizaine de flocons de beurre.
+
+
+
+* Mettre dans le four préchauffé à 200°C pendant 30 minutes.
 
 
 

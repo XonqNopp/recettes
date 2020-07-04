@@ -1,5 +1,5 @@
 Glace au citron à la cardamome
-==============================
+##############################
 
 Préparation
 ??
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 **6 personnes**
@@ -56,37 +56,37 @@ crème
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Mettre les gousses de cardamone dans un mortier et les piler pour faire éclater les graines.
-
-
-
-*   Mettre dans un saladier les jaunes d’œufs, le sucre, la maı̈zena, les zestes et le jus des citrons. Ajouter les graines et bien fouetter.
+* Mettre les gousses de cardamone dans un mortier et les piler pour faire éclater les graines.
 
 
 
-*   Porter le lait à ébullition dans une casserole à fond épais puis le verser dans le saladier en remuant bien.
+* Mettre dans un saladier les jaunes d’œufs, le sucre, la maı̈zena, les zestes et le jus des citrons. Ajouter les graines et bien fouetter.
 
 
 
-*   Remettre le mélange à chauffer très doucement jusqu’à ce qu’il ait épaissi.
+* Porter le lait à ébullition dans une casserole à fond épais puis le verser dans le saladier en remuant bien.
 
 
 
-*   Verser cette crème anglaise dans un saladier, couvrir avec un papier sulfurisé et laisser refroidir. Faire bien réfrigérer.
+* Remettre le mélange à chauffer très doucement jusqu’à ce qu’il ait épaissi.
 
 
 
-*   Fouetter la crème légèrement et incorporer la crème anglaise.
+* Verser cette crème anglaise dans un saladier, couvrir avec un papier sulfurisé et laisser refroidir. Faire bien réfrigérer.
 
 
 
-*   Verser dans un bac à galce et faire congeler 3 à 4 heures en brassant 2 fois.
+* Fouetter la crème légèrement et incorporer la crème anglaise.
 
 
 
-*   Placer au réfrigérateur 30 minutes avant de servir dans des verres.
+* Verser dans un bac à galce et faire congeler 3 à 4 heures en brassant 2 fois.
+
+
+
+* Placer au réfrigérateur 30 minutes avant de servir dans des verres.
 
 
 

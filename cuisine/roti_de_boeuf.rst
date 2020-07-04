@@ -1,5 +1,5 @@
 Rôti de bœuf
-============
+############
 
 Préparation
 30
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -61,41 +61,41 @@ carottes
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Peler les oignons et les couper en deux, en laisser deux de côtés et couper le reste en tronçon de 2cm.
-
-
-
-*   Peler les carottes et les couper en rondelles de 2cm.
+* Peler les oignons et les couper en deux, en laisser deux de côtés et couper le reste en tronçon de 2cm.
 
 
 
-*   Chauffer une cocotte, y mettre un peu d’huile et faire fôtir la viande.
+* Peler les carottes et les couper en rondelles de 2cm.
 
 
 
-*   Mouiller avec le vin et le bouillon dilué dans l’eau.
+* Chauffer une cocotte, y mettre un peu d’huile et faire fôtir la viande.
 
 
 
-*   Ajouter du sel, un peu de poivre, les herbes.
+* Mouiller avec le vin et le bouillon dilué dans l’eau.
 
 
 
-*   Fixer les feuilles de laurier avec les clous de girofles chacune sur un demi-oignon resté intact.
+* Ajouter du sel, un peu de poivre, les herbes.
 
 
 
-*   Ajouter les carottes et les oignons.
+* Fixer les feuilles de laurier avec les clous de girofles chacune sur un demi-oignon resté intact.
 
 
 
-*   Laisser mijoter avec le couvercle à feu doux au moins 90 minutes tout en tournant la viande toutes les 20 minutes environ.
+* Ajouter les carottes et les oignons.
 
 
 
-*   Au besoin, rajouter un peu d’eau
+* Laisser mijoter avec le couvercle à feu doux au moins 90 minutes tout en tournant la viande toutes les 20 minutes environ.
+
+
+
+* Au besoin, rajouter un peu d’eau
     **petit à petit**
     .
 

@@ -1,5 +1,5 @@
 Filet mignon en croûte
-======================
+######################
 
 Préparation
 30
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -61,33 +61,33 @@ herbes aromatiques
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Faire tremper les champignons dans de l’eau tiède.
-
-
-
-*   Chauffer une grande poêle, y mettre un peu d’huile et dorer la viande sur toutes ses faces.
+* Faire tremper les champignons dans de l’eau tiède.
 
 
 
-*   Étendre la pâte sur un peu de farine en un rectangle plus long de 20cm que le filet mignon, d’environ 30cm de large.
+* Chauffer une grande poêle, y mettre un peu d’huile et dorer la viande sur toutes ses faces.
 
 
 
-*   Badigeonner de moutarde, y déposer les tanches de lard dans le sens de la hauteur.
+* Étendre la pâte sur un peu de farine en un rectangle plus long de 20cm que le filet mignon, d’environ 30cm de large.
 
 
 
-*   Poser le filet mignon, saupoudrer avec le sel, assaisonner et répartir les champignons égouttés.
+* Badigeonner de moutarde, y déposer les tanches de lard dans le sens de la hauteur.
 
 
 
-*   Fermer la pâte, replier les deux bouts. Si nécessaire, coller avec de la moutarde.
+* Poser le filet mignon, saupoudrer avec le sel, assaisonner et répartir les champignons égouttés.
 
 
 
-*   Mettre au four préchauffé à
+* Fermer la pâte, replier les deux bouts. Si nécessaire, coller avec de la moutarde.
+
+
+
+* Mettre au four préchauffé à
     200°
     C pendant environ 40 minutes.
 
@@ -95,7 +95,7 @@ Préparation
 
 
 Suggestion
-~~~~~~~~~~
+==========
 
 Pour que la viande ne soit pas trop sèche en bouche, on peut accompagner avec une sauce moutarde.
 

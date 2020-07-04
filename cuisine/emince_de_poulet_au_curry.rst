@@ -1,5 +1,5 @@
 Emincé de poulet au curry (ou Curry de poulet)
-==============================================
+##############################################
 
 Préparation
 20
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -83,37 +83,37 @@ noix de cajou
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Chauffer une poêle, y faire griller les noix de cajou. Quand elles sont grillées, les mettre de côté.
-
-
-
-*   Mettre un peu d’huile dans la poêle et faire revenir la viande et l’oignon en remuant bien.
+* Chauffer une poêle, y faire griller les noix de cajou. Quand elles sont grillées, les mettre de côté.
 
 
 
-*   Quand la viande est bien rôtie, saupoudrer avec la farine, bien mélanger et ajouter immédiatemment le bouillon.
+* Mettre un peu d’huile dans la poêle et faire revenir la viande et l’oignon en remuant bien.
 
 
 
-*   Bien mélanger le tout et assaisonner avec du sel, un peu de poivre et le curry.
+* Quand la viande est bien rôtie, saupoudrer avec la farine, bien mélanger et ajouter immédiatemment le bouillon.
 
 
 
-*   Ajouter les raisins secs.
+* Bien mélanger le tout et assaisonner avec du sel, un peu de poivre et le curry.
 
 
 
-*   Laisser mijoter environ 15 minutes à feu moyen. Au besoin, rajouter un petit peu d’eau.
+* Ajouter les raisins secs.
 
 
 
-*   Ajouter la crème et laisser encore 5 minutes sur le feu.
+* Laisser mijoter environ 15 minutes à feu moyen. Au besoin, rajouter un petit peu d’eau.
 
 
 
-*   Ajouter l’ananas et les noix de cajou.
+* Ajouter la crème et laisser encore 5 minutes sur le feu.
+
+
+
+* Ajouter l’ananas et les noix de cajou.
 
 
 

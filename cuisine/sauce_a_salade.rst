@@ -1,5 +1,5 @@
 Sauce à salade
-==============
+##############
 
 Préparation
 10
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients (5dl)
-~~~~~~~~~~~~~~~~~
+=================
 
 1
 oignon
@@ -45,9 +45,9 @@ lait
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Tout mélanger
+* Tout mélanger
 
 
 

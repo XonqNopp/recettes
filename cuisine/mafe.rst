@@ -1,5 +1,5 @@
 Mafé (Sénégal)
-==============
+##############
 
 Préparation
 30
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -77,57 +77,57 @@ feuilles de laurier
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Eplucher et laver les légumes.
-
-
-
-*   Couper les patates douces, les pommes de terre et les navets en deux, les carottes en 3 ou 4.
+* Eplucher et laver les légumes.
 
 
 
-*   Émincer le chou.
+* Couper les patates douces, les pommes de terre et les navets en deux, les carottes en 3 ou 4.
 
 
 
-*   Peler et émincer l’ail.
+* Émincer le chou.
 
 
 
-*   Délayer le concentré de tomates dans un peu d’eau.
+* Peler et émincer l’ail.
 
 
 
-*   Couper la viande en douze morceaux (deux par personnes).
+* Délayer le concentré de tomates dans un peu d’eau.
 
 
 
-*   Faire chauffer un peu d’huile dans une grande cocotte et y mettre les morceaux de viande à dorer pendant 5 minutes avec les oignongs, le piment, le laurier et l’ail.
+* Couper la viande en douze morceaux (deux par personnes).
 
 
 
-*   Ajouter le concentré de tomates et la pâte d’arachide également délayée dans un peu d’eau.
+* Faire chauffer un peu d’huile dans une grande cocotte et y mettre les morceaux de viande à dorer pendant 5 minutes avec les oignongs, le piment, le laurier et l’ail.
 
 
 
-*   Verser 1.5 litres d’eau dans la cocotte.
+* Ajouter le concentré de tomates et la pâte d’arachide également délayée dans un peu d’eau.
 
 
 
-*   Laisser cuire doucement pendant 30 minutes sans couvrir.
+* Verser 1.5 litres d’eau dans la cocotte.
 
 
 
-*   Ajouter les légumes et laisser cuire à nouveau 30 minutes.
+* Laisser cuire doucement pendant 30 minutes sans couvrir.
 
 
 
-*   Remuer souvent afin que la pâte d’arachide n’attache pas au fond.
+* Ajouter les légumes et laisser cuire à nouveau 30 minutes.
 
 
 
-*   Servir chaud avec du riz blanc.
+* Remuer souvent afin que la pâte d’arachide n’attache pas au fond.
+
+
+
+* Servir chaud avec du riz blanc.
 
 
 

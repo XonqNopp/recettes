@@ -1,5 +1,5 @@
 Ratatouille
-===========
+###########
 
 Préparation
 45
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -43,37 +43,37 @@ herbes aromatiques
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Couper l’aubergine en morceaux d’un ou 2 cm environ.
-
-
-
-*   Peler et couper les courgettes en rondelles d’un cm d’épaisseur.
+* Couper l’aubergine en morceaux d’un ou 2 cm environ.
 
 
 
-*   Épépiner les poivrons et les couper comme l’aubergine.
+* Peler et couper les courgettes en rondelles d’un cm d’épaisseur.
 
 
 
-*   Couper les tomates en 8.
+* Épépiner les poivrons et les couper comme l’aubergine.
 
 
 
-*   Chauffer une grande casserole et y mettre un peu d’huile.
+* Couper les tomates en 8.
 
 
 
-*   Mettre les légumes sauf les tomates et bien mélanger pour que rien ne brûle.
+* Chauffer une grande casserole et y mettre un peu d’huile.
 
 
 
-*   Ajouter les tomates et assaisonner.
+* Mettre les légumes sauf les tomates et bien mélanger pour que rien ne brûle.
 
 
 
-*   Laisser mijoter au moins 30 minutes à feu moyen.
+* Ajouter les tomates et assaisonner.
+
+
+
+* Laisser mijoter au moins 30 minutes à feu moyen.
 
 
 

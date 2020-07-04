@@ -1,5 +1,5 @@
 Papet vaudois
-=============
+#############
 
 Préparation
 20
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -72,65 +72,65 @@ lait
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
 **Les saucissons**
 
-*   Mettre à chauffer une grande casserole pleine d’eau.
+* Mettre à chauffer une grande casserole pleine d’eau.
 
 
 
-*   Quand l’eau bout, y plonger les saucisses auxquelles on aura préalablement fait plein de petits trous avec la pointe d’un couteau afin que la graisse s’évacue.
+* Quand l’eau bout, y plonger les saucisses auxquelles on aura préalablement fait plein de petits trous avec la pointe d’un couteau afin que la graisse s’évacue.
 
 
 
-*   Laisser mijoter les saucisses dans l’eau frémissante durant 1 heure.
+* Laisser mijoter les saucisses dans l’eau frémissante durant 1 heure.
 
 
 
 
 **Les légumes**
 
-*   Couper les poireaux en 2, les laver et les couper en rondelles.
+* Couper les poireaux en 2, les laver et les couper en rondelles.
 
 
 
-*   Peler les pommes de terre et les couper en huit.
+* Peler les pommes de terre et les couper en huit.
 
 
 
-*   Dans une grande casserole, chauffer l’eau avec le bouillon.
+* Dans une grande casserole, chauffer l’eau avec le bouillon.
 
 
 
-*   Quand l’eau bout, y mettre les légumes et baisser le feu, laisser cuire environ 20 minutes à couvert.
+* Quand l’eau bout, y mettre les légumes et baisser le feu, laisser cuire environ 20 minutes à couvert.
 
 
 
-*   Vérifier la cuisson en piquant un morceau avec un couteau.
+* Vérifier la cuisson en piquant un morceau avec un couteau.
 
 
 
-*   Si les légumes sont tendres mais encore croquant, les égoutter et les mettre dans un plat
+* Si les légumes sont tendres mais encore croquant, les égoutter et les mettre dans un plat
 
 
 
 
 **La sauce béchamel**
 
-*   Dans une casserole en Teflon, chauffer l’huile et le bouillon.
+* Dans une casserole en Teflon, chauffer l’huile et le bouillon.
 
 
 
-*   Y verser la farine et bien mélanger.
+* Y verser la farine et bien mélanger.
 
 
 
-*   Quand le mélange frémit, verser le lait tout en mélangeant au fouet.
+* Quand le mélange frémit, verser le lait tout en mélangeant au fouet.
 
 
 
-*   Cuire à feu doux tout en fouettant jusqu’à la consistance désirée.
+* Cuire à feu doux tout en fouettant jusqu’à la consistance désirée.
 
 
 

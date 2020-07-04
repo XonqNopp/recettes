@@ -1,5 +1,5 @@
 Tartelettes au citron
-=====================
+#####################
 
 Préparation
 10
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 **?? personnes**
@@ -32,25 +32,25 @@ oeufs
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Râper les zestes des citrons, puis les presser pour en récolter le jus.
-
-
-
-*   Dans un petit plat, mélanger le sucre, les œufs battus et le jus et le zeste des citrons.
+* Râper les zestes des citrons, puis les presser pour en récolter le jus.
 
 
 
-*   Dans une casserole, faire fondre le beurre à feu vif puis ajouter le contenu du plat.
+* Dans un petit plat, mélanger le sucre, les œufs battus et le jus et le zeste des citrons.
 
 
 
-*   Baisser légèrement le feu et remuer jusqu’à ce que le mélange s’épaississe.
+* Dans une casserole, faire fondre le beurre à feu vif puis ajouter le contenu du plat.
 
 
 
-*   Verser dans un plat et mettre à refroidir 10min avant de remplir les tartelettes.
+* Baisser légèrement le feu et remuer jusqu’à ce que le mélange s’épaississe.
+
+
+
+* Verser dans un plat et mettre à refroidir 10min avant de remplir les tartelettes.
 
 
 

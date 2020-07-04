@@ -1,5 +1,5 @@
 Gratin dauphinois
-=================
+#################
 
 Préparation
 45
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -59,17 +59,17 @@ herbes aromatiques
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Peler les pommes de terre et l’oignon, puis les râper en rondelles de 1mm.
-
-
-
-*   Peler l’ail et le hacher.
+* Peler les pommes de terre et l’oignon, puis les râper en rondelles de 1mm.
 
 
 
-*   Dans un grand plat à gratin (tiens donc !) graissé avec l’huile, répartir les ingrédients en couche selon l’ordre suivant :
+* Peler l’ail et le hacher.
+
+
+
+* Dans un grand plat à gratin (tiens donc !) graissé avec l’huile, répartir les ingrédients en couche selon l’ordre suivant :
 
     *   Pommes de terre
 
@@ -93,19 +93,19 @@ Préparation
 
 
 
-*   Terminer avec une couche de pommes de terre.
+* Terminer avec une couche de pommes de terre.
 
 
 
-*   Verser le bouillon préalablement dilué dans l’eau chaude, saupoudrer de condiments et de fromage, puis couvrir de papier d’aluminium.
+* Verser le bouillon préalablement dilué dans l’eau chaude, saupoudrer de condiments et de fromage, puis couvrir de papier d’aluminium.
 
 
 
-*   Mettre au four préchauffé à 200°C pendant 30 minutes.
+* Mettre au four préchauffé à 200°C pendant 30 minutes.
 
 
 
-*   • Ôter le papier d’alu, verser la crème et cuire encore 30 minutes.
+* • Ôter le papier d’alu, verser la crème et cuire encore 30 minutes.
 
 
 

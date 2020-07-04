@@ -1,5 +1,5 @@
 Gratin valaisan
-===============
+###############
 
 Préparation
 ??
@@ -12,7 +12,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -56,41 +56,41 @@ demi-crème
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Couper en tranches le pain et les tomates, ainsi que la moitié du fromage en épaisseur d’environ 1/2cm, râper grossièrement l’autre moitié.
-
-
-
-*   Disposer environ la moitié du pain dans un plat à gratin graissé, l’arroser d’environ 1/2dl de vin.
+* Couper en tranches le pain et les tomates, ainsi que la moitié du fromage en épaisseur d’environ 1/2cm, râper grossièrement l’autre moitié.
 
 
 
-*   Répartir la moitié des tomates sur le pain.
+* Disposer environ la moitié du pain dans un plat à gratin graissé, l’arroser d’environ 1/2dl de vin.
 
 
 
-*   Saupoudrer les tomates de l’assaisonnement (y compris sel poivre).
+* Répartir la moitié des tomates sur le pain.
 
 
 
-*   Répartir le fromage coupé sur les tomates.
+* Saupoudrer les tomates de l’assaisonnement (y compris sel poivre).
 
 
 
-*   Répartir le reste du pain, arroser de 1/2dl de vin et répartir le reste des tomates.
+* Répartir le fromage coupé sur les tomates.
 
 
 
-*   Parsemer du fromage râpé.
+* Répartir le reste du pain, arroser de 1/2dl de vin et répartir le reste des tomates.
 
 
 
-*   Pour la liaison, mélanger au fouet le vin restant, la crème, les œufs, 1/4 cc de sel, un peu de poivre et une pointe de couteau de poivre de Cayenne.
+* Parsemer du fromage râpé.
 
 
 
-*   Verser dans la plat et faire cuire 40-45 minutes au milieu du four préchauffé à 200°C.
+* Pour la liaison, mélanger au fouet le vin restant, la crème, les œufs, 1/4 cc de sel, un peu de poivre et une pointe de couteau de poivre de Cayenne.
+
+
+
+* Verser dans la plat et faire cuire 40-45 minutes au milieu du four préchauffé à 200°C.
 
 
 

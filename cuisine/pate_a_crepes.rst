@@ -1,5 +1,5 @@
 Pâte à crêpes
-=============
+#############
 
 Préparation
 10
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -49,17 +49,17 @@ oeufs
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Dans un grand saladier, verser le lait et l’eau.
-
-
-
-*   Ajouter les œufs, le sel, le sucre et l’huile.
+* Dans un grand saladier, verser le lait et l’eau.
 
 
 
-*   Verser gentiment la farine tout en fouettant jusqu’à ce qu’il n’y ait presque plus de grumeaux.
+* Ajouter les œufs, le sel, le sucre et l’huile.
+
+
+
+* Verser gentiment la farine tout en fouettant jusqu’à ce qu’il n’y ait presque plus de grumeaux.
 
 
 

@@ -1,5 +1,5 @@
 Parmentier de volaille de Bresse
-================================
+################################
 
 Préparation
 25
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -61,37 +61,37 @@ Gruyère râpé
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Éplucher les pommes de terre.
-
-
-
-*   Dans une casserole d’eau salée bouillante, faire cuire les pommes de terre avec l’ail pendant 35 à 40 minutes, jusqu’à ce qu’elles soient suffisamment cuites pour en faire une purée.
+* Éplucher les pommes de terre.
 
 
 
-*   Les égoutter et les passer au moulin à légumes, puis ajouter le beurre et le lait, et assaisonner.
+* Dans une casserole d’eau salée bouillante, faire cuire les pommes de terre avec l’ail pendant 35 à 40 minutes, jusqu’à ce qu’elles soient suffisamment cuites pour en faire une purée.
 
 
 
-*   Pendant ce temps, faire cuire les blancs de volaille.
+* Les égoutter et les passer au moulin à légumes, puis ajouter le beurre et le lait, et assaisonner.
 
 
 
-*   Ajouter les truffes taillées en fines lamelles.
+* Pendant ce temps, faire cuire les blancs de volaille.
 
 
 
-*   Ajouter la purée, rectifier l’assaisonnement et mélanger délicatement.
+* Ajouter les truffes taillées en fines lamelles.
 
 
 
-*   Verser dans un plat à gratin.
+* Ajouter la purée, rectifier l’assaisonnement et mélanger délicatement.
 
 
 
-*   Recouvrir avec le Gruyère râpé, puis faire gratiner pendant 15 minutes au four à 220°C.
+* Verser dans un plat à gratin.
+
+
+
+* Recouvrir avec le Gruyère râpé, puis faire gratiner pendant 15 minutes au four à 220°C.
 
 
 

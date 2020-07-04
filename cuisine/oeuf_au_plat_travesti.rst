@@ -1,5 +1,5 @@
 Oeuf au plat travesti
-=====================
+#####################
 
 Préparation
 15
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 1/2
 abricot ou pêche
@@ -22,21 +22,21 @@ cannelle
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Dans une assiette à dessert, mettre au centre les biscuits.
-
-
-
-*   Répartir le yogurt en couvrant les biscuits.
+* Dans une assiette à dessert, mettre au centre les biscuits.
 
 
 
-*   Poser délicatement le demi abricot face bombée dessus.
+* Répartir le yogurt en couvrant les biscuits.
 
 
 
-*   Saupoudrer de cannelle.
+* Poser délicatement le demi abricot face bombée dessus.
+
+
+
+* Saupoudrer de cannelle.
 
 
 

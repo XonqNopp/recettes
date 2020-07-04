@@ -1,5 +1,5 @@
 Ragoût de bœuf
-==============
+##############
 
 Préparation
 20
@@ -11,7 +11,7 @@ h
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -55,29 +55,29 @@ herbes aromatiques
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Chauffer une casserole ou une cocotte, y mettre un peu d’huile et faire rôtir la viande.
-
-
-
-*   Saupoudrer avec la farine, bien mélanger et ajouter immédiatement le vin rouge.
+* Chauffer une casserole ou une cocotte, y mettre un peu d’huile et faire rôtir la viande.
 
 
 
-*   Bien mélanger le tout et assaisonner avec 1cc de sel et 2 tours de poivre, ainsi que les herbes.
+* Saupoudrer avec la farine, bien mélanger et ajouter immédiatement le vin rouge.
 
 
 
-*   Peler les carottes, les couper en morceaux et les mettre dans la casserole.
+* Bien mélanger le tout et assaisonner avec 1cc de sel et 2 tours de poivre, ainsi que les herbes.
 
 
 
-*   Peler les oignons, les couper en deux et poser sur chaque moitié une feuille de laurier que l’on fixera avec un clou de girofle. Mettre dans la casserole.
+* Peler les carottes, les couper en morceaux et les mettre dans la casserole.
 
 
 
-*   Laisser mijoter au moins deux heures à petit feu. Au besoin, raouter de l’eau
+* Peler les oignons, les couper en deux et poser sur chaque moitié une feuille de laurier que l’on fixera avec un clou de girofle. Mettre dans la casserole.
+
+
+
+* Laisser mijoter au moins deux heures à petit feu. Au besoin, raouter de l’eau
     **petit à petit**
     .
 

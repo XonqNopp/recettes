@@ -1,5 +1,5 @@
 Gratin al Vialone
-=================
+#################
 
 Préparation
 ??
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 **2**
@@ -73,33 +73,33 @@ crème demi-aigre
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Chauffer un peu d’huile dans une casserole, ajouter le riz, le petit oignon rapé fin et le curry.
-
-
-
-*   Étuver jusqu’à ce que le riz soit translucide.
+* Chauffer un peu d’huile dans une casserole, ajouter le riz, le petit oignon rapé fin et le curry.
 
 
 
-*   Mouiller le vin blanc, faire revenir un instant.
+* Étuver jusqu’à ce que le riz soit translucide.
 
 
 
-*   Ajouter le bouillon, laisser cuire le riz sans couvrir, en veillant à ce qu’il ne se dessèche pas (15-20 minutes).
+* Mouiller le vin blanc, faire revenir un instant.
 
 
 
-*   Incorporer délicatement au risotto les crevettes, les artichauts découpés en petits dés, 5 cuillères à soupe de sbrinz, la crême et l’assaisonnement, verser le tout dans un plat à gratin graissé.
+* Ajouter le bouillon, laisser cuire le riz sans couvrir, en veillant à ce qu’il ne se dessèche pas (15-20 minutes).
 
 
 
-*   Semer sur la préparation le sbrinz restant et des noiseettes de margarine.
+* Incorporer délicatement au risotto les crevettes, les artichauts découpés en petits dés, 5 cuillères à soupe de sbrinz, la crême et l’assaisonnement, verser le tout dans un plat à gratin graissé.
 
 
 
-*   Gratiner 10 minutes au milieu du four préalablement chauffé à 250°C.
+* Semer sur la préparation le sbrinz restant et des noiseettes de margarine.
+
+
+
+* Gratiner 10 minutes au milieu du four préalablement chauffé à 250°C.
 
 
 

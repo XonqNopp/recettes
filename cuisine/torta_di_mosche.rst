@@ -1,5 +1,5 @@
 Torta di mosche
-===============
+###############
 
 Préparation
 180
@@ -15,7 +15,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 750
 g
@@ -63,37 +63,37 @@ cardamome en poudre
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Dans un petit plat, mettre les fruits confits, les raisins secs et l’aclool, bien mélanger. Laisser macérer.
-
-
-
-*   Couper le pain sec en petits morceaux et les mettre dans un grand plat.
+* Dans un petit plat, mettre les fruits confits, les raisins secs et l’aclool, bien mélanger. Laisser macérer.
 
 
 
-*   Dans une casserole en téflon, porter le lait à ébullition, puis verser sur le pain.
+* Couper le pain sec en petits morceaux et les mettre dans un grand plat.
 
 
 
-*   Incorporer le cacao et le miel, bien mélanger afin que tous les morceaux soient mouillés. Laisser tremper au moins deux heures.
+* Dans une casserole en téflon, porter le lait à ébullition, puis verser sur le pain.
 
 
 
-*   Quand le pain est bien mou, broyer le tout au mixer afin d’obtenir une pâte.
+* Incorporer le cacao et le miel, bien mélanger afin que tous les morceaux soient mouillés. Laisser tremper au moins deux heures.
 
 
 
-*   Ajouter les épices et le contenu du petit plat, bien mélanger.
+* Quand le pain est bien mou, broyer le tout au mixer afin d’obtenir une pâte.
 
 
 
-*   Mettre un papier de cuisson sur 4 formes pour cake, y verser la préparation en couche de 3cm au maximum.
+* Ajouter les épices et le contenu du petit plat, bien mélanger.
 
 
 
-*   Mettre au four préchauffé à 150°C pendant deux heures.
+* Mettre un papier de cuisson sur 4 formes pour cake, y verser la préparation en couche de 3cm au maximum.
+
+
+
+* Mettre au four préchauffé à 150°C pendant deux heures.
 
 
 

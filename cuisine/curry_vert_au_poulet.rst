@@ -1,5 +1,5 @@
 Curry vert au poulet
-====================
+####################
 
 Préparation
 XX
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -55,37 +55,37 @@ basilic frais
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Chauffer un wok ou une grande poêle, y mettre un peu d’huile et faire dorer la viande, puis réserver.
-
-
-
-*   Couper les aubergines en dés.
+* Chauffer un wok ou une grande poêle, y mettre un peu d’huile et faire dorer la viande, puis réserver.
 
 
 
-*   Faire revenir le lait de coco et 2 cuillères à soupe de pâte de curry.
+* Couper les aubergines en dés.
 
 
 
-*   Ajouter les aubegines et laisser mijoter pendant environ 10 minutes.
+* Faire revenir le lait de coco et 2 cuillères à soupe de pâte de curry.
 
 
 
-*   Ajouter la viande et laisser mijoter environ deux minutes supplémentaires.
+* Ajouter les aubegines et laisser mijoter pendant environ 10 minutes.
 
 
 
-*   Assaisonner avec la sauce de poisson.
+* Ajouter la viande et laisser mijoter environ deux minutes supplémentaires.
 
 
 
-*   Pour un curry plus épicé, ajouter encore 1-2 cuillères à soupe de pâte de curry.
+* Assaisonner avec la sauce de poisson.
 
 
 
-*   Décorer avec les tomates cerises coupées en deux et le basilic, et servir avec du riz.
+* Pour un curry plus épicé, ajouter encore 1-2 cuillères à soupe de pâte de curry.
+
+
+
+* Décorer avec les tomates cerises coupées en deux et le basilic, et servir avec du riz.
 
 
 

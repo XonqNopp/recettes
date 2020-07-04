@@ -1,5 +1,5 @@
 Calamars farcis à la truite fumée
-=================================
+#################################
 
 Préparation
 20
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -67,41 +67,41 @@ citrons verts
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Hacher grossièrement la truite. Vider et nettoyer les calamars.
-
-
-
-*   Émincer une moitié de l’oignon rouge et hacher l’autre moitié grossièrement.
+* Hacher grossièrement la truite. Vider et nettoyer les calamars.
 
 
 
-*   Mélanger l’oignon, la truite et la moitié du basilic grossièrement ciselé et en farcir les corps des calamars.
+* Émincer une moitié de l’oignon rouge et hacher l’autre moitié grossièrement.
 
 
 
-*   Fermer avec une pique en bois (cure-dent).
+* Mélanger l’oignon, la truite et la moitié du basilic grossièrement ciselé et en farcir les corps des calamars.
 
 
 
-*   Faire cuire les calamars dans une grande poêle chaude légèrement huilée. Ils doivent être dorés et tendres.
+* Fermer avec une pique en bois (cure-dent).
 
 
 
-*   Mettre dans un saladier la roquette, le persil, la menthe grossièrement ciselée, l’oignon émincé et le reste du basilic.
+* Faire cuire les calamars dans une grande poêle chaude légèrement huilée. Ils doivent être dorés et tendres.
 
 
 
-*   Verser dessus l’huile et le vinaigre, remuer délicatement.
+* Mettre dans un saladier la roquette, le persil, la menthe grossièrement ciselée, l’oignon émincé et le reste du basilic.
 
 
 
-*   Découper les calamars en deux et les disposer sur les assiettes.
+* Verser dessus l’huile et le vinaigre, remuer délicatement.
 
 
 
-*   Garnir de salade et de quartiers de citron vert.
+* Découper les calamars en deux et les disposer sur les assiettes.
+
+
+
+* Garnir de salade et de quartiers de citron vert.
 
 
 

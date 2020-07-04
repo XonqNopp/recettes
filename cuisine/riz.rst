@@ -1,5 +1,5 @@
 Riz
-===
+###
 
 Préparation
 10
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -41,21 +41,21 @@ bouillon de légumes
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Chauffer une casserole et y ajouter un peu d’huile.
-
-
-
-*   Faire revenir l’oignon et le riz.
+* Chauffer une casserole et y ajouter un peu d’huile.
 
 
 
-*   Quand le riz est transparent, ajouter l’eau et le bouillon.
+* Faire revenir l’oignon et le riz.
 
 
 
-*   Bien mélanger jusqu’à ce que le bouillon soit dissout et laisser mijoter 20 minutes (selon les indications de l’emballage) à feu moyen.
+* Quand le riz est transparent, ajouter l’eau et le bouillon.
+
+
+
+* Bien mélanger jusqu’à ce que le bouillon soit dissout et laisser mijoter 20 minutes (selon les indications de l’emballage) à feu moyen.
 
 
 

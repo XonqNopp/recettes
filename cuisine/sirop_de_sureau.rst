@@ -1,5 +1,5 @@
 Sirop de sureau
-===============
+###############
 
 Préparation
 10
@@ -15,7 +15,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 **
 litre
@@ -47,33 +47,33 @@ acide citrique (est-ce qu’on peut remplacer par du jus de citron?)
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Dans une grand terrine, couper les fleurs en ôtant les tiges.
-
-
-
-*   Dans une casserole, porter l’eau à ébullition, puis la verser sur les fleurs.
+* Dans une grand terrine, couper les fleurs en ôtant les tiges.
 
 
 
-*   Ajouter le sucre et l’acide citrique, bien mélanger.
+* Dans une casserole, porter l’eau à ébullition, puis la verser sur les fleurs.
 
 
 
-*   Couvrir pour garder propre et laisser macérer deux jours, tout en remuant de temps en temps pour dissoudre le sucre.
+* Ajouter le sucre et l’acide citrique, bien mélanger.
 
 
 
-*   Préparer les bouteilleys dans lesquelles on va metrre le sirop, les laver et les remplir d’eau bouillante.
+* Couvrir pour garder propre et laisser macérer deux jours, tout en remuant de temps en temps pour dissoudre le sucre.
 
 
 
-*   Verser le sirop à travers une passoire dans une grande casserole.
+* Préparer les bouteilleys dans lesquelles on va metrre le sirop, les laver et les remplir d’eau bouillante.
 
 
 
-*   Porter à ébullition, vider les bouteilles de leur eau et les remplir avec le sirop, les boucher immédiatement.
+* Verser le sirop à travers une passoire dans une grande casserole.
+
+
+
+* Porter à ébullition, vider les bouteilles de leur eau et les remplir avec le sirop, les boucher immédiatement.
 
 
 

@@ -1,5 +1,5 @@
 Pommes de terre au laurier
-==========================
+##########################
 
 Préparation
 20
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -49,25 +49,25 @@ bouillon de légumes
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Peler les pommes de terre et les couper en rondelles d’un millimètre d’épaisseur.
-
-
-
-*   Dans une casserole en téflon, porter le lait à ébullition avec les feuilles de lauriers,
+* Peler les pommes de terre et les couper en rondelles d’un millimètre d’épaisseur.
 
 
 
-*   le bouillon, le sel et 2 tours de moulin à poivre.
+* Dans une casserole en téflon, porter le lait à ébullition avec les feuilles de lauriers,
 
 
 
-*   Ajouter les rondelles de pommes de terre, mélanger.
+* le bouillon, le sel et 2 tours de moulin à poivre.
 
 
 
-*   Cuire à feu doux pendant 30 minutes.
+* Ajouter les rondelles de pommes de terre, mélanger.
+
+
+
+* Cuire à feu doux pendant 30 minutes.
 
 
 

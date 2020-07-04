@@ -1,5 +1,5 @@
 Tomates/Poivrons farci(e)s
-==========================
+##########################
 
 Préparation
 30
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 6
@@ -62,41 +62,41 @@ fromage râpé
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Diluer la moitié du bouillon dans 2dl d’eau, l’autre moitié dans l’eau restante.
+* Diluer la moitié du bouillon dans 2dl d’eau, l’autre moitié dans l’eau restante.
 
 
 
-*   Préparer la viande hachée selon la recette de la
+* Préparer la viande hachée selon la recette de la
     *viande hachée*
     , mais avec seulement 2dl de bouillon.
 
 
 
-*   **Poivrons :**
+* **Poivrons :**
     les couper en deux, ôter les queues et les pépins.
 
 
 
-*   **Tomates :**
+* **Tomates :**
     couper le capuchon (1cm) et la vider. Vider les tomates et couper la chaire et les capuchons en petits morceaux que l’on mettra dans la viande hachée.
 
 
 
-*   Disposer les poivrons/tomates dans un plat pour le four. Les remplir délicatement avec la viande hachée.
+* Disposer les poivrons/tomates dans un plat pour le four. Les remplir délicatement avec la viande hachée.
 
 
 
-*   Couvrir de fromage râpé.
+* Couvrir de fromage râpé.
 
 
 
-*   Ajouter le bouillon restant.
+* Ajouter le bouillon restant.
 
 
 
-*   Cuire au four préchauffé à
+* Cuire au four préchauffé à
     20
     0°C pendant 30 minutes.
 

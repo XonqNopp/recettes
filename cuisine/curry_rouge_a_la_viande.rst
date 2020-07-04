@@ -1,5 +1,5 @@
 Curry rouge à la viande
-=======================
+#######################
 
 Préparation
 XX
@@ -11,7 +11,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4
@@ -63,41 +63,41 @@ basilic frais
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Couper la viande en petits morceaux.
-
-
-
-*   Chauffer un wok ou une grand poêle, y mettre un peu d’huile et faire dorer la viande, puis la réserver.
+* Couper la viande en petits morceaux.
 
 
 
-*   Épépiner le poivron, peler l’oignon et couper tous deux en morceaux de 1cm.
+* Chauffer un wok ou une grand poêle, y mettre un peu d’huile et faire dorer la viande, puis la réserver.
 
 
 
-*   Faire revenir le lait de coco et 3 cuillères à soupe de pâte de curry dans le wok.
+* Épépiner le poivron, peler l’oignon et couper tous deux en morceaux de 1cm.
 
 
 
-*   Ajouter les légumes et laisser mijoter pendant environ 5 minutes.
+* Faire revenir le lait de coco et 3 cuillères à soupe de pâte de curry dans le wok.
 
 
 
-*   Ajouter la viande et laisser mijoter environ deux minutes supplémentaires.
+* Ajouter les légumes et laisser mijoter pendant environ 5 minutes.
 
 
 
-*   Assaisonner avec la sauce de poisson.
+* Ajouter la viande et laisser mijoter environ deux minutes supplémentaires.
 
 
 
-*   Pour un curry plus épicé, ajouter encore une cuillère à soupe de pâte de curry.
+* Assaisonner avec la sauce de poisson.
 
 
 
-*   Décorer avec les tomates cerises coupées en deux et le basilic, et servir avec du riz.
+* Pour un curry plus épicé, ajouter encore une cuillère à soupe de pâte de curry.
+
+
+
+* Décorer avec les tomates cerises coupées en deux et le basilic, et servir avec du riz.
 
 
 

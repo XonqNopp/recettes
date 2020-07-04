@@ -1,5 +1,5 @@
 Mousse au thon
-==============
+##############
 
 Préparation
 20
@@ -7,7 +7,7 @@ min
 
 
 Ingrédients
-~~~~~~~~~~~
+===========
 
 **1 personne**
 4-6
@@ -39,9 +39,9 @@ jus de citron
 
 
 Préparation
-~~~~~~~~~~~
+===========
 
-*   Tout mélanger
+* Tout mélanger
 
 
 
