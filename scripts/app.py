@@ -117,7 +117,7 @@ class Recettes(QtWidgets.QDialog):
         """
         self._logger.debug('Prepare filename')
 
-        title = self.getTitle()
+        title = self.getTitle().strip()
 
         self._logger.debug('title={}'.format(title))
 
@@ -135,13 +135,12 @@ class Recettes(QtWidgets.QDialog):
 
         title = title.translate(translateTable)
 
-        title = title.title()
-        title = title.replace(' ', '')
-        title = title.replace('(', '_').replace(')', '_').rstrip('_')
+        title = title.lower()  # no .title because ordering is then messed if there are upper and lowercase letters mixed
+        title = title.replace(' ', '_')
+        title = title.replace("'", '_')
 
         # Get rid of non-standard characters
-        title = title.replace("'", '')
-        title = re.sub(r'\[\]{}"\/:;.,?!<>+&%=$°§ßµ', '', title)
+        title = re.sub(r'()\[\]{}"\/:;.,?!<>+&%=$°§ßµ', '', title)
 
         self._logger.debug('title formatted: {}'.format(title))
 
