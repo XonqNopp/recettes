@@ -61,5 +61,3 @@ Préparation
 
 * Verser gentiment la farine tout en fouettant jusqu'à ce qu'il n'y ait presque plus de grumeaux.
 
-
-

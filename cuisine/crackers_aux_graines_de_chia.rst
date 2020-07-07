@@ -94,5 +94,3 @@ Préparation
 
 * Laisser refroidir
 
-
-

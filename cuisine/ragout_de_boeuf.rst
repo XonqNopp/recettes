@@ -81,5 +81,3 @@ Préparation
     **petit à petit**
     .
 
-
-

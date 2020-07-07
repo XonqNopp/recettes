@@ -47,5 +47,3 @@ Préparation
 
 * Ajouter le sel et un peu du liquide si nécessaire, mixer.
 
-
-

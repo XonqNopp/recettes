@@ -101,5 +101,3 @@ Préparation
 
 * Gratiner 10 minutes au milieu du four préalablement chauffé à 250°C.
 
-
-

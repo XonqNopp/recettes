@@ -115,5 +115,3 @@ Préparation
 
 * Ajouter l'ananas et les noix de cajou.
 
-
-

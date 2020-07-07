@@ -30,5 +30,3 @@ Préparation
 * Mettre au frais pendant 15 minutes.
 * Mettre au milieu du four préchauffé à 200°C pendant 10 minutes.
 
-
-

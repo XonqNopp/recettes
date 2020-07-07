@@ -25,5 +25,3 @@ Préparation
 * Cuire au four préchauffé à 180°C pendant 35 minutes.
 * Sortir du four et laisser refroidir 10 minutes, puis découper des carrés.
 
-
-

@@ -33,5 +33,3 @@ Préparation
 * Éventuellement rayer les biscuits avec une fourchette.
 * Mettre au milieu du four à 160°C pendant 15 minutes.
 
-
-

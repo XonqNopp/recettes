@@ -133,4 +133,3 @@ Variantes
 
 * Les tranches de jarret de veau se préparent de la même manière (cuisson : environ 1h30).
 
-

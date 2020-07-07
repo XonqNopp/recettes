@@ -52,5 +52,3 @@ Préparation
 
 * Verser dans un plat et mettre à refroidir 10min avant de remplir les tartelettes.
 
-
-

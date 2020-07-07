@@ -34,5 +34,3 @@ Préparation
 
 * Tout mélanger puis cuire 2-3 minutes. Laisser refroidir.
 
-
-

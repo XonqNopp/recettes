@@ -100,5 +100,3 @@ Préparation
     20
     0°C pendant 30 minutes.
 
-
-

@@ -43,5 +43,3 @@ Préparation
 * Juste avant de servir, faire griller sur tous les côtés à feu moyen pendant 3-4min, en les retournant le moins
   possible pour éviter de les abîmer.
 
-
-

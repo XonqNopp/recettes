@@ -38,5 +38,3 @@ Préparation
 
 * Saupoudrer de cannelle.
 
-
-

@@ -43,5 +43,3 @@ Préparation
 
 * Tout mélanger
 
-
-

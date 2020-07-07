@@ -29,5 +29,3 @@ Préparation
 * Découper en rondelles de 5mm d'épaisseur, déposer sur une plaque en laissant suffisamment d'espace.
 * Faire cuire tout de suite pendant 10 à 12 minutes au milieu du four à 200°C.
 
-
-

@@ -129,5 +129,3 @@ Préparation
 
 * Servir chaud avec du riz blanc.
 
-
-

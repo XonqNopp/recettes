@@ -67,5 +67,3 @@ Préparation
 
 * Laisser mijoter 5 minutes à feu doux.
 
-
-

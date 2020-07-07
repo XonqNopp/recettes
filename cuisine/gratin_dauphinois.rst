@@ -107,5 +107,3 @@ Préparation
 
 * • Ôter le papier d'alu, verser la crème et cuire encore 30 minutes.
 
-
-

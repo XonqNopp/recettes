@@ -49,5 +49,3 @@ Préparation
 
 * Passer au four à 240°C pendant 20 minutes pour caraméliser, servir chaud.
 
-
-

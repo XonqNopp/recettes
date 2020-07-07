@@ -43,5 +43,3 @@ Préparation
 
 * Cuire au four préchauffé à 200°C pendant 10 à 15 minutes en surveillant.
 
-
-

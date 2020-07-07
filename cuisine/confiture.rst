@@ -50,5 +50,3 @@ Préparation
 
 * Quand la confiture devient épaisse, répartir dans les bocaux, les fermer et les retourner.
 
-
-

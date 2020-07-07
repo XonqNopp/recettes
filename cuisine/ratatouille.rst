@@ -75,5 +75,3 @@ Préparation
 
 * Laisser mijoter au moins 30 minutes à feu moyen.
 
-
-

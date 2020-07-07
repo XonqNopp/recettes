@@ -89,5 +89,3 @@ Préparation
 
 * Gratiner 15-20 minutes au milieu du four préchauffé à 220°C.
 
-
-

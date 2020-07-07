@@ -60,5 +60,3 @@ Préparation
 
 * Conserver au congélateur jusqu'au moment de servir.
 
-
-

@@ -69,5 +69,3 @@ Préparation
 
 * Cuire à feu doux pendant 30 minutes.
 
-
-

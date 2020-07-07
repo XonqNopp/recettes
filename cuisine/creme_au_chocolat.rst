@@ -79,5 +79,3 @@ Préparation
 
 * Si la crème est trop épaisse une fois refroidie, la diluer avec du lait frois selon l'envie.
 
-
-

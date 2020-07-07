@@ -81,5 +81,3 @@ Suggestions
 
 * Peut aussi se manger dans un bol avec du lait et du fromage râpé.
 
-
-

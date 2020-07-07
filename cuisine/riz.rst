@@ -57,5 +57,3 @@ Préparation
 
 * Bien mélanger jusqu'à ce que le bouillon soit dissout et laisser mijoter 20 minutes (selon les indications de l'emballage) à feu moyen.
 
-
-

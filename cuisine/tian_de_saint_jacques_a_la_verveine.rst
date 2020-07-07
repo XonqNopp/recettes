@@ -71,5 +71,3 @@ Préparation
 
 * Décorer avec les feuilles de verveine fraı̂che.
 
-
-

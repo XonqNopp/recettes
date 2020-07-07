@@ -39,5 +39,3 @@ Préparation
 
 * Découper les bananes en rondelles et les mettre dans le jus.
 
-
-

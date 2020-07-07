@@ -78,5 +78,3 @@ Laisser reposer au moins 12 heures.
 
 * Laisser cuire à feu doux 40 minutes.
 
-
-

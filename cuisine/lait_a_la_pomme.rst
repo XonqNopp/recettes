@@ -31,5 +31,3 @@ Préparation
 
 * Tout mélanger :-)
 
-
-

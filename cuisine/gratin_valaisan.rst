@@ -92,5 +92,3 @@ Préparation
 
 * Verser dans la plat et faire cuire 40-45 minutes au milieu du four préchauffé à 200°C.
 
-
-

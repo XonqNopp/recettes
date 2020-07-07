@@ -88,5 +88,3 @@ Préparation
 
 * Placer au réfrigérateur 30 minutes avant de servir dans des verres.
 
-
-

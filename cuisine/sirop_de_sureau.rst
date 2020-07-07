@@ -75,5 +75,3 @@ Préparation
 
 * Porter à ébullition, vider les bouteilles de leur eau et les remplir avec le sirop, les boucher immédiatement.
 
-
-

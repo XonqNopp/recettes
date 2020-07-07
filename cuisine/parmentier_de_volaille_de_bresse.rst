@@ -93,5 +93,3 @@ Préparation
 
 * Recouvrir avec le Gruyère râpé, puis faire gratiner pendant 15 minutes au four à 220°C.
 
-
-

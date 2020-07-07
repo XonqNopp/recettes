@@ -95,5 +95,3 @@ Préparation
 
 * Mettre au four préchauffé à 150°C pendant deux heures.
 
-
-

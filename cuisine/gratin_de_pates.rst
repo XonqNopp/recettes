@@ -49,5 +49,3 @@ Préparation
 
 * Environ 30min au four à 200°C.
 
-
-

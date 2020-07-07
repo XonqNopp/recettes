@@ -55,5 +55,3 @@ Préparation
 
 * Mettre dans le four préchauffé à 200°C pendant 30 minutes.
 
-
-

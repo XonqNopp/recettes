@@ -87,5 +87,3 @@ Préparation
 
 * Décorer avec les tomates cerises coupées en deux et le basilic, et servir avec du riz.
 
-
-

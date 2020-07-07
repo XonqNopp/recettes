@@ -63,5 +63,3 @@ Variantes
 
 * Fondue aux tomates : diminuer la quantité de vin et ajouter un bocal de sauce tomate à la place, épicer selon le goût. Servir avec des pommes de terre plutôt que du pain.
 
-
-

@@ -57,5 +57,3 @@ Préparation
     200
     °C pendant 30 minutes.
 
-
-

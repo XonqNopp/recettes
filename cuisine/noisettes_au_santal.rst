@@ -47,5 +47,3 @@ Préparation
 
 * Quand toutes les noisettes sont entourées de poudre, les verser délicatement sur une plaque du four recouverte de papier à cuisson.
 
-
-

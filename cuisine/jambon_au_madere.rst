@@ -77,5 +77,3 @@ Préparation
     20
     0°C pendant 15-20 minutes.
 
-
-

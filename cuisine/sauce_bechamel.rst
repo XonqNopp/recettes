@@ -40,5 +40,3 @@ Préparation
 
 * Ajouter le lait et les épices.
 
-
-

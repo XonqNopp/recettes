@@ -75,5 +75,3 @@ Préparation
 
 * Mettre dans la sauce le riz, les légumes, le maı̈s, le thon, les petits pois-carottes et les petits oignons, puis bien mélanger.
 
-
-

@@ -88,5 +88,3 @@ Préparation
 
 * Disposer quelques chanterelles sautées séparément et les branches de ciboulette autour de l'assiette.
 
-
-

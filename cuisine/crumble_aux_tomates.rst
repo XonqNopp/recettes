@@ -95,5 +95,3 @@ Préparation
 
 * Dès que le dessus est croustillant, c'est prêt!
 
-
-

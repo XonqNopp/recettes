@@ -54,5 +54,3 @@ Préparation
 
 * Ajouter le jus de citron.
 
-
-
