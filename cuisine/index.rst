@@ -7,7 +7,67 @@ Cuisine
    amandes_caramelisees.rst
    avocats_au_romarin_et_au_lard_avec_sauce_aux_amandes.rst
    biscuits_aux_epices.rst
-   biscuits_aux_noisettes.rst
+   biscuits_aux_n_noisettes.rst
    biscuits_milanais.rst
    biscuits_sables.rst
    boulettes_de_poisson_a_l_aneth.rst
+   calamars_farcis_a_la_truite_fumee.rst
+   caramels_mous.rst
+   confiture.rst
+   crackers_aux_graines_de_chia.rst
+   creme_au_chocolat.rst
+   crumble_aux_tomates.rst
+   curry_rouge_a_la_viande.rst
+   curry_vert_au_poulet.rst
+   emince_de_poulet_au_curry.rst
+   filet_mignon_en_croute.rst
+   fondue.rst
+   glace_au_citron_a_la_cardamome.rst
+   glace_sorbet_au_gingembre_et_au_kiwi.rst
+   glace_sorbet_noix_de_coco_et_citron_vert.rst
+   gratin_al_vialone.rst
+   gratin_dauphinois.rst
+   gratin_de_pates.rst
+   gratin_valaisan.rst
+   hachis_parmentier.rst
+   jambon_au_madere.rst
+   lait_a_la_pomme.rst
+   legumes_a_l_eau.rst
+   levain.rst
+   mafe.rst
+   mayonnaise.rst
+   mousse_au_thon.rst
+   noisettes_au_santal.rst
+   noix_de_coco_caramelisee.rst
+   nouilles_aux_champignon_a_la_creme.rst
+   oeuf_au_plat_travesti.rst
+   pain.rst
+   papet_vaudois.rst
+   parmentier_de_volaille_de_bresse.rst
+   patates_roties_au_four.rst
+   pate_a_crepes.rst
+   pates.rst
+   polenta.rst
+   pommes_de_terre_au_laurier.rst
+   poulet_nassa_senegal.rst
+   quiche_aux_tomates.rst
+   ragout_de_boeuf.rst
+   ratatouille.rst
+   riz.rst
+   roti_de_boeuf.rst
+   roulades_de_poisson_a_la_bruxelloise.rst
+   salade_bananes_oranges_citrons.rst
+   salade_de_riz.rst
+   salee_au_sucre.rst
+   sambal_olek.rst
+   sauce_a_salade.rst
+   sauce_bechamel.rst
+   sauce_bolognaise.rst
+   sirop_de_sureau.rst
+   tartelettes_a_la_raisinee.rst
+   tartelettes_au_citron.rst
+   tendrons_de_veau_marietta.rst
+   tian_de_saint_jacques_a_la_verveine.rst
+   tomates_poivrons_farcis.rst
+   torta_di_mosche.rst
+   viande_hachee.rst
