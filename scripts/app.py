@@ -136,6 +136,7 @@ class Recettes(QtWidgets.QDialog):
         title = title.translate(translateTable)
 
         title = title.lower()  # no .title because ordering is then messed if there are upper and lowercase letters mixed
+        # snake_case:
         title = title.replace(' ', '_')
         title = title.replace("'", '_')
 
@@ -192,7 +193,7 @@ class Recettes(QtWidgets.QDialog):
 
         for template in self.TEMPLATES:
             if self._templates[template].isChecked():
-                return template
+                return template.replace(' ', '_')
 
         return self.UNDEFINED
 
