@@ -65,15 +65,15 @@ feuilles de laurier
 Préparation
 ===========
 
-* Peler l’oignon et le hacher.
+* Peler l'oignon et le hacher.
 
 
 
-* Chauffer une grande casserole, y mettre l’huile et faire revenir la viande et l’oignon.
+* Chauffer une grande casserole, y mettre l'huile et faire revenir la viande et l'oignon.
 
 
 
-* Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le vin, puis l’eau, le bouillon et les tomates.
+* Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le vin, puis l'eau, le bouillon et les tomates.
 
 
 
@@ -81,7 +81,7 @@ Préparation
 
 
 
-* Laisser mijoter à feu doux au moins 30 minutes. Au besoin, rajouter de l’eau
+* Laisser mijoter à feu doux au moins 30 minutes. Au besoin, rajouter de l'eau
     **petit à petit**
     .
 

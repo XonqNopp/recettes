@@ -57,7 +57,7 @@ ketchup
 Préparation
 ===========
 
-* Etaler les filets sur un plat, les citronner et les mettre au frais à couvert jusqu’au moment de les apprêter.
+* Etaler les filets sur un plat, les citronner et les mettre au frais à couvert jusqu'au moment de les apprêter.
 
 
 
@@ -71,7 +71,7 @@ Préparation
 
 
 
-* Porter de l’eau à ébullition, y mettre le bouillon et faire cuire les légumes 3-4 minutes jusqu’à ce qu’ils soient à peine tendre.
+* Porter de l'eau à ébullition, y mettre le bouillon et faire cuire les légumes 3-4 minutes jusqu'à ce qu'ils soient à peine tendre.
 
 
 

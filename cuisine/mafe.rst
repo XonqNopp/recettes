@@ -25,13 +25,13 @@ bœuf (aiguillette, pointe de culotte, ragoùt)
 
 1/4
 1
-gousse d’ail
+gousse d'ail
 
 35
 g
 200
 g
-pâte d’arachides
+pâte d'arachides
 
 15
 g
@@ -65,7 +65,7 @@ oignons
 
 1/3
 2
-gousses d’ail
+gousses d'ail
 
 1/6
 1
@@ -91,11 +91,11 @@ Préparation
 
 
 
-* Peler et émincer l’ail.
+* Peler et émincer l'ail.
 
 
 
-* Délayer le concentré de tomates dans un peu d’eau.
+* Délayer le concentré de tomates dans un peu d'eau.
 
 
 
@@ -103,15 +103,15 @@ Préparation
 
 
 
-* Faire chauffer un peu d’huile dans une grande cocotte et y mettre les morceaux de viande à dorer pendant 5 minutes avec les oignongs, le piment, le laurier et l’ail.
+* Faire chauffer un peu d'huile dans une grande cocotte et y mettre les morceaux de viande à dorer pendant 5 minutes avec les oignongs, le piment, le laurier et l'ail.
 
 
 
-* Ajouter le concentré de tomates et la pâte d’arachide également délayée dans un peu d’eau.
+* Ajouter le concentré de tomates et la pâte d'arachide également délayée dans un peu d'eau.
 
 
 
-* Verser 1.5 litres d’eau dans la cocotte.
+* Verser 1.5 litres d'eau dans la cocotte.
 
 
 
@@ -123,7 +123,7 @@ Préparation
 
 
 
-* Remuer souvent afin que la pâte d’arachide n’attache pas au fond.
+* Remuer souvent afin que la pâte d'arachide n'attache pas au fond.
 
 
 

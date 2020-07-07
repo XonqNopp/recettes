@@ -46,7 +46,7 @@ Préparation
 
 
 
-* Mettre le sucre et l’eau dans une casserole et chauffer doucement jusqu’à ce que le sucre ait fondu. Ajouter le gingembre, faire cuire une minute puis laisser refroidir, filtrer et réfrigérer.
+* Mettre le sucre et l'eau dans une casserole et chauffer doucement jusqu'à ce que le sucre ait fondu. Ajouter le gingembre, faire cuire une minute puis laisser refroidir, filtrer et réfrigérer.
 
 
 
@@ -58,7 +58,7 @@ Préparation
 
 
 
-* Conserver au congélateur jusqu’au moment de servir.
+* Conserver au congélateur jusqu'au moment de servir.
 
 
 

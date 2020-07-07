@@ -53,7 +53,7 @@ bouquets de basilic
 cs
 2
 cs
-huile d’olive
+huile d'olive
 
 sel
 
@@ -63,11 +63,11 @@ poivre
 Préparation
 ===========
 
-* Plonger les tomates dans de l’eau bouillante pendant une minute, puis les peler et les couper en deux, et les épépiner. Détailler le tout en petits dés.
+* Plonger les tomates dans de l'eau bouillante pendant une minute, puis les peler et les couper en deux, et les épépiner. Détailler le tout en petits dés.
 
 
 
-* Faire revenir les tomates dans deux cuillères à soupe d’huile d’olive, saler et poivrer.
+* Faire revenir les tomates dans deux cuillères à soupe d'huile d'olive, saler et poivrer.
 
 
 
@@ -83,7 +83,7 @@ Préparation
 
 
 
-* Laver le basilic, le sécher dans du papier ménage, le couper grossièrement dans un bol. Y ajouter deux cuillères à soupe d’huile d’olive et passer le tout au mixer jusqu’à former un mélange bien homogène.
+* Laver le basilic, le sécher dans du papier ménage, le couper grossièrement dans un bol. Y ajouter deux cuillères à soupe d'huile d'olive et passer le tout au mixer jusqu'à former un mélange bien homogène.
 
 
 
@@ -93,7 +93,7 @@ Préparation
 
 
 
-* Dès que le dessus est croustillant, c’est prêt!
+* Dès que le dessus est croustillant, c'est prêt!
 
 
 

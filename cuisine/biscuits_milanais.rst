@@ -22,7 +22,7 @@ Préparation
 
 * Réduire le beurre en pomade dans une terrine.
 * Ajouter le sucre, le sel et les oeufs.
-* Mélanger jusqu’à ce que la pâte blanchisse.
+* Mélanger jusqu'à ce que la pâte blanchisse.
 * Râper le zeste du citron, presser son jus et ajouter le tout à la pâte.
 * Tamiser la farine et rassembler la pâte.
 * Mettre au frais pendant 2h. On peut aussi congeler la pâte et la cuire une autre fois.

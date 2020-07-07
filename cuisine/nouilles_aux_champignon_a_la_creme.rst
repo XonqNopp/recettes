@@ -34,7 +34,7 @@ chanterelles fraîches (+ quelques unes pour la décoration)
 
 1/2
 1-2
-gousses d’ail
+gousses d'ail
 
 1/2
 dl
@@ -58,15 +58,15 @@ ciboulettes fraîches (+ un peu pour la décoration)
 Préparation
 ===========
 
-* Hacher l’échalotte et l’ail. Ciseler la ciboulette.
+* Hacher l'échalotte et l'ail. Ciseler la ciboulette.
 
 
 
-* Sauter les chanterelles dans une poêle avec un peu d’huile d’olive bien chaude.
+* Sauter les chanterelles dans une poêle avec un peu d'huile d'olive bien chaude.
 
 
 
-* Rajouter l’échalotte et l’ail, et déglacer avec la Madère.
+* Rajouter l'échalotte et l'ail, et déglacer avec la Madère.
 
 
 
@@ -74,7 +74,7 @@ Préparation
 
 
 
-* Mettre la ciboulette dans la sauce et rectifier l’assaisonnement.
+* Mettre la ciboulette dans la sauce et rectifier l'assaisonnement.
 
 
 
@@ -86,7 +86,7 @@ Préparation
 
 
 
-* Disposer quelques chanterelles sautées séparément et les branches de ciboulette autour de l’assiette.
+* Disposer quelques chanterelles sautées séparément et les branches de ciboulette autour de l'assiette.
 
 
 

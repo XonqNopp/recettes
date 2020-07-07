@@ -23,7 +23,7 @@ s
 5
 c
 s
-huile d’olive
+huile d'olive
 
 150
 g
@@ -45,11 +45,11 @@ Préparation
 
 
 
-* Badigeonner la face coupée des pommes de terre d’huile d’olive et les placer sur une plaque.
+* Badigeonner la face coupée des pommes de terre d'huile d'olive et les placer sur une plaque.
 
 
 
-* Enduire le dos des pommes de terre d’huile et de sel.
+* Enduire le dos des pommes de terre d'huile et de sel.
 
 
 

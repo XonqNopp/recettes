@@ -57,7 +57,7 @@ basilic frais
 Préparation
 ===========
 
-* Chauffer un wok ou une grande poêle, y mettre un peu d’huile et faire dorer la viande, puis réserver.
+* Chauffer un wok ou une grande poêle, y mettre un peu d'huile et faire dorer la viande, puis réserver.
 
 
 

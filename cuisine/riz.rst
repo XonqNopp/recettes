@@ -43,19 +43,19 @@ bouillon de légumes
 Préparation
 ===========
 
-* Chauffer une casserole et y ajouter un peu d’huile.
+* Chauffer une casserole et y ajouter un peu d'huile.
 
 
 
-* Faire revenir l’oignon et le riz.
+* Faire revenir l'oignon et le riz.
 
 
 
-* Quand le riz est transparent, ajouter l’eau et le bouillon.
+* Quand le riz est transparent, ajouter l'eau et le bouillon.
 
 
 
-* Bien mélanger jusqu’à ce que le bouillon soit dissout et laisser mijoter 20 minutes (selon les indications de l’emballage) à feu moyen.
+* Bien mélanger jusqu'à ce que le bouillon soit dissout et laisser mijoter 20 minutes (selon les indications de l'emballage) à feu moyen.
 
 
 

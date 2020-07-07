@@ -31,7 +31,7 @@ sucre roux
 Préparation
 ===========
 
-* Percer les noix de coco à leurs deux extrémités et recueillir le lait qu’elles contiennent.
+* Percer les noix de coco à leurs deux extrémités et recueillir le lait qu'elles contiennent.
 
 
 

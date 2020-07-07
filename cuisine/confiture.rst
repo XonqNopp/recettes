@@ -28,11 +28,11 @@ sachet de gélifiant 2:1
 Préparation
 ===========
 
-* Mettre 1cm d’eau dans chaque bocal et les mettre 3-5min au micro-ondes jusqu’à ce que l’eau bouille.
+* Mettre 1cm d'eau dans chaque bocal et les mettre 3-5min au micro-ondes jusqu'à ce que l'eau bouille.
 
 
 
-* Verser l’eau bouillante sur les couvercles.
+* Verser l'eau bouillante sur les couvercles.
 
 
 

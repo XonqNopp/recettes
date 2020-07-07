@@ -13,7 +13,7 @@ Ingrédients (5dl)
 oignon
 
 1-2
-gousses d’ail
+gousses d'ail
 
 1
 dl

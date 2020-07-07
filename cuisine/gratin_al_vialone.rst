@@ -57,7 +57,7 @@ crevettes
 g
 100
 g
-fonds d’artichauts (une petite boîte)
+fonds d'artichauts (une petite boîte)
 
 3
 cs
@@ -75,11 +75,11 @@ crème demi-aigre
 Préparation
 ===========
 
-* Chauffer un peu d’huile dans une casserole, ajouter le riz, le petit oignon rapé fin et le curry.
+* Chauffer un peu d'huile dans une casserole, ajouter le riz, le petit oignon rapé fin et le curry.
 
 
 
-* Étuver jusqu’à ce que le riz soit translucide.
+* Étuver jusqu'à ce que le riz soit translucide.
 
 
 
@@ -87,11 +87,11 @@ Préparation
 
 
 
-* Ajouter le bouillon, laisser cuire le riz sans couvrir, en veillant à ce qu’il ne se dessèche pas (15-20 minutes).
+* Ajouter le bouillon, laisser cuire le riz sans couvrir, en veillant à ce qu'il ne se dessèche pas (15-20 minutes).
 
 
 
-* Incorporer délicatement au risotto les crevettes, les artichauts découpés en petits dés, 5 cuillères à soupe de sbrinz, la crême et l’assaisonnement, verser le tout dans un plat à gratin graissé.
+* Incorporer délicatement au risotto les crevettes, les artichauts découpés en petits dés, 5 cuillères à soupe de sbrinz, la crême et l'assaisonnement, verser le tout dans un plat à gratin graissé.
 
 
 

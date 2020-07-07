@@ -25,7 +25,7 @@ pommes de terre
 
 1/2
 1-2
-gousse d’ail
+gousse d'ail
 
 20
 g
@@ -67,7 +67,7 @@ Préparation
 
 
 
-* Dans une casserole d’eau salée bouillante, faire cuire les pommes de terre avec l’ail pendant 35 à 40 minutes, jusqu’à ce qu’elles soient suffisamment cuites pour en faire une purée.
+* Dans une casserole d'eau salée bouillante, faire cuire les pommes de terre avec l'ail pendant 35 à 40 minutes, jusqu'à ce qu'elles soient suffisamment cuites pour en faire une purée.
 
 
 
@@ -83,7 +83,7 @@ Préparation
 
 
 
-* Ajouter la purée, rectifier l’assaisonnement et mélanger délicatement.
+* Ajouter la purée, rectifier l'assaisonnement et mélanger délicatement.
 
 
 

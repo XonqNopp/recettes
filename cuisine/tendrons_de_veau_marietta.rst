@@ -33,7 +33,7 @@ oignon haché
 
 1/2
 2
-gousses d’ail écrassées
+gousses d'ail écrassées
 
 3/4
 dl
@@ -55,7 +55,7 @@ demi-crème
 
 1/2
 2
-jaunes d’oeuf
+jaunes d'oeuf
 
 25
 g
@@ -75,15 +75,15 @@ Préparation
 
 
 
-* Fariner les tendrons, secouer pour faire tomber l’excès.
+* Fariner les tendrons, secouer pour faire tomber l'excès.
 
 
 
-* Chauffer un peu d’huile dans une poêle, ajouter la viande, faire prendre de couleur de part et d’autre.
+* Chauffer un peu d'huile dans une poêle, ajouter la viande, faire prendre de couleur de part et d'autre.
 
 
 
-* Ajouter l’oignon et l’ail et laisser légèrement dorer.
+* Ajouter l'oignon et l'ail et laisser légèrement dorer.
 
 
 
@@ -107,15 +107,15 @@ Préparation
 
 
 
-* Mélanger la crème, les jaunes d’oeufs, le parmesan et le persil au fouet et ajouter à la sauce en remuant constamment, chauffer sans cuire.
+* Mélanger la crème, les jaunes d'oeufs, le parmesan et le persil au fouet et ajouter à la sauce en remuant constamment, chauffer sans cuire.
 
 
 
-* Rectifier l’assaisonnement, verser sur la viande.
+* Rectifier l'assaisonnement, verser sur la viande.
 
 
 
-* Garder le plat prêt à servir au four à 50°C en prenant soin de le couvrir d’une feuille d’aluminium.
+* Garder le plat prêt à servir au four à 50°C en prenant soin de le couvrir d'une feuille d'aluminium.
 
 
 
@@ -123,7 +123,7 @@ Préparation
 Variantes
 =========
 
-* Remplacer l’origan par un mélange d’épices italiennes.
+* Remplacer l'origan par un mélange d'épices italiennes.
 
 
 

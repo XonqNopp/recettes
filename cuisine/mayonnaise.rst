@@ -28,7 +28,7 @@ jus de citron
 Préparation
 ===========
 
-* Séparer le blanc d’oeuf du jaune.
+* Séparer le blanc d'oeuf du jaune.
 
 
 
@@ -40,7 +40,7 @@ Préparation
 
 
 
-* Ajouter l’huile peu à peu tout en mélangeant.
+* Ajouter l'huile peu à peu tout en mélangeant.
 
 
 

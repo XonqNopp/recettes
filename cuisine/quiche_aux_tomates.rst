@@ -49,11 +49,11 @@ Préparation
 
 
 
-* Piquer ensuite avec une fourchette pour éviter la formation de bulles d’air.
+* Piquer ensuite avec une fourchette pour éviter la formation de bulles d'air.
 
 
 
-* Couper les tomates en rondelles de 1cm d’épais et les disposer sur la pâte.
+* Couper les tomates en rondelles de 1cm d'épais et les disposer sur la pâte.
 
 
 

@@ -76,15 +76,15 @@ Préparation
 
 **Les saucissons**
 
-* Mettre à chauffer une grande casserole pleine d’eau.
+* Mettre à chauffer une grande casserole pleine d'eau.
 
 
 
-* Quand l’eau bout, y plonger les saucisses auxquelles on aura préalablement fait plein de petits trous avec la pointe d’un couteau afin que la graisse s’évacue.
+* Quand l'eau bout, y plonger les saucisses auxquelles on aura préalablement fait plein de petits trous avec la pointe d'un couteau afin que la graisse s'évacue.
 
 
 
-* Laisser mijoter les saucisses dans l’eau frémissante durant 1 heure.
+* Laisser mijoter les saucisses dans l'eau frémissante durant 1 heure.
 
 
 
@@ -99,11 +99,11 @@ Préparation
 
 
 
-* Dans une grande casserole, chauffer l’eau avec le bouillon.
+* Dans une grande casserole, chauffer l'eau avec le bouillon.
 
 
 
-* Quand l’eau bout, y mettre les légumes et baisser le feu, laisser cuire environ 20 minutes à couvert.
+* Quand l'eau bout, y mettre les légumes et baisser le feu, laisser cuire environ 20 minutes à couvert.
 
 
 
@@ -118,7 +118,7 @@ Préparation
 
 **La sauce béchamel**
 
-* Dans une casserole en Teflon, chauffer l’huile et le bouillon.
+* Dans une casserole en Teflon, chauffer l'huile et le bouillon.
 
 
 
@@ -130,7 +130,7 @@ Préparation
 
 
 
-* Cuire à feu doux tout en fouettant jusqu’à la consistance désirée.
+* Cuire à feu doux tout en fouettant jusqu'à la consistance désirée.
 
 
 

@@ -49,15 +49,15 @@ eau
 Préparation
 ===========
 
-* Peler l’oignon et le hacher.
+* Peler l'oignon et le hacher.
 
 
 
-* Chauffer une grande casserole, y mettre un peu d’huile et faire revenir la viande et l’oignon en remuant bien.
+* Chauffer une grande casserole, y mettre un peu d'huile et faire revenir la viande et l'oignon en remuant bien.
 
 
 
-* Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le bouillon et l’eau.
+* Saupoudrer avec la farine, bien mélanger et ajouter tout de suite le bouillon et l'eau.
 
 
 

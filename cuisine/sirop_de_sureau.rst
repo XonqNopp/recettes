@@ -43,7 +43,7 @@ sucre
 g
 40
 g
-acide citrique (est-ce qu’on peut remplacer par du jus de citron?)
+acide citrique (est-ce qu'on peut remplacer par du jus de citron?)
 
 
 Préparation
@@ -53,11 +53,11 @@ Préparation
 
 
 
-* Dans une casserole, porter l’eau à ébullition, puis la verser sur les fleurs.
+* Dans une casserole, porter l'eau à ébullition, puis la verser sur les fleurs.
 
 
 
-* Ajouter le sucre et l’acide citrique, bien mélanger.
+* Ajouter le sucre et l'acide citrique, bien mélanger.
 
 
 
@@ -65,7 +65,7 @@ Préparation
 
 
 
-* Préparer les bouteilleys dans lesquelles on va metrre le sirop, les laver et les remplir d’eau bouillante.
+* Préparer les bouteilleys dans lesquelles on va metrre le sirop, les laver et les remplir d'eau bouillante.
 
 
 

@@ -89,7 +89,7 @@ Préparation
 
 
 
-* Mettre un peu d’huile dans la poêle et faire revenir la viande et l’oignon en remuant bien.
+* Mettre un peu d'huile dans la poêle et faire revenir la viande et l'oignon en remuant bien.
 
 
 
@@ -105,7 +105,7 @@ Préparation
 
 
 
-* Laisser mijoter environ 15 minutes à feu moyen. Au besoin, rajouter un petit peu d’eau.
+* Laisser mijoter environ 15 minutes à feu moyen. Au besoin, rajouter un petit peu d'eau.
 
 
 
@@ -113,7 +113,7 @@ Préparation
 
 
 
-* Ajouter l’ananas et les noix de cajou.
+* Ajouter l'ananas et les noix de cajou.
 
 
 

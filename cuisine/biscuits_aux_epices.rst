@@ -26,10 +26,10 @@ Préparation
 ===========
 
 * Réduire le beurre en pommade dans une terrine.
-* Ajouter le sucre, le sel et l’œuf et pétrir jusqu’à ce que cela blanchisse.
+* Ajouter le sucre, le sel et l'œuf et pétrir jusqu'à ce que cela blanchisse.
 * Incorporer les épices, les amandes et continuer de pétrir.
 * Mettre au frais pendant 30 minutes. On peut aussi congeler la pâte et la cuire un autre jour.
-* Découper les formes de 5mm d’épaisseur et les déposer sur une plaque.
+* Découper les formes de 5mm d'épaisseur et les déposer sur une plaque.
 * Éventuellement rayer les biscuits avec une fourchette.
 * Mettre au milieu du four à 160°C pendant 15 minutes.
 

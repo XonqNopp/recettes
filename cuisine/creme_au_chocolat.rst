@@ -61,7 +61,7 @@ Préparation
 
 
 
-* Au premier signe d’ébullition, retirer immédiatemment du feu et verser la crème
+* Au premier signe d'ébullition, retirer immédiatemment du feu et verser la crème
 
 
 
@@ -69,7 +69,7 @@ Préparation
 
 
 
-* S’il y a des grumeaux, passer la crème dans une passoire immédiatemment.
+* S'il y a des grumeaux, passer la crème dans une passoire immédiatemment.
 
 
 
@@ -77,7 +77,7 @@ Préparation
 
 
 
-* Si la crème est trop épaisse une fois refroidie, la diluer avec du lait frois selon l’envie.
+* Si la crème est trop épaisse une fois refroidie, la diluer avec du lait frois selon l'envie.
 
 
 

@@ -33,11 +33,11 @@ santal en poudre
 Préparation
 ===========
 
-* Dans une grande casserole, mettre tous les ingrédients et cuire à feu vif jusqu’à ébullition.
+* Dans une grande casserole, mettre tous les ingrédients et cuire à feu vif jusqu'à ébullition.
 
 
 
-* Ne pas arrêter de mélanger et cuire jusqu’à ce que le mélange épaississe.
+* Ne pas arrêter de mélanger et cuire jusqu'à ce que le mélange épaississe.
 
 
 

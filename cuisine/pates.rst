@@ -45,30 +45,30 @@ huile
 Préparation
 ===========
 
-* Dans une casserole, porter l’eau salée (comme de l’eau de mer) à ébullition.
+* Dans une casserole, porter l'eau salée (comme de l'eau de mer) à ébullition.
 
 
 
-* Ajouter les pâtes et bien mélanger pour qu’elles ne collent pas.
+* Ajouter les pâtes et bien mélanger pour qu'elles ne collent pas.
 
 
 
 * Baisser le feu sur la moitié et
     **ne pas couvrir complètement**
-    sinon l’eau va mousser et déborder de la casserole
+    sinon l'eau va mousser et déborder de la casserole
     .
 
 
 
-* Cuire les pâtes comme indiqué sur l’emballage.
+* Cuire les pâtes comme indiqué sur l'emballage.
 
 
 
-* Lorsqu’elles sont al dente, les égoutter (éventuellement rincer à l’eau froide pour arrêter la cuisson).
+* Lorsqu'elles sont al dente, les égoutter (éventuellement rincer à l'eau froide pour arrêter la cuisson).
 
 
 
-* Ajouter l’huile pour qu’elles ne se collent pas entre elles.
+* Ajouter l'huile pour qu'elles ne se collent pas entre elles.
 
 
 
@@ -76,5 +76,5 @@ Préparation
 Note
 ====
 
-On prévoit environ 100-150g de pâtes par personne comme plat principal unique. S’il y a un bon accompagnement (comme de la viande ou du poisson), on prévoit plutôt 80-100g par personne.
+On prévoit environ 100-150g de pâtes par personne comme plat principal unique. S'il y a un bon accompagnement (comme de la viande ou du poisson), on prévoit plutôt 80-100g par personne.
 

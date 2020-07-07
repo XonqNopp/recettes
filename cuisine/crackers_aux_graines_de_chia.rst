@@ -29,11 +29,11 @@ graines de sésame
 
 75
 g
-farine d’épautre
+farine d'épautre
 
 75
 g
-flocons d’avoine
+flocons d'avoine
 
 1/2
 cc
@@ -55,11 +55,11 @@ Préparation
 
 
 
-* Mélanger le reste des graines à la farine, aux flocons d’avoine et au sel.
+* Mélanger le reste des graines à la farine, aux flocons d'avoine et au sel.
 
 
 
-* Ajouter l’huile et l’eau, mélanger
+* Ajouter l'huile et l'eau, mélanger
 
 
 

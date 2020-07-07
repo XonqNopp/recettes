@@ -45,15 +45,15 @@ herbes aromatiques
 Préparation
 ===========
 
-* Couper l’aubergine en morceaux d’un ou 2 cm environ.
+* Couper l'aubergine en morceaux d'un ou 2 cm environ.
 
 
 
-* Peler et couper les courgettes en rondelles d’un cm d’épaisseur.
+* Peler et couper les courgettes en rondelles d'un cm d'épaisseur.
 
 
 
-* Épépiner les poivrons et les couper comme l’aubergine.
+* Épépiner les poivrons et les couper comme l'aubergine.
 
 
 
@@ -61,7 +61,7 @@ Préparation
 
 
 
-* Chauffer une grande casserole et y mettre un peu d’huile.
+* Chauffer une grande casserole et y mettre un peu d'huile.
 
 
 

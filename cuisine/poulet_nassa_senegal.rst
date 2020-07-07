@@ -38,7 +38,7 @@ piment vert
 
 1/3
 2
-gousses d’ail
+gousses d'ail
 
 
 Préparation
@@ -50,11 +50,11 @@ La veille, préparer la marinade :
 
 
 
-* Mettre le tout dans un saladier, verser le jus des citrons, ajouter l’ail, saler et poivrer, bien remuer.
+* Mettre le tout dans un saladier, verser le jus des citrons, ajouter l'ail, saler et poivrer, bien remuer.
 
 
 
-* Mettre les morceaux de poulet dans cette marinade en les retournant pour qu’ils soient bien imprégnés de toutes parts.
+* Mettre les morceaux de poulet dans cette marinade en les retournant pour qu'ils soient bien imprégnés de toutes parts.
 
 
 
@@ -68,7 +68,7 @@ Laisser reposer au moins 12 heures.
 
 * Faire chauffer
     un peu d
-    ’huile dans une cocotte et y mettre les morceaux de poulet à dorer en les retournant.
+    'huile dans une cocotte et y mettre les morceaux de poulet à dorer en les retournant.
 
 
 

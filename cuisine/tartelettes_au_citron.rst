@@ -46,7 +46,7 @@ Préparation
 
 
 
-* Baisser légèrement le feu et remuer jusqu’à ce que le mélange s’épaississe.
+* Baisser légèrement le feu et remuer jusqu'à ce que le mélange s'épaississe.
 
 
 

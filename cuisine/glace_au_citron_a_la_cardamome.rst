@@ -24,7 +24,7 @@ gousses de cardamome
 
 2/3
 4
-jaunes d’oeuf
+jaunes d'oeuf
 
 20
 g
@@ -62,7 +62,7 @@ Préparation
 
 
 
-* Mettre dans un saladier les jaunes d’œufs, le sucre, la maı̈zena, les zestes et le jus des citrons. Ajouter les graines et bien fouetter.
+* Mettre dans un saladier les jaunes d'œufs, le sucre, la maı̈zena, les zestes et le jus des citrons. Ajouter les graines et bien fouetter.
 
 
 
@@ -70,7 +70,7 @@ Préparation
 
 
 
-* Remettre le mélange à chauffer très doucement jusqu’à ce qu’il ait épaissi.
+* Remettre le mélange à chauffer très doucement jusqu'à ce qu'il ait épaissi.
 
 
 

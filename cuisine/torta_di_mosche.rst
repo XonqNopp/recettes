@@ -35,7 +35,7 @@ miel
 
 1
 dl
-maraschino (ou rhum, ou juste de l’eau)
+maraschino (ou rhum, ou juste de l'eau)
 
 100
 g
@@ -65,7 +65,7 @@ cardamome en poudre
 Préparation
 ===========
 
-* Dans un petit plat, mettre les fruits confits, les raisins secs et l’aclool, bien mélanger. Laisser macérer.
+* Dans un petit plat, mettre les fruits confits, les raisins secs et l'aclool, bien mélanger. Laisser macérer.
 
 
 
@@ -81,7 +81,7 @@ Préparation
 
 
 
-* Quand le pain est bien mou, broyer le tout au mixer afin d’obtenir une pâte.
+* Quand le pain est bien mou, broyer le tout au mixer afin d'obtenir une pâte.
 
 
 

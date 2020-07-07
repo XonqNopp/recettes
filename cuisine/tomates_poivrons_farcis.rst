@@ -64,7 +64,7 @@ fromage râpé
 Préparation
 ===========
 
-* Diluer la moitié du bouillon dans 2dl d’eau, l’autre moitié dans l’eau restante.
+* Diluer la moitié du bouillon dans 2dl d'eau, l'autre moitié dans l'eau restante.
 
 
 
@@ -80,7 +80,7 @@ Préparation
 
 
 * **Tomates :**
-    couper le capuchon (1cm) et la vider. Vider les tomates et couper la chaire et les capuchons en petits morceaux que l’on mettra dans la viande hachée.
+    couper le capuchon (1cm) et la vider. Vider les tomates et couper la chaire et les capuchons en petits morceaux que l'on mettra dans la viande hachée.
 
 
 

@@ -42,7 +42,7 @@ lait de coco
 Préparation
 ===========
 
-* Dans une petite casserole, verser l’eau et le sucre. Porter à ébullition en remuant sans cesse, jusqu’à ce que le sucre ait fondu.
+* Dans une petite casserole, verser l'eau et le sucre. Porter à ébullition en remuant sans cesse, jusqu'à ce que le sucre ait fondu.
 
 
 
@@ -58,7 +58,7 @@ Préparation
 
 
 
-* Verser le tout dans un récipient (boı̂te à glace) et faire congeler 4 à 5h jusqu’à ce que le sorbet soit ferme. Brasser 2 ou 3 fois à la fourchette pour réduire les cristaux. Cette étape peut être faite à l’aide d’une sorbetière.
+* Verser le tout dans un récipient (boı̂te à glace) et faire congeler 4 à 5h jusqu'à ce que le sorbet soit ferme. Brasser 2 ou 3 fois à la fourchette pour réduire les cristaux. Cette étape peut être faite à l'aide d'une sorbetière.
 
 
 

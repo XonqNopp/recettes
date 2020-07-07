@@ -29,7 +29,7 @@ gros oignon
 
 1/4
 1
-gousse d’ail
+gousse d'ail
 
 15
 g
@@ -61,15 +61,15 @@ herbes aromatiques
 Préparation
 ===========
 
-* Peler les pommes de terre et l’oignon, puis les râper en rondelles de 1mm.
+* Peler les pommes de terre et l'oignon, puis les râper en rondelles de 1mm.
 
 
 
-* Peler l’ail et le hacher.
+* Peler l'ail et le hacher.
 
 
 
-* Dans un grand plat à gratin (tiens donc !) graissé avec l’huile, répartir les ingrédients en couche selon l’ordre suivant :
+* Dans un grand plat à gratin (tiens donc !) graissé avec l'huile, répartir les ingrédients en couche selon l'ordre suivant :
 
     *   Pommes de terre
 
@@ -87,7 +87,7 @@ Préparation
 
 
 
-    *   Rondelles d’oignons
+    *   Rondelles d'oignons
 
 
 
@@ -97,7 +97,7 @@ Préparation
 
 
 
-* Verser le bouillon préalablement dilué dans l’eau chaude, saupoudrer de condiments et de fromage, puis couvrir de papier d’aluminium.
+* Verser le bouillon préalablement dilué dans l'eau chaude, saupoudrer de condiments et de fromage, puis couvrir de papier d'aluminium.
 
 
 
@@ -105,7 +105,7 @@ Préparation
 
 
 
-* • Ôter le papier d’alu, verser la crème et cuire encore 30 minutes.
+* • Ôter le papier d'alu, verser la crème et cuire encore 30 minutes.
 
 
 

@@ -25,7 +25,7 @@ fromage à fondue
 
 1/2
 2
-gousses d’ail
+gousses d'ail
 
 1
 dl
@@ -37,7 +37,7 @@ vin blanc
 Préparation
 ===========
 
-* Couper l’ail en 2 et frotter le caquelon avec, puis le presser.
+* Couper l'ail en 2 et frotter le caquelon avec, puis le presser.
 
 
 
@@ -45,7 +45,7 @@ Préparation
 
 
 
-* Cuire jusqu’à ébullition.
+* Cuire jusqu'à ébullition.
 
 
 

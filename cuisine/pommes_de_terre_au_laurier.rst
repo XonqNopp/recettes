@@ -51,7 +51,7 @@ bouillon de légumes
 Préparation
 ===========
 
-* Peler les pommes de terre et les couper en rondelles d’un millimètre d’épaisseur.
+* Peler les pommes de terre et les couper en rondelles d'un millimètre d'épaisseur.
 
 
 

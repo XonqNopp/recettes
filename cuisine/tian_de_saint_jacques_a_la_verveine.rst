@@ -29,7 +29,7 @@ feuilles de verveine
 cs
 3
 cs
-huile d’olive
+huile d'olive
 
 1/4
 cs
@@ -41,7 +41,7 @@ vinaigre balsamique
 Préparation
 ===========
 
-* Rincer et égoutter les noix. Les trancher en trois dans le sens de l’épaisseur et les poser sur un plat.
+* Rincer et égoutter les noix. Les trancher en trois dans le sens de l'épaisseur et les poser sur un plat.
 
 
 
@@ -57,7 +57,7 @@ Préparation
 
 
 
-* Couvrir d’un film alimentaire et laisser 30 minutes au réfrigérateur.
+* Couvrir d'un film alimentaire et laisser 30 minutes au réfrigérateur.
 
 
 
@@ -65,7 +65,7 @@ Préparation
 
 
 
-* Arroser l’ensemble avec la marinade.
+* Arroser l'ensemble avec la marinade.
 
 
 

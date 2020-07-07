@@ -21,7 +21,7 @@ Ingrédients
 g
 80
 g
-champignons secs (cornes d’abondance, bolets, morilles)
+champignons secs (cornes d'abondance, bolets, morilles)
 
 100
 g
@@ -63,15 +63,15 @@ herbes aromatiques
 Préparation
 ===========
 
-* Faire tremper les champignons dans de l’eau tiède.
+* Faire tremper les champignons dans de l'eau tiède.
 
 
 
-* Chauffer une grande poêle, y mettre un peu d’huile et dorer la viande sur toutes ses faces.
+* Chauffer une grande poêle, y mettre un peu d'huile et dorer la viande sur toutes ses faces.
 
 
 
-* Étendre la pâte sur un peu de farine en un rectangle plus long de 20cm que le filet mignon, d’environ 30cm de large.
+* Étendre la pâte sur un peu de farine en un rectangle plus long de 20cm que le filet mignon, d'environ 30cm de large.
 
 
 

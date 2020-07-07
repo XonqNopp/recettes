@@ -57,7 +57,7 @@ herbes aromatiques
 Préparation
 ===========
 
-* Chauffer une casserole ou une cocotte, y mettre un peu d’huile et faire rôtir la viande.
+* Chauffer une casserole ou une cocotte, y mettre un peu d'huile et faire rôtir la viande.
 
 
 
@@ -73,11 +73,11 @@ Préparation
 
 
 
-* Peler les oignons, les couper en deux et poser sur chaque moitié une feuille de laurier que l’on fixera avec un clou de girofle. Mettre dans la casserole.
+* Peler les oignons, les couper en deux et poser sur chaque moitié une feuille de laurier que l'on fixera avec un clou de girofle. Mettre dans la casserole.
 
 
 
-* Laisser mijoter au moins deux heures à petit feu. Au besoin, raouter de l’eau
+* Laisser mijoter au moins deux heures à petit feu. Au besoin, raouter de l'eau
     **petit à petit**
     .
 

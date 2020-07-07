@@ -29,19 +29,19 @@ huile de sésame
 Préparation
 ===========
 
-* Couvrir les piments d’eau bouillante pendant au moins une heure pour les ramollir.
+* Couvrir les piments d'eau bouillante pendant au moins une heure pour les ramollir.
 
 
 
-* Prendre le zeste d’un demi citron et le jus des deux.
+* Prendre le zeste d'un demi citron et le jus des deux.
 
 
 
-* Égoutter les piments en gardant un peu de l’eau de côté.
+* Égoutter les piments en gardant un peu de l'eau de côté.
 
 
 
-* Mélanger les piments, le jus des citrons, le zeste et l’huile, passer au mixer.
+* Mélanger les piments, le jus des citrons, le zeste et l'huile, passer au mixer.
 
 
 

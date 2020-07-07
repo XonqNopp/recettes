@@ -71,11 +71,11 @@ Préparation
 
 
 
-* Chauffer une cocotte, y mettre un peu d’huile et faire fôtir la viande.
+* Chauffer une cocotte, y mettre un peu d'huile et faire fôtir la viande.
 
 
 
-* Mouiller avec le vin et le bouillon dilué dans l’eau.
+* Mouiller avec le vin et le bouillon dilué dans l'eau.
 
 
 
@@ -95,7 +95,7 @@ Préparation
 
 
 
-* Au besoin, rajouter un peu d’eau
+* Au besoin, rajouter un peu d'eau
     **petit à petit**
     .
 

@@ -69,11 +69,11 @@ Préparation
 
 
 
-* Chauffer un wok ou une grand poêle, y mettre un peu d’huile et faire dorer la viande, puis la réserver.
+* Chauffer un wok ou une grand poêle, y mettre un peu d'huile et faire dorer la viande, puis la réserver.
 
 
 
-* Épépiner le poivron, peler l’oignon et couper tous deux en morceaux de 1cm.
+* Épépiner le poivron, peler l'oignon et couper tous deux en morceaux de 1cm.
 
 
 

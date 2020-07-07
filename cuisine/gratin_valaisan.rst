@@ -58,11 +58,11 @@ demi-crème
 Préparation
 ===========
 
-* Couper en tranches le pain et les tomates, ainsi que la moitié du fromage en épaisseur d’environ 1/2cm, râper grossièrement l’autre moitié.
+* Couper en tranches le pain et les tomates, ainsi que la moitié du fromage en épaisseur d'environ 1/2cm, râper grossièrement l'autre moitié.
 
 
 
-* Disposer environ la moitié du pain dans un plat à gratin graissé, l’arroser d’environ 1/2dl de vin.
+* Disposer environ la moitié du pain dans un plat à gratin graissé, l'arroser d'environ 1/2dl de vin.
 
 
 
@@ -70,7 +70,7 @@ Préparation
 
 
 
-* Saupoudrer les tomates de l’assaisonnement (y compris sel poivre).
+* Saupoudrer les tomates de l'assaisonnement (y compris sel poivre).
 
 
 

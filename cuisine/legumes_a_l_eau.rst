@@ -1,4 +1,4 @@
-Légumes à l’eau
+Légumes à l'eau
 ###############
 
 Préparation
@@ -41,7 +41,7 @@ Préparation
 
 
 
-* Dans une grande casserole en inox, porter l’eau à ébullition avec le bouillon.
+* Dans une grande casserole en inox, porter l'eau à ébullition avec le bouillon.
 
 
 

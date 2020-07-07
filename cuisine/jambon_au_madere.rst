@@ -19,7 +19,7 @@ Ingrédients
 
 4-5
 25-30
-tranches de jambon d’épaisseur env. 3Mm (pas du tout fin bon marché)
+tranches de jambon d'épaisseur env. 3Mm (pas du tout fin bon marché)
 
 1/2
 dl
