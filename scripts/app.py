@@ -358,6 +358,9 @@ class App:
                 contents = template.read()
 
         with open(self._results['filename'], 'w') as newFile:
+            newFile.write(self._results['title'] + '\n')
+            newFile.write('#' * len(self._results['title']) + '\n')
+
             newFile.write(contents)
 
     def updateIndex(self) -> None:

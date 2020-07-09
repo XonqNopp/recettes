@@ -1,5 +1,3 @@
-Recette
-#######
 
 * Préparation: ??? min
 * Cuisson: ??? min
