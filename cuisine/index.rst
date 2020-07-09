@@ -33,7 +33,6 @@ Cuisine
    jambon_au_madere.rst
    lait_a_la_pomme.rst
    legumes_a_l_eau.rst
-   levain.rst
    mafe.rst
    mayonnaise.rst
    mousse_au_thon.rst
@@ -41,7 +40,6 @@ Cuisine
    noix_de_coco_caramelisee.rst
    nouilles_aux_champignon_a_la_creme.rst
    oeuf_au_plat_travesti.rst
-   pain.rst
    papet_vaudois.rst
    parmentier_de_volaille_de_bresse.rst
    patates_roties_au_four.rst
