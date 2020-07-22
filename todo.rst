@@ -12,9 +12,6 @@ TODO
    * itemize bullet
    * section number
    * file.command: ouvrir, nouveau, sauver (www?)
-
-   * populate _templates
-
    * scripts/open, save and then according _mac.command and _linux.sh chmod
 
 

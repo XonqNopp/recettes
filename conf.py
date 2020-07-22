@@ -33,6 +33,7 @@ master_doc = 'index'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
+    'sphinx.ext.autosummary',
 ]
 
 autodoc_default_flags = ['members']

@@ -14,10 +14,5 @@ Recettes
    todo.rst
 
 
-Index et tables
-===============
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
 
