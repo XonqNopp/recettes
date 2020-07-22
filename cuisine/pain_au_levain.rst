@@ -34,6 +34,8 @@ Préparation
 * Cuire 40min a 220degC
 * Enlever le couvercle de la cocotte
 * Cuire encore 10min pour bronzer et durcir la croute
+* Quand le dessous fait un toc-toc regulier, le pain est cuit
+* Sortir le pain du four et le laisser secher sur une grille
 
 
 .. warning::
@@ -56,6 +58,19 @@ Préparation
 .. note::
 
    Pour faire des petits pains, mettre moins longtemps au four moins chaud.
+
+.. note::
+
+   Il faut respecter les differentes etapes de la preparation: 2 pousses, la
+   cuisson et le ressuage (le pain seche apres la cuisson). L'article wikipedia
+   en dessous explique bien tout ceci.
+
+   A titre d'exemple, nous avons pese une fois un pain aux differentes etapes:
+
+   * Juste apres le petrissage: 666g
+   * Juste avant la cuisson: 655g (-2%)
+   * Juste apres la cuisson: 598g (-9%)
+   * Apres le ressuage: 581g (-3%)
 
 
 Sources
