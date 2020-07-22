@@ -15,6 +15,8 @@ TODO
 
    * populate _templates
 
+   * scripts/open, save and then according _mac.command and _linux.sh chmod
+
 
 Links:
 

@@ -27,7 +27,7 @@ class Recettes(QtWidgets.QDialog):
     CATEGORIES = ['cuisine', 'cosmétique']
     DEFAULT_CATEGORY = 'cuisine'
 
-    TEMPLATES = ['aucun', 'standard', 'X personnes', 'petite et grande plaques']
+    TEMPLATES = ['aucun', 'standard', 'X personnes']
     DEFAULT_TEMPLATE = 'standard'
 
     def __init__(self, parent=None):
@@ -193,7 +193,7 @@ class Recettes(QtWidgets.QDialog):
 
         for template in self.TEMPLATES:
             if self._templates[template].isChecked():
-                return template.replace(' ', '_')
+                return template
 
         return self.UNDEFINED
 
@@ -293,8 +293,6 @@ class App:
     """
     NEWLINE = '\n'
 
-    TEMPLATE_DIR = '_templates'
-
     def __init__(self):
         self._logger = logging.getLogger(self.__class__.__name__)
 
@@ -347,15 +345,20 @@ class App:
 
         contents = ''
 
-        templateFilename = os.path.join(self.TEMPLATE_DIR, self._results['template'] + '.rst')
-        if self._results['template'] == 'aucun' or not os.path.exists(templateFilename):
-            self._logger.debug('No template available: {}'.format(templateFilename))
-
-        else:
+        if self._results['template'] != 'aucun' or not os.path.exists(templateFilename):
+            templateFilename = os.path.join(os.path.dirname(__file__), 'template.rst')
             self._logger.debug('Reading template: {}'.format(templateFilename))
 
             with open(templateFilename, 'r') as template:
                 contents = template.read()
+
+        if self._results['template'] == 'X personnes':
+            self._logger.debug('Using template for X personnes')
+            contents = contents.replace('* eau', """+------------+-------------+----------------------------------------------------+
+| 1 personne | ? personnes |                                                    |
++============+=============+====================================================+
+|          1 |           A | eau                                                |
++------------+-------------+----------------------------------------------------+""")
 
         with open(self._results['filename'], 'w') as newFile:
             newFile.write(self._results['title'] + '\n')
