@@ -33,7 +33,6 @@ master_doc = 'index'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
-    'sphinx.ext.autosummary',
 ]
 
 autodoc_default_flags = ['members']
@@ -81,7 +80,7 @@ language = 'fr'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'sphinx']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'sphinx', 'scripts', '_venv']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
