@@ -145,14 +145,14 @@ class Recettes(QtWidgets.QDialog):
 
         self._logger.debug('title formatted: {}'.format(title))
 
-        return title + '.rst'
+        return title
 
     @property
     def filename(self) -> str:
         """
         Get the filename for the new recipe.
         """
-        filename = os.path.join(self.getCategory(), self.basename)
+        filename = os.path.join(self.getCategory(), self.basename + '.rst')
 
         self._logger.debug('filename={}'.format(filename))
 

@@ -2,7 +2,7 @@
 Recettes
 ########
 
-:download:`_build/latex/Recettes.pdf`
+:download:`Le tout en PDF <_build/latex/Recettes.pdf>`
 
 
 .. toctree::
