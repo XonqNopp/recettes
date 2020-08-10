@@ -15,6 +15,8 @@ Ingrédients
 
 .. note:: Si on le conserve au frigo, l'effet fraicheur est encore plus fort.
 
+Utilisation quotidienne: environ 1g.
+
 
 Source
 ======

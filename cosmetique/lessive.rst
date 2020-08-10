@@ -21,6 +21,10 @@ Préparation
 * Laisser reposer une 8-12h
 * Filtrer et mettre en bouteille
 
+Bien secouer avant utilisation.
+
+Conservation: 2-3 semaines.
+
 
 Sources
 =======
