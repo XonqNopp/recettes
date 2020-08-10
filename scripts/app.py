@@ -461,6 +461,7 @@ def main() -> None:
         action='store_true',
         default=False,
     )
+    raise NotImplementedError('Title in arguments with options')
     args = parser.parse_args()
 
     # Logging
