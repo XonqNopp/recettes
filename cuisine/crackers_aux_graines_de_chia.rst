@@ -14,8 +14,10 @@ Ingrédients
 * 30 g graines de sésame
 * 75 g farine d'épautre
 * 75 g flocons d'avoine
+* 2 cs raisins secs
 * 1/2 cc sel
 * 2 cs huile de colza
+* 2 cs miel
 * 4 dl eau
 
 
@@ -26,11 +28,11 @@ Préparation
 * Mélanger le reste des graines à la farine, aux flocons d'avoine et au sel.
 * Ajouter l'huile et l'eau, mélanger
 * Laisser reposer 10-15 minutes
-* Préchauffer le four à 170°C (A CONFIRMER)
+* Préchauffer le four à 140-1500°C
 * Verser la masse sur une plaque du four (sur du papier cuisson). Etaler de sorte à répartir la masse sur la plaque.
 * Saupoudrer la préparation des graines mises de côté
-* Mettre dans le four environ 15 minutes
+* Mettre dans le four environ 10-15 minutes
 * Couper en petits rectangles
-* Remettre environ 50-60 minutes dans le four
+* Remettre environ 60 minutes dans le four. Les crackers doivent etre seches.
 * Laisser refroidir
 
