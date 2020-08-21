@@ -13,6 +13,55 @@ from subprocess import run
 from PySide2 import QtWidgets
 
 
+CATEGORIES = ['cuisine', 'cosmetique']
+DEFAULT_CATEGORY = CATEGORIES[0]
+
+TEMPLATES = ['aucun', 'standard', 'X personnes']
+DEFAULT_TEMPLATE = TEMPLATES[1]
+
+
+def getBasename(title: str) -> str:
+    """
+    Get the basename for the new recipe WITHOUT the prefixed dirname.
+    """
+    title = title.strip()
+
+    logging.debug('Prepare basename for title={}'.format(title))
+
+    # Format filename
+    translateTable = str.maketrans(
+        'áàâäãçéêèëẽíìîïĩóòôöõúùûüũýỳŷÿỹñÁÀÂÄÃÉÈÊËẼÍÌÎÏĨÓÒÔÖÕÚÙÛÜŨÝỲŶŸỸÑ',
+        'aaaaaceeeeeiiiiiooooouuuuuyyyyynAAAAAEEEEEIIIIIOOOOOUUUUUYYYYYN'
+    )
+
+    translateTable[ord('æ')] = 'ae'
+    translateTable[ord('œ')] = 'oe'
+
+    translateTable[ord('Æ')] = 'AE'
+    translateTable[ord('Œ')] = 'OE'
+
+    title = title.translate(translateTable)
+
+    title = title.lower()  # no .title because ordering is then messed if there are upper and lowercase letters mixed
+    # snake_case:
+    title = title.replace(' ', '_')
+    title = title.replace("'", '_')
+
+    # Get rid of non-standard characters
+    title = re.sub(r'()\[\]{}"\/:;.,?!<>+&%=$°§ßµ', '', title)
+
+    logging.debug('title formatted: {}'.format(title))
+
+    return title + '.rst'
+
+
+def getFilename(basename: str, category: str) -> str:
+    """
+    Get the filename for the new recipe.
+    """
+    return os.path.join(category, basename)
+
+
 class Recettes(QtWidgets.QDialog):
     """
     Pop-up window to create a new recette in this repo.
@@ -23,12 +72,6 @@ class Recettes(QtWidgets.QDialog):
     }
 
     UNDEFINED = 'UNDEFINED'
-
-    CATEGORIES = ['cuisine', 'cosmétique']
-    DEFAULT_CATEGORY = 'cuisine'
-
-    TEMPLATES = ['aucun', 'standard', 'X personnes']
-    DEFAULT_TEMPLATE = 'standard'
 
     def __init__(self, parent=None):
         super().__init__(parent)
@@ -56,12 +99,12 @@ class Recettes(QtWidgets.QDialog):
 
         self._categories = {}
 
-        for category in self.CATEGORIES:
+        for category in CATEGORIES:
             self._categories[category] = QtWidgets.QRadioButton(category)
 
-        self._categories[self.DEFAULT_CATEGORY].setChecked(True)
+        self._categories[DEFAULT_CATEGORY].setChecked(True)
 
-        for category in self.CATEGORIES:
+        for category in CATEGORIES:
             layout.addWidget(self._categories[category])
 
         categories = QtWidgets.QGroupBox('Catégorie')
@@ -74,12 +117,12 @@ class Recettes(QtWidgets.QDialog):
         Read which category is selected.
         """
         logString = 'categories:'
-        for category in self.CATEGORIES:
+        for category in CATEGORIES:
             logString += ' {}'.format(category) + '={}'.format(self._categories[category].isChecked())
 
         self._logger.debug(logString)
 
-        for category in self.CATEGORIES:
+        for category in CATEGORIES:
             if self._categories[category].isChecked():
                 return category
 
@@ -110,54 +153,6 @@ class Recettes(QtWidgets.QDialog):
         self._logger.debug('title={}'.format(title))
         return title
 
-    @property
-    def basename(self) -> str:
-        """
-        Get the filename for the new recipe WITHOUT the prefixed dirname.
-        """
-        self._logger.debug('Prepare filename')
-
-        title = self.getTitle().strip()
-
-        self._logger.debug('title={}'.format(title))
-
-        # Format filename
-        translateTable = str.maketrans(
-            'áàâäãçéêèëẽíìîïĩóòôöõúùûüũýỳŷÿỹñÁÀÂÄÃÉÈÊËẼÍÌÎÏĨÓÒÔÖÕÚÙÛÜŨÝỲŶŸỸÑ',
-            'aaaaaceeeeeiiiiiooooouuuuuyyyyynAAAAAEEEEEIIIIIOOOOOUUUUUYYYYYN'
-        )
-
-        translateTable[ord('æ')] = 'ae'
-        translateTable[ord('œ')] = 'oe'
-
-        translateTable[ord('Æ')] = 'AE'
-        translateTable[ord('Œ')] = 'OE'
-
-        title = title.translate(translateTable)
-
-        title = title.lower()  # no .title because ordering is then messed if there are upper and lowercase letters mixed
-        # snake_case:
-        title = title.replace(' ', '_')
-        title = title.replace("'", '_')
-
-        # Get rid of non-standard characters
-        title = re.sub(r'()\[\]{}"\/:;.,?!<>+&%=$°§ßµ', '', title)
-
-        self._logger.debug('title formatted: {}'.format(title))
-
-        return title
-
-    @property
-    def filename(self) -> str:
-        """
-        Get the filename for the new recipe.
-        """
-        filename = os.path.join(self.getCategory(), self.basename + '.rst')
-
-        self._logger.debug('filename={}'.format(filename))
-
-        return filename
-
     def templates(self) -> QtWidgets.QGroupBox:
         """
         Sets the template as radio buttons.
@@ -169,12 +164,12 @@ class Recettes(QtWidgets.QDialog):
         templates = QtWidgets.QGroupBox('Modèle')
 
         self._templates = {}
-        for template in self.TEMPLATES:
+        for template in TEMPLATES:
             self._templates[template] = QtWidgets.QRadioButton(template)
 
-        self._templates[self.DEFAULT_TEMPLATE].setChecked(True)
+        self._templates[DEFAULT_TEMPLATE].setChecked(True)
 
-        for template in self.TEMPLATES:
+        for template in TEMPLATES:
             layout.addWidget(self._templates[template])
 
         templates.setLayout(layout)
@@ -186,12 +181,12 @@ class Recettes(QtWidgets.QDialog):
         Read which template is selected.
         """
         logString = 'templates:'
-        for template in self.TEMPLATES:
+        for template in TEMPLATES:
             logString += ' {}'.format(template) + '={}'.format(self._templates[template].isChecked())
 
         self._logger.debug(logString)
 
-        for template in self.TEMPLATES:
+        for template in TEMPLATES:
             if self._templates[template].isChecked():
                 return template
 
@@ -247,7 +242,7 @@ class Recettes(QtWidgets.QDialog):
             self.rejectEmptyTitle()
             return
 
-        filename = self.filename
+        filename = getFilename(getBasename(self.getTitle()), self.getCategory())
         if os.path.exists(filename) and not self.confirmUseExistingFile(filename):
             return
 
@@ -282,8 +277,6 @@ class Recettes(QtWidgets.QDialog):
             ('category', self.getCategory()),
             ('title', self.getTitle()),
             ('template', self.getTemplate()),
-            ('filename', self.filename),
-            ('basename', self.basename),
         ])
 
 
@@ -293,19 +286,24 @@ class App:
     """
     NEWLINE = '\n'
 
-    def __init__(self):
+    def __init__(self, title, category, template):
         self._logger = logging.getLogger(self.__class__.__name__)
 
-        self._results = OrderedDict([
-            ('exitCode', None),
-            ('category', 'UNDEFINED'),
-        ])
+        self._title = title
+        self._category = category
+        self._template = template
+
+        self._results = None
 
     @property
     def exitCode(self):
         """
         Get the exit code.
         """
+        if self._results is None:
+            # Not defined yet
+            return 0
+
         return self._results['exitCode']
 
     @property
@@ -315,7 +313,7 @@ class App:
         """
         return os.path.join(self._results['category'], 'index.rst')
 
-    def run(self) -> None:
+    def runGUI(self) -> None:
         """
         Run the GUI app (no post-processing here).
         """
@@ -333,6 +331,24 @@ class App:
 
         self._results['exitCode'] = exitCode
 
+    def run(self) -> None:
+        """
+        Run the GUI app if needed.
+        """
+        if self._title is None:
+            self.runGUI()
+
+        else:
+            # store results
+            self._results = OrderedDict()
+            self._results['category'] = self._category
+            self._results['title'] = self._title
+            self._results['template'] = self._template
+            self._results['exitCode'] = 0
+
+        self._results['basename'] = getBasename(self._results['title'])
+        self._results['filename'] = getFilename(self._results['basename'], self._results['category'])
+
         self._logger.debug(self._results)
 
     def createFile(self) -> None:
@@ -345,8 +361,8 @@ class App:
 
         contents = ''
 
+        templateFilename = os.path.join(os.path.dirname(__file__), 'template.rst')
         if self._results['template'] != 'aucun' or not os.path.exists(templateFilename):
-            templateFilename = os.path.join(os.path.dirname(__file__), 'template.rst')
             self._logger.debug('Reading template: {}'.format(templateFilename))
 
             with open(templateFilename, 'r') as template:
@@ -395,22 +411,30 @@ class App:
                 break
 
         # From here until empty line, it is list of files
+        # WARNING: here we check before we append because if we store newline in files, the .sort will move it elsewhere...
         for iLine in range(iLine + 1, len(indexContents)):
             line = indexContents[iLine]
-            files.append(line)
 
             if line == self.NEWLINE:
                 break
 
+            files.append(line)
+
         # Footer
-        for iLine in range(iLine + 1, len(indexContents)):
+        # (Remember we broke out of the loop before appending so we resume at same index.)
+        for iLine in range(iLine, len(indexContents)):
             line = indexContents[iLine]
             footer.append(line)
 
         # READING DONE
 
         # Introduce new files and sort again
-        files.append('   {}{}'.format(self._results['basename'], self.NEWLINE))
+        newEntry = '   {}{}'.format(self._results['basename'], self.NEWLINE)
+        if newEntry in files:
+            # No need to do anything, file is already present
+            return
+
+        files.append(newEntry)
         files.sort()
 
         # Rewrite
@@ -431,10 +455,14 @@ class App:
         """
         Confirm file is ready.
         """
-        msgBox = QtWidgets.QMessageBox()
-        msgBox.setWindowTitle('Nouvelle recette prête')
-        msgBox.setText('La nouvelle recette peut maintenant être éditée dans:\n{}'.format(self._results['filename']))
-        msgBox.exec()
+        if self._title is None:
+            msgBox = QtWidgets.QMessageBox()
+            msgBox.setWindowTitle('Nouvelle recette prête')
+            msgBox.setText('La nouvelle recette peut maintenant être éditée dans:\n{}'.format(self._results['filename']))
+            msgBox.exec()
+
+        else:
+            print('Nouvelle recette: {}'.format(self._results['filename']))
 
     def process(self) -> int:
         """
@@ -461,7 +489,24 @@ def main() -> None:
         action='store_true',
         default=False,
     )
-    raise NotImplementedError('Title in arguments with options')
+    parser.add_argument(
+        '-t',
+        '--title',
+        help='Titre de la recette'
+    )
+    parser.add_argument(
+        '-c',
+        '--category',
+        choices=CATEGORIES,
+        default=DEFAULT_CATEGORY,
+        help='Categorie de la recette (defaut={})'.format(DEFAULT_CATEGORY)
+    )
+    parser.add_argument(
+        '--template',
+        choices=TEMPLATES,
+        default=DEFAULT_TEMPLATE,
+        help='Modele pour demarrer la recette (defaut={})'.format(DEFAULT_TEMPLATE)
+    )
     args = parser.parse_args()
 
     # Logging
@@ -472,7 +517,7 @@ def main() -> None:
         logging.basicConfig(format=logFormat, level=logging.INFO)
 
     # App
-    app = App()
+    app = App(args.title, args.category, args.template)
     app.run()
     exitCode = app.process()
 
