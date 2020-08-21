@@ -241,8 +241,6 @@ htmlhelp_basename = projectCamelCase
 
 # -- Options for LaTeX output ---------------------------------------------
 latex_elements = {
-}
-latex_elements = {
     #     The paper size ('letterpaper' or 'a4paper').
     'papersize': 'a4paper',
 
