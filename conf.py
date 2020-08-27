@@ -251,6 +251,18 @@ latex_elements = {
     'preamble': r"""
     \usepackage{titlesec}
     \newcommand{\sectionbreak}{\clearpage}
+    %\usepackage[colortbl}
+    %\newcommand*{\Gray}{\cellcolor[gray]{0.8}}
+    \newcommand[table]{xcolor}
+    \definecolor{lightgray}{gray}{0.8}
+    \let\oldtabular\tabular
+    \let\oldendtabular\endtabular
+    \renewenvironment{tabular}{%
+    \rowcolors{1}{lightgray}{}
+    \oldtabular%
+    }{%
+    \oldendtabular%
+    }
     """,
 
     # Latex figure (float) alignment
