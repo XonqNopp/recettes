@@ -11,4 +11,5 @@ TODO
    * itemize bullet: check .tex
    * file.command: ouvrir, nouveau, sauver (www?)
    * scripts/open, save and then according _mac.command and _linux.sh chmod
+   * try on mac
 

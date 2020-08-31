@@ -241,29 +241,41 @@ htmlhelp_basename = projectCamelCase
 
 # -- Options for LaTeX output ---------------------------------------------
 latex_elements = {
-    #     The paper size ('letterpaper' or 'a4paper').
     'papersize': 'a4paper',
-
-    #     The font size ('10pt', '11pt' or '12pt').
     'pointsize': '12pt',
 
     #     Additional stuff for the LaTeX preamble.
     'preamble': r"""
-    \usepackage{titlesec}
-    \newcommand{\sectionbreak}{\clearpage}
-    %\usepackage[colortbl}
-    %\newcommand*{\Gray}{\cellcolor[gray]{0.8}}
-    \newcommand[table]{xcolor}
-    \definecolor{lightgray}{gray}{0.8}
-    \let\oldtabular\tabular
-    \let\oldendtabular\endtabular
-    \renewenvironment{tabular}{%
-    \rowcolors{1}{lightgray}{}
-    \oldtabular%
-    }{%
-    \oldendtabular%
-    }
-    """,
+
+
+%%% CUSTOM %%%
+
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+\AtBeginDocument{\renewcommand{\labelitemi}{\textbullet}}
+\undef\sphinxstyletheadfamily % FIXME confirm
+
+
+% Color table rows alternating
+
+%\usepackage[colortbl}
+%\newcommand*{\Gray}{\cellcolor[gray]{0.8}}
+
+\newcommand[table]{xcolor}
+\definecolor{lightgray}{gray}{0.8}
+
+\let\oldtabular\tabulary
+\let\oldendtabular\endtabulary
+\renewenvironment{tabulary}{%
+\rowcolors{1}{lightgray}{}
+\oldtabular%
+}{%
+\oldendtabular%
+}
+
+%%% /CUSTOM %%%
+
+""",
 
     # Latex figure (float) alignment
     #'figure_align': 'htbp',
