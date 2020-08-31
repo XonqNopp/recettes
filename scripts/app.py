@@ -377,6 +377,9 @@ class App:
 +------------+-------------+----------------------------------------------------+""")
 
         with open(self._results['filename'], 'w') as newFile:
+            newFile.write('.. _{}_{}:\n'.format(self._results['category'], self._results['basename'].replace('.rst', '')))
+            newFile.write('.. index:: single: {}\n'.format(self._results['title']))
+            newFile.write('\n')
             newFile.write(self._results['title'] + '\n')
             newFile.write('#' * len(self._results['title']) + '\n')
 
