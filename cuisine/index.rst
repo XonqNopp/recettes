@@ -38,6 +38,7 @@ Cuisine
    levain.rst
    mafe.rst
    mayonnaise.rst
+   meringue.rst
    mousse_au_thon.rst
    noisettes_au_santal.rst
    noix_de_coco_caramelisee.rst
