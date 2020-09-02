@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Build PDF first so we can provide it as download in html
+# View the current state.
 sphinx-build -W -b "latex" . "_build/latex" || exit 1
 cd _build/latex && latexpawa Recettes.tex || exit 1
 

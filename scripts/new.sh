@@ -6,5 +6,3 @@ filename=`python scripts/app.py`
 # Commit new file.
 git commit -m "New: $filename"
 
-# Open it.
-

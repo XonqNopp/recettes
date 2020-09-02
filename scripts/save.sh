@@ -2,15 +2,14 @@
 
 # Save the current state.
 # Commit to git and push.
-git commit -am "Snapshot of `date +%Y-%m-%dT%H:%M`"
+git commit -am "Snapshot of `date +%Y-%m-%dT%H:%M`" || exit 1
+git pull || exit 1
+git push || exit 1
 # TODO configure user and email as well as username and credentials
 
 # Build PDF and HTML.
-sphinx-build -b latex . _build/latex
-latexpawa _build/latex/Recettes.tex
-
-sphinx-build -b html . _build/html
+./scripts/view.sh || exit 1
 
 # Upload to website.
-rsync -r _build/html x@y:xonqnopp.ch/recettes
+rsync -r _build/html x@y:xonqnopp.ch/recettes  # TODO || exit 1
 
