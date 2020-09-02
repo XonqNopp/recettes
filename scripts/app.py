@@ -464,8 +464,7 @@ class App:
             msgBox.setText('La nouvelle recette peut maintenant être éditée dans:\n{}'.format(self._results['filename']))
             msgBox.exec()
 
-        else:
-            print('Nouvelle recette: {}'.format(self._results['filename']))
+        print(self._results['filename'])
 
     def process(self) -> int:
         """

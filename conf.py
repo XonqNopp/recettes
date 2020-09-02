@@ -267,10 +267,12 @@ latex_elements = {
 \let\oldtabular\tabulary
 \let\oldendtabular\endtabulary
 \renewenvironment{tabulary}{%
-\rowcolors{1}{lightgray}{}
+\begin{flushleft}%
+\rowcolors{1}{lightgray}{}%
 \oldtabular%
-}{%
+}{
 \oldendtabular%
+\end{flushleft}%
 }
 
 %%% /CUSTOM %%%
