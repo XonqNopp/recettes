@@ -23,7 +23,7 @@ Ingrédients
 Préparation
 ===========
 
-* Dans un grand plat, mélanger au fouet le sucre et la maı̈zena.
+* Dans un grand plat, mélanger au fouet le sucre et la maïzena.
 * Dans une grande casserole en téflon, verser le lait et le chocolat, porter à ébullition.
 * Quand le lait bout, le verser dans le plat en fouettant énergiquement.
 * Laver la casserole et remettre la crème dans la casserole, puis remettre sur le feu
@@ -32,5 +32,5 @@ Préparation
 * dans un plat propre.
 * S'il y a des grumeaux, passer la crème dans une passoire immédiatemment.
 * Laisser refroidir en remuant de temps en temps avant de mettre au frigo.
-* Si la crème est trop épaisse une fois refroidie, la diluer avec du lait frois selon l'envie.
+* Si la crème est trop épaisse une fois refroidie, la diluer avec du lait froid selon l'envie.
 

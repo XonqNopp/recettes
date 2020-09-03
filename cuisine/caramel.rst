@@ -23,7 +23,7 @@ Préparation
 Pour un caramel liquide:
 
 * Ajouter 1dl d'eau (le caramel va figer, c'est normal)
-* Chauffer GENTIMENT jusqu'a ce que le caramel se soit completement diluer dans
+* Chauffer GENTIMENT jusqu'a ce que le caramel se soit completement dilue dans
   l'eau (le melange doit fremir, mais pas bouillir).
   On peut maintenant remuer avec une spatule.
 

@@ -28,7 +28,7 @@ Préparation
 * Mélanger le reste des graines à la farine, aux flocons d'avoine et au sel.
 * Ajouter l'huile et l'eau, mélanger
 * Laisser reposer 10-15 minutes
-* Préchauffer le four à 140-1500°C
+* Préchauffer le four à 140-150°C
 * Verser la masse sur une plaque du four (sur du papier cuisson). Etaler de sorte à répartir la masse sur la plaque.
 * Saupoudrer la préparation des graines mises de côté
 * Mettre dans le four environ 10-15 minutes

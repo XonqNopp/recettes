@@ -22,7 +22,7 @@ Préparation
 * Couper le beurre en petits morceaux et les malaxer gentiment pour qu'il se ramollisse.
 * Verser la farine et mélanger.
 * Ajouter le sel et le sucre glace.
-* Sabler rapidement, faire la « fontaine ».
+* Sabler rapidement, faire la "fontaine".
 * Battre légèrement les blancs d'œufs avec la vanille. Ajouter à la farine,
   puis former un rouleau et mettre au (très) frais pendant environ 30 minutes.
   On peut aussi congeler la pâte et la cuire un autre jour.
