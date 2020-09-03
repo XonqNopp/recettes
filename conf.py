@@ -253,27 +253,21 @@ latex_elements = {
 \usepackage{titlesec}
 \newcommand{\sectionbreak}{\clearpage}
 \AtBeginDocument{\renewcommand{\labelitemi}{\textbullet}}
-\undef\sphinxstyletheadfamily % FIXME confirm
-
+%\undef\sphinxstyletheadfamily % FIXME confirm
 
 % Color table rows alternating
+\usepackage[table]{xcolor}
 
-%\usepackage[colortbl}
-%\newcommand*{\Gray}{\cellcolor[gray]{0.8}}
-
-\newcommand[table]{xcolor}
-\definecolor{lightgray}{gray}{0.8}
-
-\let\oldtabular\tabulary
-\let\oldendtabular\endtabulary
-\renewenvironment{tabulary}{%
-\begin{flushleft}%
-\rowcolors{1}{lightgray}{}%
-\oldtabular%
-}{
-\oldendtabular%
-\end{flushleft}%
-}
+%\let\oldtabular\tabulary
+%\let\oldendtabular\endtabulary
+%\renewenvironment{tabulary}{%
+%\begin{flushleft}%
+%\rowcolors{1}{gray!20}{}%
+%\oldtabular%
+%}{
+%\oldendtabular%
+%\end{flushleft}%
+%}
 
 %%% /CUSTOM %%%
 

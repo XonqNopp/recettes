@@ -8,8 +8,6 @@ TODO
    * Double ligne pour tableau en-tete
    * Police?
    * Police tableau en-tete
-   * itemize bullet: check .tex
-   * file.command: ouvrir, nouveau, sauver (www?)
    * scripts/open, save and then according _mac.command and _linux.sh chmod
    * try on mac
    * tartelettes au citron
