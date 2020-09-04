@@ -32,5 +32,5 @@ Préparation
 * Couvrir d'un film alimentaire et laisser 30 minutes au réfrigérateur.
 * Sur des assiettes, disposer les noix en rosace.
 * Arroser l'ensemble avec la marinade.
-* Décorer avec les feuilles de verveine fraı̂che.
+* Décorer avec les feuilles de verveine fraîche.
 

@@ -31,11 +31,11 @@ Préparation
 ===========
 
 * Mettre les gousses de cardamone dans un mortier et les piler pour faire éclater les graines.
-* Mettre dans un saladier les jaunes d'œufs, le sucre, la maı̈zena, les zestes et le jus des citrons. Ajouter les graines et bien fouetter.
+* Mettre dans un saladier les jaunes d'œufs, le sucre, la maïzena, les zestes et le jus des citrons. Ajouter les graines et bien fouetter.
 * Porter le lait à ébullition dans une casserole à fond épais puis le verser dans le saladier en remuant bien.
 * Remettre le mélange à chauffer très doucement jusqu'à ce qu'il ait épaissi.
 * Verser cette crème anglaise dans un saladier, couvrir avec un papier sulfurisé et laisser refroidir. Faire bien réfrigérer.
 * Fouetter la crème légèrement et incorporer la crème anglaise.
-* Verser dans un bac à galce et faire congeler 3 à 4 heures en brassant 2 fois.
+* Verser dans un bac à glace et faire congeler 3 à 4 heures en brassant 2 fois.
 * Placer au réfrigérateur 30 minutes avant de servir dans des verres.
 

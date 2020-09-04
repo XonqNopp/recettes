@@ -38,6 +38,6 @@ Préparation
 * Préparer la sauce à salade.
 * Épépiner les poivrons.
 * Couper les poivrons, les tomates et les cornichons en dés de 5mm.
-* Mettre dans la sauce le riz, les légumes, le maı̈s, le thon, les petits
+* Mettre dans la sauce le riz, les légumes, le maïs, le thon, les petits
   pois-carottes et les petits oignons, puis bien mélanger.
 
