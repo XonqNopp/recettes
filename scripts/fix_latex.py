@@ -14,13 +14,18 @@ def main():
     """
     filename = os.path.join('_build', 'latex', 'Recettes.tex')
 
+    print('{}: post-processing...'.format(filename))
+
     # Read
     with open(filename, 'r', encoding='utf-8') as texFile:
         contents = texFile.read()
 
-    # Process
+    # Alternate table row colors
     contents = re.sub('\\\\usepackage{sphinx}', '\\\\usepackage[table]{xcolor}\n\\\\usepackage{sphinx}', contents)
     contents = re.sub('\\\\centering\n\\\\begin{tabulary}', '\\\\rowcolors{1}{gray!20}{}\n\\\\begin{tabulary}', contents)
+
+    # Remove unwanted font
+    contents = re.sub('\\\\sphinxstyletheadfamily', '\\\\bfseries', contents)
 
     # Write back
     with open(filename, 'w') as texFile:

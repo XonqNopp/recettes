@@ -253,7 +253,6 @@ latex_elements = {
 \usepackage{titlesec}
 \newcommand{\sectionbreak}{\clearpage}
 \AtBeginDocument{\renewcommand{\labelitemi}{\textbullet}}
-%\undef\sphinxstyletheadfamily % FIXME confirm
 
 %%% /CUSTOM %%%
 
