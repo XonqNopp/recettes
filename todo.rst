@@ -8,7 +8,7 @@ TODO
    * Double ligne pour tableau en-tete
    * Police?
    * X Police tableau en-tete
-   * scripts/open, save and then according _mac.command and _linux.sh chmod
+   * X scripts/open, save and then according _mac.command and _linux.sh chmod
    * try on mac
    * tartelettes au citron
 
