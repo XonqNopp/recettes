@@ -30,6 +30,9 @@ Préparation
 * Etirer la pate 1-2 fois et preparer des pizze
 
 
+.. note:: Pour la cuisson, mettre au four prechauffe a 230oC pendant 5-10min.
+
+
 Source
 ======
 
