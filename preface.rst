@@ -1,8 +1,5 @@
-Préface
-#######
-
 Conseils
-********
+########
 
 * Lire la recette en entier et préparer tous les ingrédients avant de commencer.
 * Préparer à l'avance tout ce qui prend du temps (ex : chauffer le four).
