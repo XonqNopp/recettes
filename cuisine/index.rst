@@ -24,6 +24,7 @@ Cuisine
    emince_de_poulet_au_curry.rst
    filet_mignon_en_croute.rst
    fondue.rst
+   gaufres_liegeoises.rst
    glace_au_citron_a_la_cardamome.rst
    glace_sorbet_au_gingembre_et_au_kiwi.rst
    glace_sorbet_noix_de_coco_et_citron_vert.rst
