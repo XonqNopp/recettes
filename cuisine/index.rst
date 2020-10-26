@@ -47,6 +47,7 @@ Cuisine
    nouilles_aux_champignon_a_la_creme.rst
    oeuf_au_plat_travesti.rst
    pain_au_levain.rst
+   pain_d_epices.rst
    papet_vaudois.rst
    parmentier_de_volaille_de_bresse.rst
    patates_roties_au_four.rst
