@@ -39,6 +39,7 @@ Cuisine
    hachis_parmentier.rst
    jambon_au_madere.rst
    lait_a_la_pomme.rst
+   lapin_au_four.rst
    legumes_a_l_eau.rst
    levain.rst
    mafe.rst
