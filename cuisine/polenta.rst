@@ -32,6 +32,7 @@ Préparation
   à très petit feu, en mélangeant de temps en temps.
 
 
+.. note:: S'il ne s'agit pas de polenta rapide, la cuisson est de minimum 1h.
 
 
 Suggestions
