@@ -76,6 +76,7 @@ Cuisine
    sauce_bolognaise.rst
    sauce_mediterraneenne.rst
    sirop_de_sureau.rst
+   tarte_tatin.rst
    tartelettes_a_la_raisinee.rst
    tartelettes_au_citron.rst
    tendrons_de_veau_marietta.rst
