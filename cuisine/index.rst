@@ -70,6 +70,7 @@ Cuisine
    sauce_a_salade.rst
    sauce_bechamel.rst
    sauce_bolognaise.rst
+   sauce_mediterraneenne.rst
    sirop_de_sureau.rst
    tartelettes_a_la_raisinee.rst
    tartelettes_au_citron.rst
