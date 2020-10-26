@@ -1,10 +1,9 @@
-TODO
+
+.. todo:: index ingredients
+
+
+ToDo
 ####
 
-.. todo::
-
-   * Double ligne pour tableau en-tete
-   * try on mac
-   * tartelettes au citron
-   * index ingredients
+.. todolist::
 
