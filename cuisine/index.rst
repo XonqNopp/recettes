@@ -72,6 +72,7 @@ Cuisine
    salade_de_riz.rst
    salee_au_sucre.rst
    sambal_olek.rst
+   sauce_a_la_noix_de_coco.rst
    sauce_a_salade.rst
    sauce_bechamel.rst
    sauce_bolognaise.rst
