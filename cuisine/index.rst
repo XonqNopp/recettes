@@ -51,6 +51,7 @@ Cuisine
    parmentier_de_volaille_de_bresse.rst
    patates_roties_au_four.rst
    pate_a_crepes.rst
+   pate_a_gateau.rst
    pate_a_pizza_au_levain.rst
    pates.rst
    polenta.rst
