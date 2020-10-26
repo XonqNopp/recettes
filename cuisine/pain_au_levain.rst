@@ -47,6 +47,9 @@ Préparation
    La consistance de la pate doit etre collante mais ne pas rester sur les
    doigts, et la pate ne doit pas casser trop vite si on l'etire.
 
+   Si on met trop d'eau, la pâte sera trop fluide et ne va pas maintenir sa
+   forme lors de la cuisson, elle va s'étaler et le pain sera plat et compact.
+
 
 .. note::
 
@@ -57,7 +60,7 @@ Préparation
 
 .. note::
 
-   Pour faire des petits pains, mettre moins longtemps au four moins chaud.
+   Pour faire des petits pains: 160°C 40 minutes.
 
 .. note::
 

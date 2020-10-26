@@ -5,8 +5,10 @@ Creme mains
 Ingrédients
 ===========
 
-* 2g cire d'abeille
+* 5g cire d'abeille
 * 20g (?) huile d'olive
+
+.. todo:: Proportions à confirmer
 
 
 Préparation

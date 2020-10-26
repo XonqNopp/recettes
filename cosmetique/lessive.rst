@@ -23,7 +23,7 @@ Préparation
 
 Bien secouer avant utilisation.
 
-Conservation: 2-3 semaines.
+Conservation: 1-2 semaines.
 
 
 Sources
