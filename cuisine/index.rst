@@ -14,6 +14,7 @@ Cuisine
    calamars_farcis_a_la_truite_fumee.rst
    caramel.rst
    caramels_mous.rst
+   chou_vietnamien.rst
    confiture.rst
    confiture_de_tomates_vertes.rst
    crackers_aux_graines_de_chia.rst
