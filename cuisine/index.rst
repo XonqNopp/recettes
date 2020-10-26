@@ -57,6 +57,7 @@ Cuisine
    pate_a_gateau.rst
    pate_a_pizza_au_levain.rst
    pates.rst
+   pesto.rst
    polenta.rst
    pommes_de_terre_au_laurier.rst
    poulet_nassa_senegal.rst
