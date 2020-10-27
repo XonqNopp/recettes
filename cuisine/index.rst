@@ -45,6 +45,7 @@ Cuisine
    mafe.rst
    mayonnaise.rst
    meringue.rst
+   moelleux_au_chocolat.rst
    mousse_au_thon.rst
    noisettes_au_santal.rst
    noix_de_coco_caramelisee.rst
