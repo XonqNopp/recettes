@@ -45,6 +45,7 @@ def getBasename(title: str) -> str:
     title = title.lower()  # no .title because ordering is then messed if there are upper and lowercase letters mixed
     # snake_case:
     title = title.replace(' ', '_')
+    title = title.replace('-', '_')
     title = title.replace("'", '_')
 
     # Get rid of non-standard characters
