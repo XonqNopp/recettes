@@ -71,6 +71,7 @@ Cuisine
    riz.rst
    roti_de_boeuf.rst
    roulades_de_poisson_a_la_bruxelloise.rst
+   rouleux_de_printemps_crus.rst
    salade_bananes_oranges_citrons.rst
    salade_d_avocats.rst
    salade_de_riz.rst
