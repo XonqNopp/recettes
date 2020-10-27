@@ -74,7 +74,9 @@ Cuisine
    roulades_de_poisson_a_la_bruxelloise.rst
    rouleux_de_printemps_crus.rst
    salade_bananes_oranges_citrons.rst
+   salade_d_automne.rst
    salade_d_avocats.rst
+   salade_d_ete.rst
    salade_de_riz.rst
    salee_au_sucre.rst
    sambal_olek.rst
