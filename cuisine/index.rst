@@ -48,6 +48,7 @@ Cuisine
    mousse_au_thon.rst
    noisettes_au_santal.rst
    noix_de_coco_caramelisee.rst
+   nouilles_au_safran.rst
    nouilles_aux_champignon_a_la_creme.rst
    oeuf_au_plat_travesti.rst
    pain_au_levain.rst
@@ -70,6 +71,7 @@ Cuisine
    roti_de_boeuf.rst
    roulades_de_poisson_a_la_bruxelloise.rst
    salade_bananes_oranges_citrons.rst
+   salade_d_avocats.rst
    salade_de_riz.rst
    salee_au_sucre.rst
    sambal_olek.rst
