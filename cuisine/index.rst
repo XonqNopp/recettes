@@ -34,6 +34,7 @@ Cuisine
    glace_sorbet_noix_de_coco_et_citron_vert.rst
    gratin_al_vialone.rst
    gratin_dauphinois.rst
+   gratin_de_chou_fleur_et_pommes_de_terre.rst
    gratin_de_pates.rst
    gratin_valaisan.rst
    hachis_parmentier.rst
