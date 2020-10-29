@@ -16,7 +16,20 @@ from PySide2 import QtWidgets
 CATEGORIES = ['cuisine', 'cosmetique']
 DEFAULT_CATEGORY = CATEGORIES[0]
 
-TEMPLATES = ['aucun', 'standard', 'X personnes']
+TEMPLATES = [
+    'aucun',
+    'standard',
+    '2 personnes',
+    '3 personnes',
+    '4 personnes',
+    '5 personnes',
+    '6 personnes',
+    '7 personnes',
+    '8 personnes',
+    '9 personnes',
+    '10 personnes',
+]
+
 DEFAULT_TEMPLATE = TEMPLATES[1]
 
 
@@ -369,13 +382,15 @@ class App:
             with open(templateFilename, 'r') as template:
                 contents = template.read()
 
-        if self._results['template'] == 'X personnes':
-            self._logger.debug('Using template for X personnes')
+        if ' personnes' in self._results['template']:
+            self._logger.debug('Using template for {}'.format(self._results['template']))
+            nPeople = int(self._results['template'].split(' ')[0])
+
             contents = contents.replace('* eau', """+------------+-------------+----------------------------------------------------+
-| 1 personne | ? personnes |                                                    |
+| 1 personne | {} personnes |                                                    |
 +============+=============+====================================================+
 |          1 |           A | eau                                                |
-+------------+-------------+----------------------------------------------------+""")
++------------+-------------+----------------------------------------------------+""".format(nPeople))
 
         with open(self._results['filename'], 'w') as newFile:
             newFile.write('.. _{}_{}:\n'.format(self._results['category'], self._results['basename'].replace('.rst', '')))
