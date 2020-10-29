@@ -70,6 +70,8 @@ Cuisine
    quiche_aux_tomates.rst
    ragout_de_boeuf.rst
    ratatouille.rst
+   risotto_aux_pommes.rst
+   risotto_d_ailleurs.rst
    riz.rst
    roti_de_boeuf.rst
    roulades_de_poisson_a_la_bruxelloise.rst
