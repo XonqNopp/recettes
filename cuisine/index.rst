@@ -26,6 +26,7 @@ Cuisine
    emince_de_poulet_au_curry.rst
    filet_mignon_en_croute.rst
    fondue.rst
+   gateau_a_la_courge.rst
    gateau_aux_amandes.rst
    gateau_du_vully.rst
    gaufres_liegeoises.rst
