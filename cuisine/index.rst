@@ -79,6 +79,7 @@ Cuisine
    salade_bananes_oranges_citrons.rst
    salade_d_automne.rst
    salade_d_avocats.rst
+   salade_d_endives_exotique.rst
    salade_d_ete.rst
    salade_de_riz.rst
    salee_au_sucre.rst
