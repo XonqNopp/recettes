@@ -66,6 +66,7 @@ Cuisine
    pesto.rst
    polenta.rst
    pommes_de_terre_au_laurier.rst
+   potage_au_mais_et_aux_tomates_sechees.rst
    poulet_nassa_senegal.rst
    quiche_aux_tomates.rst
    ragout_de_boeuf.rst
