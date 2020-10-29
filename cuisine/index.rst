@@ -90,6 +90,7 @@ Cuisine
    sauce_bechamel.rst
    sauce_bolognaise.rst
    sauce_mediterraneenne.rst
+   sauce_moutarde.rst
    sirop_de_sureau.rst
    steak_tartare.rst
    tarte_tatin.rst
