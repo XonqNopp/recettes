@@ -386,11 +386,11 @@ class App:
             self._logger.debug('Using template for {}'.format(self._results['template']))
             nPeople = int(self._results['template'].split(' ')[0])
 
-            contents = contents.replace('* eau', """+------------+-------------+----------------------------------------------------+
-| 1 personne | {} personnes |                                                    |
-+============+=============+====================================================+
-|          1 |           A | eau                                                |
-+------------+-------------+----------------------------------------------------+""".format(nPeople))
+            contents = contents.replace('* eau', """+------------+-------------+---------------------------------------------------+
+| 1 personne | {} personnes |                                                   |
++============+=============+===================================================+
+|          1 |           A | eau                                               |
++------------+-------------+---------------------------------------------------+""".format(nPeople))
 
         with open(self._results['filename'], 'w') as newFile:
             newFile.write('.. _{}_{}:\n'.format(self._results['category'], self._results['basename'].replace('.rst', '')))
