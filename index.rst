@@ -16,5 +16,8 @@ Recettes
    todo.rst
 
 
-.. * :ref:`genindex`
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
 
