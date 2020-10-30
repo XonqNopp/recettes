@@ -101,6 +101,7 @@ Cuisine
    tian_de_saint_jacques_a_la_verveine.rst
    tomates_poivrons_farcis.rst
    torta_di_mosche.rst
+   tortillas_gratinees_aux_avocats.rst
    viande_hachee.rst
    yogourt.rst
 
