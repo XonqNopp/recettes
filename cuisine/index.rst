@@ -6,6 +6,7 @@ Cuisine
 
    amandes_caramelisees.rst
    avocats_au_romarin_et_au_lard_avec_sauce_aux_amandes.rst
+   bananes_miel_coco.rst
    biscuits_aux_epices.rst
    biscuits_aux_noisettes.rst
    biscuits_milanais.rst
