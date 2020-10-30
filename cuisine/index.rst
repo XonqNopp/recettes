@@ -73,6 +73,7 @@ Cuisine
    ragout_de_boeuf.rst
    ratatouille.rst
    risotto_aux_pommes.rst
+   risotto_aux_tomates.rst
    risotto_d_ailleurs.rst
    riz.rst
    roti_de_boeuf.rst
