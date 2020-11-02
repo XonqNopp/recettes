@@ -85,6 +85,7 @@ Cuisine
    salade_d_endives_exotique.rst
    salade_d_ete.rst
    salade_de_riz.rst
+   salade_japonaise_de_crevettes.rst
    salee_au_sucre.rst
    sambal_olek.rst
    sauce_a_la_noix_de_coco.rst
