@@ -60,6 +60,7 @@ def getBasename(title: str) -> str:
     title = title.replace(' ', '_')
     title = title.replace('-', '_')
     title = title.replace("'", '_')
+    title = title.replace(',', '')
 
     # Get rid of non-standard characters
     title = re.sub(r'()\[\]{}"\/:;.,?!<>+&%=$°§ßµ', '', title)
