@@ -72,6 +72,7 @@ Cuisine
    quiche_aux_tomates.rst
    ragout_de_boeuf.rst
    ratatouille.rst
+   risotto_aux_asperges_tomates_sechees_et_sbrinz.rst
    risotto_aux_pommes.rst
    risotto_aux_tomates.rst
    risotto_d_ailleurs.rst
