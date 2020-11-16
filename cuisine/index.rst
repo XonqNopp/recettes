@@ -48,6 +48,7 @@ Cuisine
    levain.rst
    mafe.rst
    mayonnaise.rst
+   medaillons_d_agneau.rst
    meringue.rst
    moelleux_au_chocolat.rst
    mousse_au_thon.rst
@@ -92,6 +93,7 @@ Cuisine
    sambal_olek.rst
    sauce_a_la_noix_de_coco.rst
    sauce_a_salade.rst
+   sauce_aux_marrons.rst
    sauce_bechamel.rst
    sauce_bolognaise.rst
    sauce_mediterraneenne.rst
