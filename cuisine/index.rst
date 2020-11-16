@@ -52,6 +52,7 @@ Cuisine
    meringue.rst
    moelleux_au_chocolat.rst
    mousse_au_thon.rst
+   mousse_aux_vermicelles.rst
    noisettes_au_santal.rst
    noix_de_coco_caramelisee.rst
    nouilles_au_safran.rst
