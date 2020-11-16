@@ -13,6 +13,7 @@ Cuisine
    biscuits_sables.rst
    boulettes_de_poisson_a_l_aneth.rst
    calamars_farcis_a_la_truite_fumee.rst
+   cannelloni.rst
    caramel.rst
    caramels_mous.rst
    carpaccio_de_concombres.rst
