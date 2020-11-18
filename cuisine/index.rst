@@ -17,6 +17,7 @@ Cuisine
    caramel.rst
    caramels_mous.rst
    carpaccio_de_concombres.rst
+   chataignes.rst
    chou_vietnamien.rst
    confiture.rst
    confiture_de_tomates_vertes.rst
