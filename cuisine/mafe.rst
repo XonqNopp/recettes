@@ -1,3 +1,6 @@
+.. _cuisine_mafe:
+.. index:: single: Mafe
+
 Mafé (Sénégal)
 ##############
 

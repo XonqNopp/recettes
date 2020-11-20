@@ -96,6 +96,7 @@ Cuisine
    sambal_olek.rst
    sauce_a_la_noix_de_coco.rst
    sauce_a_salade.rst
+   sauce_arachides.rst
    sauce_aux_marrons.rst
    sauce_bechamel.rst
    sauce_bolognaise.rst
