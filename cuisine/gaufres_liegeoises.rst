@@ -9,6 +9,9 @@ Gaufres liegeoises
 * Cuisson: 45 min
 
 
+Variante 1
+**********
+
 Ingrédients
 ===========
 
@@ -45,4 +48,22 @@ Source
 ======
 
 http://www.lacuisinedebernard.com/2016/09/gaufres-liegeoises.html
+
+
+
+Variante 2
+**********
+
+Ingredients
+===========
+
+Pour 6 gaufres.
+
+* 1 oeuf
+* 125g farine
+* 5 dl lait
+* 25g sucre
+* 1 pincee de sel
+* 1/2 sachet de poudre a lever
+* 40g beurre
 
