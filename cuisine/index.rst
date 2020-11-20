@@ -19,6 +19,7 @@ Cuisine
    carpaccio_de_concombres.rst
    chataignes.rst
    chou_vietnamien.rst
+   cocktail_fruit_des_iles.rst
    confiture.rst
    confiture_de_tomates_vertes.rst
    crackers_aux_graines_de_chia.rst
