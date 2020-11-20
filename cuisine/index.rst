@@ -69,6 +69,7 @@ Cuisine
    pate_a_pizza_au_levain.rst
    pates.rst
    pesto.rst
+   poires_caramelisees.rst
    polenta.rst
    pommes_de_terre_au_laurier.rst
    potage_au_mais_et_aux_tomates_sechees.rst
