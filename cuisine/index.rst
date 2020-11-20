@@ -17,6 +17,7 @@ Cuisine
    cannelloni.rst
    caramel.rst
    caramels_mous.rst
+   carottes_au_gingembre.rst
    carpaccio_de_concombres.rst
    chataignes.rst
    chou_vietnamien.rst
