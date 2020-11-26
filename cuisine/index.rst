@@ -111,6 +111,7 @@ Cuisine
    saumon_sur_lit_de_tomates.rst
    sirop_de_sureau.rst
    steak_tartare.rst
+   tartare_de_legumes.rst
    tarte_tatin.rst
    tartelettes_a_la_raisinee.rst
    tartelettes_au_citron.rst
