@@ -67,6 +67,7 @@ Cuisine
    pain_au_levain.rst
    pain_d_epices.rst
    papet_vaudois.rst
+   parfait_au_miel_et_aux_epices.rst
    parmentier_de_volaille_de_bresse.rst
    patates_roties_au_four.rst
    pate_a_crepes.rst
