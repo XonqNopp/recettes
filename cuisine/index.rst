@@ -112,6 +112,7 @@ Cuisine
    sirop_de_sureau.rst
    steak_tartare.rst
    tartare_de_legumes.rst
+   tartare_de_saumon.rst
    tarte_tatin.rst
    tartelettes_a_la_raisinee.rst
    tartelettes_au_citron.rst
