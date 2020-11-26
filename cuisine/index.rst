@@ -117,6 +117,7 @@ Cuisine
    tomates_poivrons_farcis.rst
    torta_di_mosche.rst
    tortillas_gratinees_aux_avocats.rst
+   veloute_de_bolets_au_safran.rst
    viande_hachee.rst
    yogourt.rst
 
