@@ -97,6 +97,7 @@ Cuisine
    salade_d_avocats.rst
    salade_d_endives_exotique.rst
    salade_d_ete.rst
+   salade_de_chou_fleur.rst
    salade_de_riz.rst
    salade_japonaise_de_crevettes.rst
    salee_au_sucre.rst
