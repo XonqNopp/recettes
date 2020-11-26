@@ -23,3 +23,27 @@ Préparation
 * Ajouter le sucre et bien mélanger.
 * Quand la confiture devient épaisse, répartir dans les bocaux, les fermer et les retourner.
 
+
+Quantites
+=========
+
+2018
+****
+
+* Cerises: 1kg = 7 petits bocaux
+* Fraises: 2kg = 11 bocaux
+* Framboises: 1kg = 5 bocaux
+* Prunes: 2.5kg
+* Abricots: 1kg
+* Poires: 2kg = 9 bocaux
+
+
+2020
+****
+
+* Fraises: 3kg = 4 litres = 14 bocaux; 2kg (???)
+* Cerises: 1.1kg = 6 bocaux
+* Poires: 2kg
+* Abricots
+* Framboises
+
