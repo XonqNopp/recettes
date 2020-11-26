@@ -33,6 +33,7 @@ Cuisine
    curry_vert_au_poulet.rst
    emince_de_poulet_au_curry.rst
    filet_mignon_en_croute.rst
+   flammekueche.rst
    fondue.rst
    gateau_a_la_courge.rst
    gateau_aux_amandes.rst
