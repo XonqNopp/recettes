@@ -92,6 +92,7 @@ Cuisine
    roti_de_boeuf.rst
    roulades_de_poisson_a_la_bruxelloise.rst
    rouleux_de_printemps_crus.rst
+   saint_jacques_balsamique.rst
    salade_bananes_oranges_citrons.rst
    salade_d_automne.rst
    salade_d_avocats.rst
