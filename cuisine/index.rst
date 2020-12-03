@@ -8,6 +8,7 @@ Cuisine
    ananas_de_poulet_au_curry.rst
    avocats_au_romarin_et_au_lard_avec_sauce_aux_amandes.rst
    bananes_miel_coco.rst
+   barres_de_cereales_aux_abricots.rst
    biscuits_aux_epices.rst
    biscuits_aux_noisettes.rst
    biscuits_milanais.rst
