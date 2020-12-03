@@ -11,8 +11,8 @@ Ingrédients
 
 * 500 g farine
 * 400 g beurre
-* 200 g sucre (vanillé)
-* 2 pincées de sel
+* 100 g sucre (vanillé)
+* 2 pincées de fleur de sel
 * 2 blancs d'oeuf
 
 
@@ -27,5 +27,5 @@ Préparation
   puis former un rouleau et mettre au (très) frais pendant environ 30 minutes.
   On peut aussi congeler la pâte et la cuire un autre jour.
 * Découper en rondelles de 5mm d'épaisseur, déposer sur une plaque en laissant suffisamment d'espace.
-* Faire cuire tout de suite pendant 10 à 12 minutes au milieu du four à 200°C.
+* Faire cuire tout de suite pendant 10 à 12 minutes au milieu du four à 200°C sol-voute (pas de chaleur tournante!).
 
