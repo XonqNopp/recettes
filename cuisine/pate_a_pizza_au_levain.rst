@@ -28,11 +28,12 @@ Préparation
 * Huiler le plat et reposer la pate dedans, frotter un peu d'huile sur la pate
 * Laisser reposer a couvert 8-12h
 * Etirer la pate 1-2 fois et preparer des pizze
-* Cuire 5-10min dans le four préchauffé à 230-240°C
+* Cuire 5-10min dans le four préchauffé à 280-300°C (au moins 250°C)
 
 
 Source
 ======
 
-http://panamsaine.over-blog.com/2019/06/pate-a-pizza-au-levain-naturel.html
+* http://panamsaine.over-blog.com/2019/06/pate-a-pizza-au-levain-naturel.html
+* http://www.four-a-pizza.eu/cuire-four-maison.html
 

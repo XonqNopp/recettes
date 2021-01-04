@@ -40,6 +40,8 @@ Cuisine
    gateau_aux_amandes.rst
    gateau_du_vully.rst
    gaufres_liegeoises.rst
+   gaufres_liegeoises_au_levain.rst
+   genoise.rst
    glace_au_citron_a_la_cardamome.rst
    glace_sorbet_au_gingembre_et_au_kiwi.rst
    glace_sorbet_noix_de_coco_et_citron_vert.rst
@@ -74,6 +76,7 @@ Cuisine
    patates_roties_au_four.rst
    pate_a_crepes.rst
    pate_a_gateau.rst
+   pate_a_pizza.rst
    pate_a_pizza_au_levain.rst
    pates.rst
    pesto.rst

@@ -44,3 +44,11 @@ Préparation
 * Ajouter le bouillon restant.
 * Cuire au four préchauffé à 200°C pendant 30 minutes.
 
+Si on veut servir avec du riz, on peut aussi mettre le riz au fond du plad a gratin avant de disposer les legumes.
+
+
+Source
+======
+
+https://www.panierdesaison.com/2012/05/tomates-farcies-avec-le-riz-autour.html
+
