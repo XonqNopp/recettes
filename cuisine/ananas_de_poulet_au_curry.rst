@@ -1,5 +1,5 @@
-.. _cuisine_ananas_de_poulet_au_curry:
 .. index:: single: Ananas de poulet au curry
+.. _cuisine_ananas_de_poulet_au_curry:
 
 Ananas de poulet au curry
 #########################

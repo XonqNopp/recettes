@@ -1,5 +1,5 @@
-.. _cuisine_tortillas_gratinees_aux_avocats:
 .. index:: single: Tortillas gratinees aux avocats
+.. _cuisine_tortillas_gratinees_aux_avocats:
 
 Tortillas gratinees aux avocats
 ###############################

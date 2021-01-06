@@ -1,5 +1,5 @@
-.. _cuisine_poires_caramelisees:
 .. index:: single: Poires caramelisees
+.. _cuisine_poires_caramelisees:
 
 Poires caramelisees
 ###################

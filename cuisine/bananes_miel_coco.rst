@@ -1,5 +1,5 @@
-.. _cuisine_bananes_miel_coco:
 .. index:: single: Bananes miel-coco
+.. _cuisine_bananes_miel_coco:
 
 Bananes miel-coco
 #################

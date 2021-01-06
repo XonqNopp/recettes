@@ -1,5 +1,5 @@
-.. _cuisine_salade_d_automne:
 .. index:: single: Salade d'automne
+.. _cuisine_salade_d_automne:
 
 Salade d'automne
 ################

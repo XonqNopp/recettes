@@ -1,5 +1,5 @@
-.. _cuisine_gratin_de_chou_fleur_et_pommes_de_terre:
 .. index:: single: Gratin de chou-fleur et pommes de terre
+.. _cuisine_gratin_de_chou_fleur_et_pommes_de_terre:
 
 Gratin de chou-fleur et pommes de terre
 #######################################

@@ -1,5 +1,5 @@
-.. _cuisine_potage_au_mais_et_aux_tomates_sechees:
 .. index:: single: Potage au mais et aux tomates sechees
+.. _cuisine_potage_au_mais_et_aux_tomates_sechees:
 
 Potage au mais et aux tomates sechees
 #####################################

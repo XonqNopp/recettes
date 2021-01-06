@@ -1,5 +1,5 @@
-.. _cuisine_veloute_de_bolets_au_safran:
 .. index:: single: Veloute de bolets au safran
+.. _cuisine_veloute_de_bolets_au_safran:
 
 Veloute de bolets au safran
 ###########################

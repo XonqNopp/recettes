@@ -1,5 +1,5 @@
-.. _cuisine_tartare_de_saumon:
 .. index:: single: Tartare de saumon
+.. _cuisine_tartare_de_saumon:
 
 Tartare de saumon
 #################

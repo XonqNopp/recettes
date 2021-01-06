@@ -1,5 +1,5 @@
-.. _cosmetique_tissu_wax:
 .. index:: single: tissu wax
+.. _cosmetique_tissu_wax:
 
 Tissu wax
 #########

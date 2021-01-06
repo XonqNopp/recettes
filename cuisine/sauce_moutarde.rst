@@ -1,5 +1,5 @@
-.. _cuisine_sauce_moutarde:
 .. index:: single: Sauce moutarde
+.. _cuisine_sauce_moutarde:
 
 Sauce moutarde
 ##############

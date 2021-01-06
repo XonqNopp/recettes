@@ -1,5 +1,5 @@
-.. _cuisine_parfait_au_miel_et_aux_epices:
 .. index:: single: Parfait au miel et aux epices
+.. _cuisine_parfait_au_miel_et_aux_epices:
 
 Parfait au miel et aux epices
 #############################

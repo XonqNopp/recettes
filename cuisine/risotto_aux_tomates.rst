@@ -1,5 +1,5 @@
-.. _cuisine_risotto_aux_tomates:
 .. index:: single: Risotto aux tomates
+.. _cuisine_risotto_aux_tomates:
 
 Risotto aux tomates
 ###################

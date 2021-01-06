@@ -1,5 +1,5 @@
-.. _cuisine_saint_jacques_balsamique:
 .. index:: single: Saint-Jacques balsamique
+.. _cuisine_saint_jacques_balsamique:
 
 Saint-Jacques balsamique
 ########################

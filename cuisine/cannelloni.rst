@@ -1,5 +1,5 @@
-.. _cuisine_cannelloni:
 .. index:: single: Cannelloni
+.. _cuisine_cannelloni:
 
 Cannelloni
 ##########

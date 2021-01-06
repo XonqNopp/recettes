@@ -1,5 +1,5 @@
-.. _cuisine_sauce_aux_crevettes_coco_curry:
 .. index:: single: Sauce aux crevettes, coco, curry
+.. _cuisine_sauce_aux_crevettes_coco_curry:
 
 Sauce aux crevettes, coco, curry
 ################################

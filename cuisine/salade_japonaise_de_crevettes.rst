@@ -1,5 +1,5 @@
-.. _cuisine_salade_japonaise_de_crevettes:
 .. index:: single: Salade japonaise de crevettes
+.. _cuisine_salade_japonaise_de_crevettes:
 
 Salade japonaise de crevettes
 #############################

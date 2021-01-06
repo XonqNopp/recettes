@@ -1,5 +1,5 @@
-.. _cuisine_pate_a_pizza:
 .. index:: single: Pate a pizza
+.. _cuisine_pate_a_pizza:
 
 Pate a pizza
 ############

@@ -1,5 +1,5 @@
-.. _cuisine_meringue:
 .. index:: single: meringue
+.. _cuisine_meringue:
 
 meringue
 ########

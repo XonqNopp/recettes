@@ -1,5 +1,5 @@
-.. _cuisine_genoise:
 .. index:: single: Genoise
+.. _cuisine_genoise:
 
 Genoise
 #######

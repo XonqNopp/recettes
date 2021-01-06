@@ -1,5 +1,5 @@
-.. _cuisine_mafe:
 .. index:: single: Mafe
+.. _cuisine_mafe:
 
 Mafé (Sénégal)
 ##############

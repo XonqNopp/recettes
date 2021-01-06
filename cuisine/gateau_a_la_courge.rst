@@ -1,5 +1,5 @@
-.. _cuisine_gateau_a_la_courge:
 .. index:: single: Gateau a la courge
+.. _cuisine_gateau_a_la_courge:
 
 Gateau a la courge
 ##################

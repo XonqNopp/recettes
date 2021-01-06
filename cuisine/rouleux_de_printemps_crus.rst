@@ -1,5 +1,5 @@
-.. _cuisine_rouleux_de_printemps_crus:
 .. index:: single: Rouleux de printemps crus
+.. _cuisine_rouleux_de_printemps_crus:
 
 Rouleux de printemps crus
 #########################

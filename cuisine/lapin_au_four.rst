@@ -1,5 +1,5 @@
-.. _cuisine_lapin_au_four:
 .. index:: single: Lapin au four
+.. _cuisine_lapin_au_four:
 
 Lapin au four
 #############

@@ -1,5 +1,5 @@
-.. _cuisine_medaillons_d_agneau:
 .. index:: single: Medaillons d'agneau
+.. _cuisine_medaillons_d_agneau:
 
 Medaillons d'agneau
 ###################

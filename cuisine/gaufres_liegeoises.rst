@@ -1,5 +1,5 @@
-.. _cuisine_gaufres_liegeoises:
 .. index:: single: Gaufres liegeoises
+.. _cuisine_gaufres_liegeoises:
 
 Gaufres liegeoises
 ##################

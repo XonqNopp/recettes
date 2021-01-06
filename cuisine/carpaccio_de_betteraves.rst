@@ -1,5 +1,5 @@
-.. _cuisine_carpaccio_de_betteraves:
 .. index:: single: Carpaccio de betteraves
+.. _cuisine_carpaccio_de_betteraves:
 
 Carpaccio de betteraves
 #######################

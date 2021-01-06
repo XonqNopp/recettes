@@ -1,5 +1,5 @@
-.. _cuisine_sauce_arachides:
 .. index:: single: Sauce arachides
+.. _cuisine_sauce_arachides:
 
 Sauce arachides
 ###############

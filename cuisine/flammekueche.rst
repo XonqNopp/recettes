@@ -1,6 +1,6 @@
-.. _cuisine_flammekueche:
 .. index:: single: Flammekueche
 .. index:: single: tarte flambee
+.. _cuisine_flammekueche:
 
 Flammekueche (tarte flambee)
 ############################

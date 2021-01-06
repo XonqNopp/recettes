@@ -1,5 +1,5 @@
-.. _cuisine_salade_de_chou_fleur:
 .. index:: single: Salade de chou-fleur
+.. _cuisine_salade_de_chou_fleur:
 
 Salade de chou-fleur
 ####################

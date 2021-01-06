@@ -1,5 +1,5 @@
-.. _cuisine_cocktail_fruit_des_iles:
 .. index:: single: Cocktail fruit des iles
+.. _cuisine_cocktail_fruit_des_iles:
 
 Cocktail fruit des iles
 #######################

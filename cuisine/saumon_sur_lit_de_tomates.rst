@@ -1,5 +1,5 @@
-.. _cuisine_saumon_sur_lit_de_tomates:
 .. index:: single: Saumon sur lit de tomates
+.. _cuisine_saumon_sur_lit_de_tomates:
 
 Saumon sur lit de tomates
 #########################

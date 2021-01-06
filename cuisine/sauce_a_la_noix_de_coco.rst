@@ -1,5 +1,5 @@
-.. _cuisine_sauce_a_la_noix_de_coco:
 .. index:: single: Sauce a la noix de coco
+.. _cuisine_sauce_a_la_noix_de_coco:
 
 Sauce a la noix de coco
 #######################

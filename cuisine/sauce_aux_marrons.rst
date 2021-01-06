@@ -1,5 +1,5 @@
-.. _cuisine_sauce_aux_marrons:
 .. index:: single: Sauce aux marrons
+.. _cuisine_sauce_aux_marrons:
 
 Sauce aux marrons
 #################

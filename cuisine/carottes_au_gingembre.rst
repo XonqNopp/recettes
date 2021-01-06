@@ -1,5 +1,5 @@
-.. _cuisine_carottes_au_gingembre:
 .. index:: single: Carottes au gingembre
+.. _cuisine_carottes_au_gingembre:
 
 Carottes au gingembre
 #####################

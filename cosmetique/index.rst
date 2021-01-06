@@ -11,5 +11,5 @@ Cosmetique
    film_alimentaire.rst
    lessive.rst
    sommeil.rst
-   tissu_was.rst
+   tissu_wax.rst
 

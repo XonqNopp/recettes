@@ -1,5 +1,5 @@
-.. _cuisine_moelleux_au_chocolat:
 .. index:: single: Moelleux au chocolat
+.. _cuisine_moelleux_au_chocolat:
 
 Moelleux au chocolat
 ####################

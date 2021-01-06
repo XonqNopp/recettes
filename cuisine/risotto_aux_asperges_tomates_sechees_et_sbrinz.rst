@@ -1,5 +1,5 @@
-.. _cuisine_risotto_aux_asperges_tomates_sechees_et_sbrinz:
 .. index:: single: Risotto aux asperges, tomates sechees et Sbrinz
+.. _cuisine_risotto_aux_asperges_tomates_sechees_et_sbrinz:
 
 Risotto aux asperges, tomates sechees et Sbrinz
 ###############################################

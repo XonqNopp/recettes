@@ -1,5 +1,5 @@
-.. _cuisine_cocktail_danseuse_divine:
 .. index:: single: Cocktail danseuse divine
+.. _cuisine_cocktail_danseuse_divine:
 
 Cocktail danseuse divine
 ########################

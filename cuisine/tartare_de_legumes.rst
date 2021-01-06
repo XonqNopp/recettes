@@ -1,5 +1,5 @@
-.. _cuisine_tartare_de_legumes:
 .. index:: single: Tartare de legumes
+.. _cuisine_tartare_de_legumes:
 
 Tartare de legumes
 ##################

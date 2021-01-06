@@ -1,5 +1,5 @@
-.. _cuisine_salade_d_avocats:
 .. index:: single: Salade d'avocats
+.. _cuisine_salade_d_avocats:
 
 Salade d'avocats
 ################

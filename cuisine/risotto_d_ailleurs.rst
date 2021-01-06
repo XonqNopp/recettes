@@ -1,5 +1,5 @@
-.. _cuisine_risotto_d_ailleurs:
 .. index:: single: Risotto d'ailleurs
+.. _cuisine_risotto_d_ailleurs:
 
 Risotto d'ailleurs
 ##################

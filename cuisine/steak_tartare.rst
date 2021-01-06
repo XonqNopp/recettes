@@ -1,5 +1,5 @@
-.. _cuisine_steak_tartare:
 .. index:: single: Steak tartare
+.. _cuisine_steak_tartare:
 
 Steak tartare
 #############

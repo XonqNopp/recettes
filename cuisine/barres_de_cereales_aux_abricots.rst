@@ -1,5 +1,5 @@
-.. _cuisine_barres_de_cereales_aux_abricots:
 .. index:: single: Barres de cereales aux abricots
+.. _cuisine_barres_de_cereales_aux_abricots:
 
 Barres de cereales aux abricots
 ###############################

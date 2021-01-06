@@ -1,5 +1,5 @@
-.. _cuisine_nouilles_au_safran:
 .. index:: single: Nouilles au safran
+.. _cuisine_nouilles_au_safran:
 
 Nouilles au safran
 ##################

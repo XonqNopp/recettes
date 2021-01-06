@@ -1,5 +1,5 @@
-.. _cuisine_chataignes:
 .. index:: single: Chataignes
+.. _cuisine_chataignes:
 
 Chataignes
 ##########

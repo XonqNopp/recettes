@@ -1,5 +1,5 @@
-.. _cuisine_risotto_aux_pommes:
 .. index:: single: Risotto aux pommes
+.. _cuisine_risotto_aux_pommes:
 
 Risotto aux pommes
 ##################

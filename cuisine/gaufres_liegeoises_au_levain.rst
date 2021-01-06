@@ -1,5 +1,5 @@
-.. _cuisine_gaufres_liegeoises_au_levain:
 .. index:: single: Gaufres liegeoises au levain
+.. _cuisine_gaufres_liegeoises_au_levain:
 
 Gaufres liegeoises au levain
 ############################

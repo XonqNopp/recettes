@@ -1,5 +1,5 @@
-.. _cuisine_mousse_aux_vermicelles:
 .. index:: single: Mousse aux vermicelles
+.. _cuisine_mousse_aux_vermicelles:
 
 Mousse aux vermicelles
 ######################
