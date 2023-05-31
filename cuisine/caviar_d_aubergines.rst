@@ -12,7 +12,7 @@ Caviar d'aubergines
 ###################
 
 * Préparation: 15 min
-* Cuisson: 30-60 min
+* Cuisson: 45-60 min
 
 
 Ingrédients
@@ -20,19 +20,17 @@ Ingrédients
 
 * 1 aubergine
 * 1 échalotte/petit oignon rouge
-* sel
-* poivre
 * épices/herbes
 * éventuellement sésame
+* éventuellement ail
 
 
 Préparation
 ===========
 
 * Piquer l'aubergine un peu partout.
-* Cuire au four 30 min à 200°C sur une grille avec une plaque dessous.
+* Cuire au four 45-60 min à 200°C (sur une grille avec une plaque dessous).
 * Couper l'aubergine et recueillir la chaire.
 * Couper l'oignon.
 * Mélanger et hacher.
 * Ajouter un peu d'huile et assaisonner.
-
