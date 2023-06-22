@@ -52,9 +52,7 @@ Cuisine
    fenouil_braise_au_miel_et_aux_agrumes.rst
    filet_mignon_en_croute.rst
    flammekueche.rst
-   fondue_a_la_courge.rst
-   fondue_au_vacherin.rst
-   fondue_moitie_moitie.rst
+   fondue.rst
    galette_des_rois_normande.rst
    galettes_de_legumes.rst
    gateau_a_la_courge.rst
