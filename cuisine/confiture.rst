@@ -1,5 +1,5 @@
 .. index:: Confiture
-.. index:: CUisine de base; Confiture
+.. index:: Cuisine de base; Confiture
 
 .. _cuisine_confiture:
 

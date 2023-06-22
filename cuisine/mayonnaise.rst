@@ -1,5 +1,5 @@
 .. index:: Mayonnaise
-.. index:: CUisine de base; Mayonnaise
+.. index:: Cuisine de base; Mayonnaise
 .. index:: Sauce; Mayonnaise
 
 .. index:: Oeuf; Mayonnaise

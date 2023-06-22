@@ -1,5 +1,5 @@
 .. index:: Fondue; ...moitie-moitie
-.. index:: CUisine de base; Fondue moitie-moitie
+.. index:: Cuisine de base; Fondue moitie-moitie
 .. index:: Saisons: 4 saisons; Fondue moitie-moitie
 
 .. index:: Fromage: Gruyere; Fondue moitie-moitie
