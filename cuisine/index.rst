@@ -88,8 +88,6 @@ Cuisine
    medaillons_d_agneau.rst
    meringue.rst
    moelleux_au_chocolat.rst
-   moelleux_au_chocolat2.rst
-   moelleux_au_chocolat3.rst
    mousse_au_thon.rst
    mousse_aux_vermicelles.rst
    noisettes_au_santal.rst
