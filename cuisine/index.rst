@@ -81,7 +81,6 @@ Cuisine
    legumes_a_l_eau.rst
    levain.rst
    madeleines.rst
-   madeleines_sans_oeufs.rst
    mafe.rst
    mayonnaise.rst
    medaillons_d_agneau.rst
