@@ -373,14 +373,7 @@ class App:
 
         return self._results['exitCode']
 
-    @property
-    def indexRst(self) -> str:
-        """
-        Get the relevant ``xxx/index.rst`` filename.
-        """
-        return str(Path(self._results['category'].name) / 'index.rst')
-
-    def runGUI(self) -> None:
+    def runGUI(self):
         """
         Run the GUI app (no post-processing here).
         """
@@ -398,7 +391,7 @@ class App:
 
         self._results['exitCode'] = exitCode
 
-    def run(self) -> None:
+    def run(self):
         """
         Run the GUI app if needed.
         """
@@ -470,7 +463,7 @@ class App:
             newFile.write('#' * len(self._results['title']) + '\n')
             newFile.write('\n')
 
-    def createFile(self) -> None:
+    def createFile(self):
         """
         Create file from template (except if file exists).
         """
@@ -484,63 +477,15 @@ class App:
         else:
             self._createDefaultFile()
 
-    def updateIndex(self) -> None:
-        """
-        Update the relevant index file to insert the new recipe.
-        """
-        with open(self.indexRst, 'r', newline=self.NEWLINE) as indexFile:
-            indexContents = indexFile.readlines()
-
-        header = []
-        files = []
-
-        # Look for toctree
-        iLine = 0  # init at beginning
-        for iLine in range(iLine, len(indexContents)):
-            line = indexContents[iLine]
-            header.append(line)
-
-            if line == f'.. toctree::{self.NEWLINE}':
-                break
-
-        # Now look for empty line
-        for iLine in range(iLine + 1, len(indexContents)):
-            line = indexContents[iLine]
-            header.append(line)
-
-            if line == self.NEWLINE:
-                break
-
-        # From here until end, it is list of files: we store for processing
-        # WARNING: we check before we append because if we store newline in files, the .sort will move it elsewhere...
-        for iLine in range(iLine + 1, len(indexContents)):
-            files.append(indexContents[iLine])
-
-        # READING DONE
-
-        # Introduce new files and sort again
-        newEntry = f'   {self._results["basename"]}{self.NEWLINE}'
-        if newEntry in files:
-            # No need to do anything, file is already present
-            return
-
-        files.append(newEntry)
-        files.sort()
-
-        # Rewrite
-        with open(self.indexRst, 'w', newline=self.NEWLINE) as indexFile:
-            indexFile.write(''.join(header))
-            indexFile.write(''.join(files))
-
-    def gitStageFiles(self) -> None:
+    def gitStageFiles(self):
         """
         Stage touched files to git for the next commit.
         """
-        command = ['git', 'add', str(self._results['filename']), self.indexRst]
+        command = ['git', 'add', str(self._results['filename'])]
         self._logger.debug(' '.join(command))
         run(command)
 
-    def confirm(self) -> None:
+    def confirm(self):
         """
         Confirm file is ready.
         """
@@ -559,7 +504,6 @@ class App:
         Run the complete post-processing.
         """
         self.createFile()
-        self.updateIndex()
         self.gitStageFiles()
 
         self.confirm()
@@ -567,7 +511,7 @@ class App:
         return self.exitCode
 
 
-def main() -> None:
+def main():
     """
     Main function.
     """

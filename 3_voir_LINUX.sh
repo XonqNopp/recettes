@@ -17,10 +17,15 @@ workdir=$(dirname "$0")
 # subshell so we do not need to care about restoring CWD
 cd "$workdir" || exit -1
 
+
+# Generate index
+python scripts/generate_index.py cuisine cosmetique
+
+
+# LaTeX
 pdfFilename="_build/latex/Recettes.pdf"
 rm -f "$pdfFilename"
 touch "$pdfFilename"
-
 
 if command -v latex > /dev/null; then
 	# LaTeX PDF
@@ -43,6 +48,7 @@ else
 	echo
 	sleep 5
 fi
+
 
 # HTML
 sphinxBuild "html"
