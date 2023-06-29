@@ -21,6 +21,8 @@ Ingrédients
 * 1/2 jus de citron
 * epices a guacamole
 
+.. todo:: epices a guacamole???
+
 
 Préparation
 ===========
@@ -38,4 +40,3 @@ On peut remplacer les avocats (tres gourmands en eau pour leur production) par d
 Le passer sous l'eau froide apres cuisson pour garder une belle couleur verte.
 
 C l'idee (Jamy) https://www.youtube.com/watch?v=uZ672Qj4SsU
-
