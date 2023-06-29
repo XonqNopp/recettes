@@ -66,7 +66,6 @@ Cuisine
    glace_sorbet_noix_de_coco_et_citron_vert.rst
    gnocchi_carottes.rst
    granola.rst
-   granola_aux_abricots.rst
    gratin_al_vialone.rst
    gratin_dauphinois.rst
    gratin_de_celeri_branche.rst
