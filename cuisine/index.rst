@@ -107,7 +107,6 @@ Cuisine
    pate_a_crepes.rst
    pate_a_flam.rst
    pate_a_gateau.rst
-   pate_a_pizza.rst
    pate_a_pizza_au_levain.rst
    pates.rst
    pates_au_fenouil.rst
