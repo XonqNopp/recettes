@@ -101,7 +101,6 @@ Cuisine
    parmentier_de_volaille_de_bresse.rst
    parmigiana.rst
    patates_douces_grillees.rst
-   patates_roties_au_four.rst
    pate_a_crepes.rst
    pate_a_flam.rst
    pate_a_gateau.rst
@@ -114,6 +113,7 @@ Cuisine
    poivrons_grilles_a_la_lorraine.rst
    polenta.rst
    pommes_de_terre_au_laurier.rst
+   pommes_de_terre_roties_au_four.rst
    pommes_de_terre_suedoises.rst
    potage_au_mais_et_aux_tomates_sechees.rst
    potiron_caramelise_au_sirop_d_erable_et_aux_epices.rst

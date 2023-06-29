@@ -1,12 +1,12 @@
-.. index:: Patates rôties au four
-.. index:: Saisons: 4 saisons; Patates rôties au four
+.. index:: Pommes de terre rôties au four
+.. index:: Saisons: 4 saisons; Pommes de terre rôties au four
 
-.. index:: Pomme de terre; Patates rôties au four
+.. index:: Pomme de terre; Pommes de terre rôties au four
 
-.. _cuisine_patates_roties_au_four:
+.. _cuisine_pommes_de_terre_roties_au_four:
 
-Patates rôties au four
-######################
+Pommes de terre rôties au four
+##############################
 
 * Préparation: 20 min
 * Cuisson: 30 min
@@ -33,4 +33,3 @@ Préparation
 * Badigeonner la face coupée des pommes de terre d'huile d'olive et les placer sur une plaque.
 * Enduire le dos des pommes de terre d'huile et de sel.
 * Mettre au four chauffé à 200°C pendant 30 minutes.
-
