@@ -1,5 +1,6 @@
 .. index:: Parmentier de volaille de Bresse
 .. index:: Saisons: 4 saisons; Parmentier de volaille de Bresse
+.. index:: Jamais fait; Parmentier de volaille de Bresse
 
 .. index:: Pomme de terre; Parmentier de volaille de Bresse
 .. index:: Ail; Parmentier de volaille de Bresse
@@ -52,4 +53,3 @@ Préparation
 * Ajouter la purée, rectifier l'assaisonnement et mélanger délicatement.
 * Verser dans un plat à gratin.
 * Recouvrir avec le Gruyère râpé, puis faire gratiner pendant 15 minutes au four à 220°C.
-

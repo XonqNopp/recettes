@@ -1,4 +1,5 @@
 .. index:: Escargots cannelle
+.. index:: Invention; Escargots cannelle
 .. index:: Repas: gouter; Escargots cannelle
 
 .. index:: Pate feuilletee; Escargots cannelle
@@ -42,3 +43,8 @@ Remarques
 
 (Dernier essai: 50min chaleur voûte+sol, trop cuits.)
 
+
+Source
+======
+
+Invention familiale

@@ -2,6 +2,7 @@
 .. index:: Sorbet; ...au gingembre et au kiwi
 .. index:: Repas: gouter; Glace sorbet au gingembre et au kiwi
 .. index:: Repas: dessert; Glace sorbet au gingembre et au kiwi
+.. index:: Jamais fait; Glace sorbet au gingembre et au kiwi
 
 .. index:: Gingembre; Glace sorbet au gingembre et au kiwi
 .. index:: Kiwi; Glace sorbet au gingembre et au kiwi
@@ -39,4 +40,3 @@ Préparation
 * Éplucher les kiwis et mixer pour obtenir une consistance lisse. Ajouter au sirop et bien mélanger.
 * Verser le mélange dans un bac à glace et faire congeler 3 à 4 heures en brassant 2 fois.
 * Conserver au congélateur jusqu'au moment de servir.
-

@@ -1,5 +1,6 @@
 .. index:: Oeuf; ...au plat travesti
 .. index:: Repas: dessert; Oeuf au plat travesti
+.. index:: Jamais fait; Oeuf au plat travesti
 
 .. index:: Abricot; Oeuf au plat travesti
 .. index:: Peche; Oeuf au plat travesti
@@ -30,4 +31,3 @@ Préparation
 * Répartir le yogourt en couvrant les biscuits.
 * Poser délicatement le demi abricot face bombée dessus.
 * Saupoudrer de cannelle.
-

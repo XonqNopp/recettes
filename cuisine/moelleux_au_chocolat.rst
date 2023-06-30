@@ -1,6 +1,7 @@
 .. index:: Moelleux au chocolat
 .. index:: Repas: gouter; Moelleux au chocolat
 .. index:: Repas: dessert; Moelleux au chocolat
+.. index:: Jamais fait; Moelleux au chocolat (1/2/3)
 
 .. index:: Chocolat; Moelleux au chocolat
 .. index:: Beurre; Moelleux au chocolat

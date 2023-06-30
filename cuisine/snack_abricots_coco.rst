@@ -1,4 +1,5 @@
 .. index:: Snacks; ...abricots-coco
+.. index:: Jamais fait; Snack abricots-coco
 
 .. index:: Abricot; Snack abricots-coco
 .. index:: Mangue; Snack abricots-coco
@@ -50,4 +51,3 @@ Source
 ======
 
 Fooby
-

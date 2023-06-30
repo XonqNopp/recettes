@@ -1,5 +1,6 @@
 .. index:: Soupe; ...de cotes de bette
 .. index:: Saisons: Printemps; Soupe de cotes de bette
+.. index:: Jamais fait; Soupe de cotes de bette
 
 .. index:: Beurre; Soupe de cotes de bette
 .. index:: Oignon; Soupe de cotes de bette
@@ -56,4 +57,3 @@ Source
 ======
 
 Swissmilk?
-

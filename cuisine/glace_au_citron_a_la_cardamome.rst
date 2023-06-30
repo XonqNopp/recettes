@@ -1,6 +1,7 @@
 .. index:: Glace; ...au citron à la cardamome
 .. index:: Repas: gouter; Glace au citron à la cardamome
 .. index:: Repas: dessert; Glace au citron à la cardamome
+.. index:: Jamais fait; Glace au citron à la cardamome
 
 .. index:: Cardamome; Glace au citron à la cardamome
 .. index:: Oeuf; Glace au citron à la cardamome
@@ -49,4 +50,3 @@ Préparation
 * Fouetter la crème légèrement et incorporer la crème anglaise.
 * Verser dans un bac à glace et faire congeler 3 à 4 heures en brassant 2 fois.
 * Placer au réfrigérateur 30 minutes avant de servir dans des verres.
-

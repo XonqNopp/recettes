@@ -1,5 +1,6 @@
 .. index:: Hachis parmentier
 .. index:: Saisons: 4 saisons; Hachis parmentier
+.. index:: Jamais fait; Hachis parmentier
 
 .. index:: Viande hachée; Hachis parmentier
 .. index:: Pomme de terre; Hachis parmentier
@@ -21,7 +22,7 @@ Ingrédients
 +------------+-------------+---------------------------------------------------------------+
 | 1 personne | 6 personnes |                                                               |
 +============+=============+===============================================================+
-|       80 g |       500 g | viande hachée (préparée selon la recette de la viande hachée) |
+|       80 g |       500 g | :ref:`cuisine_viande_hachee`                                  |
 +------------+-------------+---------------------------------------------------------------+
 |      150 g |        1 kg | purée de pommes de terre                                      |
 +------------+-------------+---------------------------------------------------------------+

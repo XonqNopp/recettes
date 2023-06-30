@@ -1,5 +1,6 @@
 .. index:: Curry; ...rouge à la viande
 .. index:: Saisons: Ete; Curry rouge à la viande
+.. index:: Jamais fait; Curry rouge à la viande
 
 .. index:: Boeuf; Curry rouge à la viande
 .. index:: Poulet; Curry rouge à la viande
@@ -60,4 +61,3 @@ Préparation
 * Assaisonner avec la sauce de poisson.
 * Pour un curry plus épicé, ajouter encore 1 cs de pâte de curry.
 * Décorer avec les tomates cerises coupées en 2 et le basilic, et servir avec du riz.
-

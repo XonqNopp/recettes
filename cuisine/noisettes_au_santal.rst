@@ -1,5 +1,6 @@
 .. index:: Noisettes; ...au santal
 .. index:: Repas: friandises; Noisettes au santal
+.. index:: Jamais fait; Noisettes au santal
 
 .. index:: Santal; Noisettes au santal
 
@@ -28,4 +29,3 @@ Préparation
 * Ne pas arrêter de mélanger et cuire jusqu'à ce que le mélange épaississe.
 * Continuer de cuire à feu modéré toujours en mélangeant. Le mélange va devenir presque sec et une sorte de poudre va se coller aux noisettes.
 * Quand toutes les noisettes sont entourées de poudre, les verser délicatement sur une plaque du four recouverte de papier à cuisson.
-

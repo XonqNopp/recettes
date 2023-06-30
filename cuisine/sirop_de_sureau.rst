@@ -1,5 +1,6 @@
 .. index:: Sirop de sureau
 .. index:: Boisson; Sirop de sureau
+.. index:: Jamais fait; Sirop de sureau
 
 .. index:: Sureau; Sirop de sureau
 
@@ -42,4 +43,3 @@ Préparation
 * Préparer les bouteilleys dans lesquelles on va metrre le sirop, les laver et les remplir d'eau bouillante.
 * Verser le sirop à travers une passoire dans une grande casserole.
 * Porter à ébullition, vider les bouteilles de leur eau et les remplir avec le sirop, les boucher immédiatement.
-

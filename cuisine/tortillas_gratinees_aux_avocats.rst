@@ -1,5 +1,6 @@
 .. index:: Tortillas; gratinees aux avocats
 .. index:: Saisons: 4 saisons; Tortillas gratinees aux avocats
+.. index:: Jamais fait; Tortillas gratinees aux avocats
 
 .. index:: Oignon; Tortillas gratinees aux avocats
 .. index:: Viande hachée; Tortillas gratinees aux avocats

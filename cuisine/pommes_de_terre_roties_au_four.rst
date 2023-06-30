@@ -1,5 +1,6 @@
 .. index:: Pommes de terre rôties au four
 .. index:: Saisons: 4 saisons; Pommes de terre rôties au four
+.. index:: Jamais fait; Pommes de terre rôties au four
 
 .. index:: Pomme de terre; Pommes de terre rôties au four
 

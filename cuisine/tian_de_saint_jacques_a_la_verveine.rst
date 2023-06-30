@@ -1,5 +1,6 @@
 .. index:: Tian de Saint-Jacques à la verveine
 .. index:: Saisons: 4 saisons; Tian de Saint-Jacques à la verveine
+.. index:: Jamais fait; Tian de Saint-Jacques à la verveine
 
 .. index:: Saint-Jacques; Tian de Saint-Jacques à la verveine
 .. index:: Noix de Saint-Jacques; Tian de Saint-Jacques à la verveine
@@ -44,4 +45,3 @@ Préparation
 * Sur des assiettes, disposer les noix en rosace.
 * Arroser l'ensemble avec la marinade.
 * Décorer avec les feuilles de verveine fraîche.
-

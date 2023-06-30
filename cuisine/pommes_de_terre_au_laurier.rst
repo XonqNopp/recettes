@@ -1,5 +1,6 @@
 .. index:: Pomme de terre; ...au laurier
 .. index:: Saisons: 4 saisons; Pommes de terre au laurier
+.. index:: Jamais fait; Pommes de terre au laurier
 
 .. index:: Laurier; Pommes de terre au laurier
 
@@ -40,4 +41,3 @@ Préparation
 * le bouillon, le sel et 2 tours de moulin à poivre.
 * Ajouter les rondelles de pommes de terre, mélanger.
 * Cuire à feu doux pendant 30 minutes.
-

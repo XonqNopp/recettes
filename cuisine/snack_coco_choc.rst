@@ -1,4 +1,6 @@
 .. index:: Snacks; ...coco-choc
+.. index:: Invention; Snack coco-choc
+.. index:: Jamais fait; Snack coco-choc
 
 .. index:: Noix de coco; Snack coco-choc
 .. index:: Chocolat; Snack coco-choc
@@ -27,3 +29,8 @@ Préparation
 * Mettre la noix de coco rapee dans des moules a barres de cereales
 * Fondre le chocolat et en verser un petit peu sur chaque barre de noix de coco
 
+
+Source
+======
+
+Invention familiale

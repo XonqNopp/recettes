@@ -1,5 +1,6 @@
 .. index:: Amande; ...caramelisees
 .. index:: Repas: friandises; Amandes caramelisees
+.. index:: Jamais fait; Amandes caramelisees
 
 .. _cuisine_amandes_caramelisees:
 
@@ -21,13 +22,14 @@ Ingrédients
 Préparation
 ===========
 
-* Porter à ébullition l’eau et le sucre.
+* Porter à ébullition l'eau et le sucre.
 * Ajouter les amandes.
-* Cuire à chaleur moyenne en remuant constamment jusqu’à évaporation de l’eau et recristallisation du sucre. Remuer encore 1 minute jusqu’à ce que le sucre commence à se liquéfier. 
+* Cuire à chaleur moyenne en remuant constamment jusqu'à évaporation de l'eau et recristallisation du sucre.
+  Remuer encore 1 minute jusqu'à ce que le sucre commence à se liquéfier. 
 * Déposer sur une plaque chemisée et laisser refroidir. 
 
 
 Source
 ===========
-Croqu’menu
 
+Croqu'menu

@@ -1,4 +1,6 @@
 .. index:: Snacks; ...noix-erable
+.. index:: Invention; Snack noix-erable
+.. index:: Jamais fait; Snack noix-erable
 
 .. index:: Noix; Snack noix-erable
 .. index:: Sirop d'erable; Snack noix-erable
@@ -30,3 +32,8 @@ Préparation
 Mixer le tout, faire des petites boules de 2cm et passer quelques minutes au
 four à 180 °C.
 
+
+Source
+======
+
+Invention familiale

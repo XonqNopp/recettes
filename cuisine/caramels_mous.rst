@@ -1,5 +1,6 @@
 .. index:: Caramel; ...mous
 .. index:: Repas: friandises; Caramels mous
+.. index:: Jamais fait; Caramels mous
 
 .. index:: Beurre; Caramels mous
 
@@ -29,4 +30,3 @@ Préparation
 * Égaliser la masse et laisser tiédir un peu.
 * Faire les marques selon lesquelles on découpera par la suite.
 * Laisser refroidir avant de découper.
-

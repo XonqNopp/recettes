@@ -1,5 +1,6 @@
 .. index:: Calamar; ...farcis à la truite fumée
 .. index:: Saisons: 4 saisons; Calamars farcis à la truite fumée
+.. index:: Jamais fait; Calamars farcis à la truite fumée
 
 .. index:: Oignon; Calamars farcis à la truite fumée
 .. index:: Poisson; Calamars farcis à la truite fumée
@@ -61,4 +62,3 @@ Préparation
 * Verser dessus l'huile et le vinaigre, remuer délicatement.
 * Découper les calamars en deux et les disposer sur les assiettes.
 * Garnir de salade et de quartiers de citron vert.
-

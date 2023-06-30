@@ -1,5 +1,6 @@
 .. index:: Torta di mosche (Ticino)
 .. index:: Par pays: CH Ticino; Torta di mosche
+.. index:: Jamais fait; Torta di mosche
 
 .. index:: Pain sec; Torta di mosche (Ticino)
 .. index:: Cacao; Torta di mosche (Ticino)
@@ -49,4 +50,3 @@ Préparation
 * Ajouter les épices et le contenu du petit plat, bien mélanger.
 * Mettre un papier de cuisson sur 4 formes pour cake, y verser la préparation en couche de 3cm au maximum.
 * Mettre au four préchauffé à 150°C pendant deux heures.
-

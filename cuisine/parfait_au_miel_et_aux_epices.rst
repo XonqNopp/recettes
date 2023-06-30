@@ -1,5 +1,6 @@
 .. index:: Parfait au miel et aux epices
 .. index:: Repas: dessert; Parfait au miel et aux epices
+.. index:: Jamais fait; Parfait au miel et aux epices
 
 .. index:: Miel; Parfait au miel et aux epices
 .. index:: Citron; Parfait au miel et aux epices
@@ -54,4 +55,3 @@ Préparation
 * Battre le blanc en neige et ajouter a la masse.
 * Repartir la masse dans des petits moules (1-2 dl).
 * Congeler au moins 3h.
-

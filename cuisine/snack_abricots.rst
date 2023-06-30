@@ -1,4 +1,6 @@
 .. index:: Snacks; ...abricots
+.. index:: Jamais fait; Snack abricots
+
 .. index:: Abricot; Snack abricots
 .. index:: Flocon d'avoine; Snack abricots
 .. index:: Son d'avoine; Snack abricots
@@ -47,4 +49,3 @@ Source
 ======
 
 http://delicieusement-votre.blogspot.com/2014/02/barre-de-cereales-maison-aux-abricots.html
-
