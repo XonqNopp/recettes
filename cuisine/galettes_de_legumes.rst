@@ -11,8 +11,8 @@
 .. index:: Radis; Galettes de légumes
 .. index:: Lait; Galettes de légumes
 .. index:: Bouillon; Galettes de légumes
-.. index:: Flocons d'avoine; Galettes de légumes
-.. index:: Flocons de seigle; Galettes de légumes
+.. index:: Flocon d'avoine; Galettes de légumes
+.. index:: Flocon de seigle; Galettes de légumes
 .. index:: Oeuf; Galettes de légumes
 .. index:: Farine; Galettes de légumes
 .. index:: Jogurt; Galettes de légumes
