@@ -26,9 +26,10 @@ Pour une quinzaine de gaufres:
 
 * 250g farine
 * 125g levain
-* 1 oeuf
-* 150g beurre
+* 75g beurre
 * 5g sel
+* 50-100ml eau (ou jus de pomme)
+* 1 oeuf (si pas d'oeuf, augmenter le liquide)
 
 On peut ensuite ajouter dans la pâte au choix:
 
