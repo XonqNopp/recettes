@@ -1,14 +1,15 @@
-.. index:: Spatzli
-.. index:: Cuisine de base; Spatzli
-.. index:: Saisons: 4 saisons; Spatzli
+.. index:: Spätzli
+.. index:: Cuisine de base; Spätzli
+.. index:: Saisons: 4 saisons; Spätzli
+.. index:: Menu: chasse; Spätzli
 
-.. index:: Oeuf; Spatzli
-.. index:: Amande; Spatzli
-.. index:: Noisette; Spatzli
+.. index:: Oeuf; Spätzli
+.. index:: Amande; Spätzli
+.. index:: Noisette; Spätzli
 
-.. _cuisine_spatzli:
+.. _cuisine_spaetzli:
 
-Spatzli
+Spätzli
 #######
 
 * Préparation: 10 min
