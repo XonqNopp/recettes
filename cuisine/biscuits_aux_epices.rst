@@ -22,17 +22,17 @@ Biscuits aux épices
 Ingrédients
 ===========
 
-* 150 g beurre
-* 200 g sucre (de canne)
+* 500 g farine
+* 250 g beurre
+* 300 g sucre (de canne)
 * 1 pincée de sel
-* 1 oeuf
-* 100 g amandes moulues
-* 5 cc cannelle en poudre
-* 3 cc gingembre en poudre
-* 3 cc cardamome en poudre
-* 1 cc clous de girofle en poudre
-* 1/2 cc noix de muscade en poudre
-* 300 g farine
+* 2 oeuf
+* 200 g amandes moulues
+* 10 cc cannelle en poudre
+* 6 cc gingembre en poudre
+* 6 cc cardamome en poudre
+* 2 cc clous de girofle en poudre
+* 1 cc noix de muscade en poudre
 
 
 Préparation
@@ -46,4 +46,3 @@ Préparation
 * Découper les formes de 5mm d'épaisseur et les déposer sur une plaque.
 * (Éventuellement rayer les biscuits avec une fourchette.)
 * Mettre au milieu du four à 160°C sol-voûte (pas de chaleur tournante!) pendant 15 minutes.
-

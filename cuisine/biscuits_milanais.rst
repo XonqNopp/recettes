@@ -17,12 +17,12 @@ Biscuits milanais
 Ingrédients
 ===========
 
+* 500 g farine
 * 250 g beurre
 * 100 g sucre (miel?)
 * 1 pincée de sel
 * 3 oeufs
 * 2 citrons
-* 500 g farine
 
 
 Préparation
