@@ -4,16 +4,19 @@ workdir=$(dirname "$0")
 
 (
 # subshell so we do not need to care about restoring CWD
-cd "$workdir" || exit -1
+cd "$workdir" || exit 1
+
+PYTHON=python3
+if [ -e "./_venv/bin/python" ]; then
+    PYTHON="./_venv/bin/python"
+fi
 
 # Create and open a new file with an easy text editor.
-filename=$(python3 scripts/app.py)
+filename=$($PYTHON scripts/app.py)
+
 if [ "$filename" != "" ]; then
-
-	# Commit new file.
-	git commit -m "New: $filename"
-
+    # Commit new file.
+    git commit -m "New: $filename"
 fi
 
 )  # subshell
-

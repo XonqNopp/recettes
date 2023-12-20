@@ -5,14 +5,14 @@
 
 # Fail and warn about it
 function fail() {
-	echo
-	echo
-	echo "********** ATTENTION **********"
-	echo
-	echo "Probleme lors de la synchronisation avec le serveur!"
-	echo
-	sleep 120
-	exit -1
+    echo
+    echo
+    echo "********** ATTENTION **********"
+    echo
+    echo "Probleme lors de la synchronisation avec le serveur! 60s pour lire les erreurs..."
+    echo
+    sleep 60
+    exit 1
 }
 
 
@@ -33,4 +33,3 @@ git push || fail
 #rsync -r _build/html x@y:xonqnopp.ch/recettes  # TODO || exit 1
 
 )  # subshell
-
