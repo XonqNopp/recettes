@@ -24,7 +24,7 @@ Ingrédients
 
 * 500 g farine
 * 250 g beurre
-* 300 g sucre (de canne)
+* 100 g sucre (de canne)
 * 1 pincée de sel
 * 2 oeuf
 * 200 g amandes moulues
@@ -39,7 +39,7 @@ Préparation
 ===========
 
 * Réduire le beurre en pommade dans une terrine.
-* Ajouter le sucre, le sel et l'œuf et pétrir jusqu'à ce que cela blanchisse.
+* Ajouter le sucre, le sel et les oeufs et pétrir jusqu'à ce que cela blanchisse.
 * Incorporer les épices, les amandes et continuer de pétrir.
 * Incorporer la farine et continuer de pétrir.
 * Mettre au frais pendant 30 minutes. On peut aussi congeler la pâte et la cuire un autre jour.

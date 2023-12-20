@@ -18,7 +18,7 @@ Ingrédients
 
 * 500 g farine
 * 400 g beurre
-* 100 g sucre (vanillé)
+* 100 g sucre (vanillé) selon les ajouts, on peut ne pas mettre de sucre
 * 2 pincées de fleur de sel
 * 2 blancs d'oeuf
 

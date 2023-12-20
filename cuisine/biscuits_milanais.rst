@@ -31,7 +31,7 @@ Préparation
 * Réduire le beurre en pommade dans une terrine.
 * Ajouter le sucre, le sel et les oeufs.
 * Mélanger jusqu'à ce que la pâte blanchisse.
-* Râper le zeste des citrons. Presser le jus et ajouter le tout à la pâte.
+* Râper le zeste des citrons. Presser le jus. Ajouter les zestes, le jus et la pulpe à la pâte.
 * Tamiser la farine et rassembler la pâte.
 * Mettre au frais pendant 2h. On peut aussi congeler la pâte et la cuire une autre fois.
 * Etaler à 8mm et découper en formes diverses.
