@@ -46,6 +46,9 @@ Tresse levain
 Beignets crevettes patate douce
 Croissants au jambon
 
+.. todo:: Produit lave-vaisselle
+.. todo:: epices guacamole
+.. todo:: essayer etoiles a la cannelle avec les epices
+.. todo:: essayer bruns de bales avec citrons des milanais
 
 .. todolist::
-
