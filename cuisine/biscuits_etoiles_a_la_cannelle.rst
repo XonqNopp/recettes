@@ -19,7 +19,7 @@ Ingrédients
 
 * 3 blancs d'oeufs
 * 1 pincée de sel
-* 70g sucre glace
+* 35g sucre glace
 * 1cs (bombée) cannelle
 * 400-600g amandes moulues
 
@@ -29,7 +29,10 @@ Préparation
 
 * Monter les blancs en neige.
 * Réserver 15g pour le glaçage, y incorporer 35g de sucre.
-* Dans le reste des blancs, incorporer le sel et le reste du sucre glace en plusieurs fois.
+
+  .. note:: On ne peut pas faire le glacage avec de l'eau, cela ne convient pas a la cuisson.
+
+* Dans le reste des blancs, incorporer le sel.
 * Incorporer la cannelle et les amandes jusqu'à ce que la pâte ne colle presque plus.
 * Aplatir (3-5cm) la pâte entre 2 feuilles de papier cuisson et mettre 1h au frigo.
 * Si la pâte est restée plus longtemps au frigo, la sortir 30-60min avant de la travailler.

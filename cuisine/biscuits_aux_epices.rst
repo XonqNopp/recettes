@@ -24,7 +24,7 @@ Ingrédients
 
 * 500 g farine
 * 250 g beurre
-* 100 g sucre (de canne)
+* 100 g sucre (de canne, miel, raisinée...)
 * 1 pincée de sel
 * 2 oeuf
 * 200 g amandes moulues
