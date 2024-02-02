@@ -5,7 +5,7 @@
 .. index:: Radis; Salade de chou-fleur
 .. index:: Oeuf; Salade de chou-fleur
 .. index:: Cornichon; Salade de chou-fleur
-.. index:: Echalotte; Salade de chou-fleur
+.. index:: Echalote; Salade de chou-fleur
 .. index:: Oignon; Salade de chou-fleur
 
 .. _cuisine_salade_de_chou_fleur:
@@ -24,14 +24,13 @@ Ingrédients
 * radis
 * oeuf dur
 * cornichons
-* echalotte
+* échalote
 
 
 Préparation
 ===========
 
 * Cuire le chou-fleur.
-* Couper tous les autres ingredients en petits des.
-* Repartir sur le chou-fleur froid ou tiede.
+* Couper tous les autres ingrédients en petits des.
+* Repartir sur le chou-fleur froid ou tiède.
 * Sel, poivre, vinaigre, huile.
-

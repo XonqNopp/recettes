@@ -1,8 +1,8 @@
-.. index:: Lait à la pomme
+.. index:: Lait; ...à la pomme
 .. index:: Repas: gouter; Lait à la pomme
 .. index:: Boisson; Lait à la pomme
 
-.. index:: Jus de pommes; Lait à la pomme
+.. index:: Jus de pomme; Lait à la pomme
 .. index:: Miel; Lait à la pomme
 .. index:: Cannelle; Lait à la pomme
 

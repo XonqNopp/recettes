@@ -3,7 +3,7 @@
 
 .. index:: Aubergine; Caviar d'aubergines
 .. index:: Oignon; Caviar d'aubergines
-.. index:: Echalotte; Caviar d'aubergines
+.. index:: Echalote; Caviar d'aubergines
 .. index:: Graine de sesame; Caviar d'aubergines
 
 .. _cuisine_caviar_d_aubergines:

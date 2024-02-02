@@ -1,4 +1,4 @@
-.. index:: Beignets de crevettes a la patate douce
+.. index:: Beignets; ...de crevettes a la patate douce
 .. index:: Saisons: 4 saisons; Beignets de crevettes a la patate douce
 
 .. index:: Crevette; Beignets de crevettes a la patate douce

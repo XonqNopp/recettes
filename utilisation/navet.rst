@@ -1,6 +1,6 @@
 .. index:: Navet
 .. index:: Soupe; ...de peau de navet
-.. index:: Puree; ...de peau de navet
+.. index:: Purée; ...de peau de navet
 .. index:: Couscous; ...de Kabylie aux fanes de navet
 .. _Navet:
 

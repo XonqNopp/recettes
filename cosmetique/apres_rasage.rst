@@ -1,12 +1,13 @@
-.. index:: cosmetique; Apres rasage
-.. index:: Aloe vera; Apres rasage
-.. index:: HE arbre a thé; Apres rasage
-.. index:: HE lavande fine; Apres rasage
-.. index:: HE menthe poivrée; Apres rasage
+.. index:: cosmétique; Après rasage
+
+.. index:: Aloe vera; Après rasage
+.. index:: HE arbre a thé; Après rasage
+.. index:: HE lavande fine; Après rasage
+.. index:: HE menthe poivrée; Après rasage
 
 .. _cosmetique_apres_rasage:
 
-Apres rasage
+Après rasage
 ############
 
 
@@ -14,9 +15,9 @@ Ingrédients
 ===========
 
 * 15g :ref:`cosmetique_aloe_vera` (hydratant naturel)
-* 1 goutte HE arbre a the (antifongique et antibacterien)
+* 1 goutte HE arbre a the (anti-fongique et anti-bactérien)
 * 2 gouttes HE lavande fine (apaise et cicatrise)
-* 3 gouttes HE menthe poivree (effet fraicheur)
+* 3 gouttes HE menthe poivrée (effet fraicheur)
 
 
 .. warning:: Ne pas mettre trop proche des yeux!

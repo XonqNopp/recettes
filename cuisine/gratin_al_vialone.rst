@@ -2,7 +2,7 @@
 .. index:: Saisons: 4 saisons; Gratin al Vialone
 
 .. index:: Oignon; Gratin al Vialone
-.. index:: Echalotte; Gratin al Vialone
+.. index:: Echalote; Gratin al Vialone
 .. index:: Curry; Gratin al Vialone
 .. index:: Vin blanc; Gratin al Vialone
 .. index:: Crevette; Gratin al Vialone

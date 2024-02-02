@@ -1,4 +1,4 @@
-.. index:: Sirop de sureau
+.. index:: Sirop; ...de sureau
 .. index:: Boisson; Sirop de sureau
 .. index:: Jamais fait; Sirop de sureau
 

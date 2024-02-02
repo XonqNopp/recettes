@@ -1,4 +1,5 @@
-.. index:: cosmetique; Eponge tawashi
+.. index:: cosmétique; Eponge tawashi
+
 .. _cosmetique_eponge_tawashi:
 
 Eponge tawashi

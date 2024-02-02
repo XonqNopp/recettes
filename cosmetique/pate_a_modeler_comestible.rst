@@ -1,8 +1,9 @@
-.. index:: cosmetique; Pate a modeler comestible
-.. index:: Farine; Pate a modeler comestible
-.. index:: Sel; Pate a modeler comestible
-.. index:: Creme de tartre; Pate a modeler comestible
-.. index:: Huile; Pate a modeler comestible
+.. index:: cosmétique; Pâte a modeler comestible
+
+.. index:: Farine; Pâte a modeler comestible
+.. index:: Sel; Pâte a modeler comestible
+.. index:: Creme de tartre; Pâte a modeler comestible
+.. index:: Huile; Pâte a modeler comestible
 
 .. _cosmetique_pate_a_modeler_comestible:
 

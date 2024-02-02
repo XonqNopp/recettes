@@ -1,4 +1,4 @@
-.. index:: Filet mignon en croûte
+.. index:: Filet mignon de porc; ...en croûte
 .. index:: Cuisine de base; Filet mignon en croûte
 .. index:: Saisons: 4 saisons; Filet mignon en croûte
 

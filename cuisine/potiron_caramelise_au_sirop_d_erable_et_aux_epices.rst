@@ -1,13 +1,13 @@
 .. index:: Potiron caramelise au sirop d'erable et aux epices
 
 .. index:: Courge; Potiron caramelise au sirop d'erable et aux epices
-.. index:: Sirop d'erable; Potiron caramelise au sirop d'erable et aux epices
+.. index:: Sirop d'érable; Potiron caramelise au sirop d'erable et aux epices
 .. index:: Cumin; Potiron caramelise au sirop d'erable et aux epices
 .. index:: Piment; Potiron caramelise au sirop d'erable et aux epices
 
 .. _cuisine_potiron_caramelise_au_sirop_d_erable_et_aux_epices:
 
-Potiron caramelise au sirop d'erable et aux epices
+Potiron caramélise au sirop d'érable et aux épices
 ##################################################
 
 * Préparation: ??? min

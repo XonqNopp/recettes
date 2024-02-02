@@ -1,4 +1,4 @@
-.. index:: Noisettes; ...au santal
+.. index:: Noisette; ...au santal
 .. index:: Repas: friandises; Noisettes au santal
 .. index:: Jamais fait; Noisettes au santal
 

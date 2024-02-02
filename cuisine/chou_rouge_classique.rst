@@ -1,12 +1,11 @@
-.. index:: Chou rouge classique
+.. index:: Chou rouge; ...classique
 .. index:: Menu: chasse; Chou rouge classique
 .. index:: Saisons: hiver; Chou rouge classique
 
 .. index:: Beurre; Chou rouge classique
 .. index:: Oignon; Chou rouge classique
 .. index:: Laurier; Chou rouge classique
-.. index:: Girofle; Chou rouge classique
-.. index:: Chou rouge; Chou rouge classique
+.. index:: Clou de girofle; Chou rouge classique
 .. index:: Pomme; Chou rouge classique
 .. index:: Vin rouge; Chou rouge classique
 .. index:: Bouillon; Chou rouge classique

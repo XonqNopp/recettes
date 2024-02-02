@@ -4,8 +4,8 @@
 .. index:: Pate a pizza; Oignon
 .. index:: Pate a gateau; Oignon
 .. index:: Bouillon; Oignon
-.. index:: Ragout; Oignon
-.. index:: Roti; Oignon
+.. index:: Ragoût; Oignon
+.. index:: Rôti; Oignon
 .. index:: Teinture; Oignon
 .. index:: Shampoing; Oignon
 .. _Oignon:

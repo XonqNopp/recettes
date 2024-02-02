@@ -1,5 +1,5 @@
 .. index:: Kiwi
-.. index:: Ragout; Kiwi
+.. index:: Ragoût; Kiwi
 .. index:: Chips; Kiwi
 .. index:: Cuir de fruits; Kiwi
 .. index:: Cuir de fruits; Banane

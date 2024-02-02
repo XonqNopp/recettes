@@ -1,6 +1,6 @@
-.. index:: Rouget au fenouil et jus de pommes
+.. index:: Rouget; ...au fenouil et jus de pommes
+
 .. index:: Poisson; Rouget au fenouil et jus de pommes
-.. index:: Rouget; Rouget au fenouil et jus de pommes
 .. index:: Fenouil; Rouget au fenouil et jus de pommes
 .. index:: Oignon; Rouget au fenouil et jus de pommes
 .. index:: Ail; Rouget au fenouil et jus de pommes

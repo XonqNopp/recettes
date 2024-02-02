@@ -1,4 +1,5 @@
-.. index:: cosmetique; Lave-vaisselle
+.. index:: cosmétique; Lave-vaisselle
+
 .. index:: Percarbonate de soude; Lave-vaisselle
 .. index:: Acide citrique; Lave-vaisselle
 .. index:: Cristaux de soude; Lave-vaisselle

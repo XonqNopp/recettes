@@ -1,4 +1,4 @@
-.. index:: Poires; ...caramelisees
+.. index:: Poire; ...caramelisees
 .. index:: Repas: dessert; Poires caramelisees
 .. index:: Jamais fait; Poires caramelisees
 

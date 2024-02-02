@@ -1,8 +1,6 @@
-.. index:: Filet mignon de porc aux oranges et fenouil
+.. index:: Filet mignon de porc; ...aux oranges et fenouil
 
 .. index:: Porc; Filet mignon de porc aux oranges et fenouil
-.. index:: Filet mignon; Filet mignon de porc aux oranges et fenouil
-.. index:: Filet mignon de porc; Filet mignon de porc aux oranges et fenouil
 .. index:: Orange; Filet mignon de porc aux oranges et fenouil
 .. index:: Oignon; Filet mignon de porc aux oranges et fenouil
 .. index:: Oignon nouveau; Filet mignon de porc aux oranges et fenouil

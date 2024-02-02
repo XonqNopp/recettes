@@ -1,4 +1,4 @@
-.. index:: Sirop naturel de fraises
+.. index:: Sirop; ...naturel de fraises
 
 .. index:: Fraises; Sirop naturel de fraises
 

@@ -4,7 +4,7 @@
 .. index:: Concombre; Tartare de legumes
 .. index:: Champignon; Tartare de legumes
 .. index:: Pomme; Tartare de legumes
-.. index:: Viande sechee; Tartare de legumes
+.. index:: Viande séchée; Tartare de legumes
 
 .. _cuisine_tartare_de_legumes:
 

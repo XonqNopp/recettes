@@ -1,4 +1,5 @@
-.. index:: cosmetique; Lessive
+.. index:: cosmétique; Lessive
+
 .. index:: Savon de Marseille; Lessive
 .. index:: Bicarbonate de soude; Lessive
 .. index:: Argile; Lessive

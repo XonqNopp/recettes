@@ -1,7 +1,7 @@
 .. index:: Olive
 .. index:: Bouillon; Olive
-.. index:: Ragout; Olive
-.. index:: Roti; Olive
+.. index:: Ragoût; Olive
+.. index:: Rôti; Olive
 .. index:: Gommage; Olive
 .. index:: Feu; Olive
 .. _Olive:

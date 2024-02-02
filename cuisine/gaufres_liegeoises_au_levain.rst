@@ -1,4 +1,4 @@
-.. index:: Gaufres; ...liégeoises au levain
+.. index:: Gaufres liégeoises au levain
 .. index:: Repas: gouter; Gaufres liégeoises au levain
 
 .. index:: Farine; Gaufres liégeoises au levain

@@ -1,4 +1,5 @@
-.. index:: Soupe de topinambours au safran
+.. index:: Soupe; ...de topinambours au safran
+
 .. index:: Ail; Soupe de topinambours au safran
 .. index:: Poireau; Soupe de topinambours au safran
 .. index:: Topinambour; Soupe de topinambours au safran

@@ -1,5 +1,12 @@
-.. index:: Curry de patates douces
+.. index:: Curry; ...de patates douces
+
 .. index:: Patate douce; Curry de patates douces
+.. index:: Oignon; Curry de patates douces
+.. index:: Curry; Curry de patates douces
+.. index:: Lentille; Curry de patates douces
+.. index:: Pignon; Curry de patates douces
+.. index:: Jogurt; Curry de patates douces
+.. index:: Origan; Curry de patates douces
 
 .. _cuisine_curry_de_patates_douces:
 

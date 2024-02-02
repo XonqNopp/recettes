@@ -1,4 +1,5 @@
-.. index:: cosmetique; Liquide vaisselle
+.. index:: cosmétique; Liquide vaisselle
+
 .. index:: Acide citrique; Liquide vaisselle
 .. index:: Cristaux de soude; Liquide vaisselle
 .. index:: Savon liquide; Liquide vaisselle

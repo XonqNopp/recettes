@@ -4,7 +4,7 @@
 
 .. index:: Champignon; Nouilles aux champignons à la crème
 .. index:: Chanterelle; Nouilles aux champignons à la crème
-.. index:: Echalotte; Nouilles aux champignons à la crème
+.. index:: Echalote; Nouilles aux champignons à la crème
 .. index:: Oignon; Nouilles aux champignons à la crème
 .. index:: Ail; Nouilles aux champignons à la crème
 .. index:: Porto; Nouilles aux champignons à la crème

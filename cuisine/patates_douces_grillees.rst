@@ -1,6 +1,5 @@
-.. index:: Patates douces grillees
+.. index:: Patate douce; ...grillees
 
-.. index:: Patate douce; Patates douces grillees
 .. index:: Feta; Patates douces grillees
 .. index:: Tomates sechees; Patates douces grillees
 .. index:: Romarin; Patates douces grillees
@@ -45,4 +44,3 @@ Source
 ======
 
 https://fooby.ch/fr/recettes/13523/
-

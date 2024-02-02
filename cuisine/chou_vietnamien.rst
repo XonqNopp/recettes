@@ -1,7 +1,6 @@
-.. index:: Chou vietnamien
+.. index:: Chou; ...vietnamien
 .. index:: Saisons: Hiver; Chou vietnamien
 
-.. index:: Chou; Chou vietnamien
 .. index:: Ail; Chou vietnamien
 .. index:: Gingembre; Chou vietnamien
 .. index:: Citronnelle; Chou vietnamien

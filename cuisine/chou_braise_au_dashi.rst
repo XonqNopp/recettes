@@ -1,5 +1,5 @@
-.. index:: Chou braisé au dashi
 .. index:: Chou; ...braisé au dashi
+
 .. index:: Dashi; Chou braisé au dashi
 .. index:: Ail; Chou braisé au dashi
 .. index:: Oignon; Chou braisé au dashi

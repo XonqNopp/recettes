@@ -1,15 +1,18 @@
-.. index:: Piccata de celeri
+.. index:: Piccata de cèleri
 
-.. index:: Celeri; Piccata de celeri
-.. index:: Farine; Piccata de celeri
-.. index:: Oeuf; Piccata de celeri
-.. index:: Chapelure; Piccata de celeri
-.. index:: Panure; Piccata de celeri
-.. index:: Fromage; Piccata de celeri
+.. index:: Cèleri; Piccata de cèleri
+.. index:: Navet; Piccata de cèleri
+.. index:: Rutabaga; Piccata de cèleri
+.. index:: Rave; Piccata de cèleri
+.. index:: Farine; Piccata de cèleri
+.. index:: Oeuf; Piccata de cèleri
+.. index:: Chapelure; Piccata de cèleri
+.. index:: Panure; Piccata de cèleri
+.. index:: Fromage; Piccata de cèleri
 
 .. _cuisine_piccata_de_celeri:
 
-Piccata de celeri
+Piccata de cèleri
 #################
 
 * Préparation: ??? min
@@ -22,7 +25,7 @@ Ingrédients
 +------------+-------------+---------------------------------------------------+
 | 1 personne | 2 personnes |                                                   |
 +============+=============+===================================================+
-|        1/2 |           1 | cèleri rave (env. 500g)                           |
+|        1/2 |           1 | cèleri rave (env. 500g), navet, rutabaga...       |
 +------------+-------------+---------------------------------------------------+
 |            |             | farine                                            |
 +------------+-------------+---------------------------------------------------+

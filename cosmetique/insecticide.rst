@@ -1,4 +1,5 @@
-.. index:: cosmetique; Insecticide
+.. index:: cosmétique; Insecticide
+
 .. index:: Savon noir; Insecticide
 .. index:: Huile; Insecticide
 .. index:: Anti-fongique; Insecticide

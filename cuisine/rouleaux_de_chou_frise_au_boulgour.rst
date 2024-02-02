@@ -6,7 +6,7 @@
 .. index:: Chili; Rouleaux de chou frise au boulgour
 .. index:: Piment; Rouleaux de chou frise au boulgour
 .. index:: Cannelle; Rouleaux de chou frise au boulgour
-.. index:: Abricot sec; Rouleaux de chou frise au boulgour
+.. index:: Abricot; Rouleaux de chou frise au boulgour
 .. index:: Creme; Rouleaux de chou frise au boulgour
 .. index:: Thym; Rouleaux de chou frise au boulgour
 

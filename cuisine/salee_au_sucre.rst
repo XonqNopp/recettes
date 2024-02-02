@@ -1,9 +1,9 @@
-.. index:: Salée au sucre
+.. index:: Salée; ...au sucre
 .. index:: Cuisine de base; Salée au sucre
 .. index:: Repas: dessert; Salée au sucre
 
 .. index:: Pate feuilletee; Salée au sucre
-.. index:: Double-creme; Salée au sucre
+.. index:: Crème double; Salée au sucre
 
 .. _cuisine_salee_au_sucre:
 
@@ -37,11 +37,11 @@ Préparation
 
 
 
-.. index:: Salée fribourgeoise
+.. index:: Salée; ...fribourgeoise
 .. index:: Invention; Salée fribourgeoise
 
 .. index:: Pate feuilletee; Salée fribourgeoise
-.. index:: Double creme; Salée fribourgeoise
+.. index:: Crème double; Salée fribourgeoise
 .. index:: Meringue; Salée fribourgeoise
 
 .. _cuisine_salee_fribourgeoise:

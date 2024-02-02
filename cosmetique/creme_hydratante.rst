@@ -1,11 +1,11 @@
-.. index:: cosmetique; Creme hydratante
-.. index:: Huile d'olive; Creme hydratante
-.. index:: Huile de tournesol; Creme hydratante
-.. index:: Cire d'abeilles; Creme hydratante
+.. index:: cosmétique; Crème hydratante
+
+.. index:: Huile; Crème hydratante
+.. index:: Cire d'abeilles; Crème hydratante
 
 .. _cosmetique_creme_hydratante:
 
-Creme hydratante
+Crème hydratante
 ################
 
 

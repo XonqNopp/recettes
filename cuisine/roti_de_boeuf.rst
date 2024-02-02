@@ -1,4 +1,4 @@
-.. index:: Rôti de boeuf
+.. index:: Rôti; ...de boeuf
 .. index:: Cuisine de base; Rôti de boeuf
 .. index:: Saisons: 4 saisons; Rôti de boeuf
 

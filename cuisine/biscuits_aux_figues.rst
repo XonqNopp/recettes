@@ -3,7 +3,7 @@
 .. index:: Amande; Biscuits aux figues
 .. index:: Flocon d'avoine; Biscuits aux figues
 .. index:: Miel; Biscuits aux figues
-.. index:: Jus de pommes; Biscuits aux figues
+.. index:: Jus de pomme; Biscuits aux figues
 .. index:: Citron; Biscuits aux figues
 .. index:: Figue; Biscuits aux figues
 .. index:: Cannelle; Biscuits aux figues

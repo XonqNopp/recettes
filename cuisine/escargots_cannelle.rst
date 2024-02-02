@@ -7,7 +7,7 @@
 .. index:: Amande; Escargots cannelle
 .. index:: Cannelle; Escargots cannelle
 .. index:: Raisin sec; Escargots cannelle
-.. index:: Jus de pommes; Escargots cannelle
+.. index:: Jus de pomme; Escargots cannelle
 
 .. _cuisine_escargots_cannelle:
 

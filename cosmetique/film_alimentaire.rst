@@ -1,5 +1,6 @@
-.. index:: cosmetique; Film alimentaire
-.. index:: cosmetique; Tissu wax
+.. index:: cosmétique; Film alimentaire
+.. index:: cosmétique; Tissu wax
+
 .. index:: Cire d'abeilles; Tissu wax
 .. index:: Huile; Tissu wax
 

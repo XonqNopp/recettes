@@ -1,15 +1,15 @@
-.. index:: Snacks; ...noix-erable
-.. index:: Invention; Snack noix-erable
-.. index:: Jamais fait; Snack noix-erable
+.. index:: Snacks; ...noix-érable
+.. index:: Invention; Snack noix-érable
+.. index:: Jamais fait; Snack noix-érable
 
-.. index:: Noix; Snack noix-erable
-.. index:: Sirop d'erable; Snack noix-erable
-.. index:: Ovomaltine; Snack noix-erable
-.. index:: Cacao; Snack noix-erable
+.. index:: Noix; Snack noix-érable
+.. index:: Sirop d'érable; Snack noix-érable
+.. index:: Ovomaltine; Snack noix-érable
+.. index:: Cacao; Snack noix-érable
 
 .. _cuisine_snack_noix_erable:
 
-Snack noix-erable
+Snack noix-érable
 #################
 
 * Préparation: ??? min

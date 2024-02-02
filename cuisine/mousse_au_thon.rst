@@ -1,11 +1,11 @@
-.. index:: Mousse au thon
+.. index:: Mousse; ...au thon
 .. index:: Cuisine de base; Mousse au thon
 .. index:: Repas: apero; Mousse au thon
 .. index:: Repas: pic-nic; Mousse au thon
 
 .. index:: Thon; Mousse au thon
 .. index:: Sere; Mousse au thon
-.. index:: Echalotte; Mousse au thon
+.. index:: Echalote; Mousse au thon
 .. index:: Oignon; Mousse au thon
 .. index:: Ciboulette; Mousse au thon
 .. index:: Persil; Mousse au thon

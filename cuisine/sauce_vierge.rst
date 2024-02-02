@@ -1,7 +1,7 @@
 .. index:: Sauce; ...vierge
 
 .. index:: Tomate; Sauce vierge
-.. index:: Echalotte; Sauce vierge
+.. index:: Echalote; Sauce vierge
 .. index:: Oignon; Sauce vierge
 .. index:: Poivron; Sauce vierge
 .. index:: Citron; Sauce vierge
@@ -19,8 +19,8 @@ Ingrédients
 ===========
 
 * au moins 2 tomates
-* 2 echalottes
-* eventuellement un poivron (vert convient)
+* 2 échalotes
+* éventuellement un poivron (vert convient)
 * herbes aromatiques
 * le jus d'un citron
 * huile d'olive
@@ -29,12 +29,11 @@ Ingrédients
 Préparation
 ===========
 
-* Hacher les echalottes.
+* Hacher les échalotes.
 * Couper le poivron en morceaux.
 * Les faire revenir dans un peu d'huile.
 * Couper les tomates et les ajouter.
-* Ajouter les autres ingredients.
+* Ajouter les autres ingrédients.
 
 
-Ideal pour accompagner du poisson.
-
+Idéal pour accompagner du poisson.

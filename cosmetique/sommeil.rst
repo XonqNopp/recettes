@@ -1,4 +1,5 @@
-.. index:: cosmetique; Sommeil
+.. index:: cosmétique; Sommeil
+
 .. _cosmetique_sommeil:
 
 Sommeil

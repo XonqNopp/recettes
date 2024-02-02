@@ -1,5 +1,5 @@
-.. index:: Carottes rôties au sirop d'érable
-.. index:: Carotte; Carottes rôties au sirop d'érable
+.. index:: Carotte; ...rôties au sirop d'érable
+
 .. index:: Romarin; Carottes rôties au sirop d'érable
 .. index:: Sirop d'érable; Carottes rôties au sirop d'érable
 .. index:: Noisette; Carottes rôties au sirop d'érable

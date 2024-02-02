@@ -1,14 +1,14 @@
-.. index:: Puree d'automne
-.. index:: Saisons: Automne; Puree d'automne
+.. index:: Purée; ...d'automne
+.. index:: Saisons: Automne; Purée d'automne
 
-.. index:: Patate douce; puree d'automne
-.. index:: Courge; puree d'automne
-.. index:: Pomme; puree d'automne
-.. index:: Cannelle; puree d'automne
+.. index:: Patate douce; Purée d'automne
+.. index:: Courge; Purée d'automne
+.. index:: Pomme; Purée d'automne
+.. index:: Cannelle; Purée d'automne
 
 .. _cuisine_puree_d_automne:
 
-Puree d'automne
+Purée d'automne
 ###############
 
 * Préparation: ??? min
@@ -29,14 +29,13 @@ Pour 4 portions.
 Préparation
 ===========
 
-* Eplucher les legumes, les couper en morceaux et retirer pepins et graines.
+* Éplucher les légumes, les couper en morceaux et retirer pépins et graines.
 * Les cuire a la vapeur ou dans un peu d'eau.
-* Egoutter et laisser refroidir.
+* Égoutter et laisser refroidir.
 * Ajouter de la cannelle et mixer le tout.
 
 
 Source
 ======
 
-Cooperation, Ce;ine Gomez-Girard.
-
+Cooperation, Celine Gomez-Girard.

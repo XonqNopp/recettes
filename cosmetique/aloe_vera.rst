@@ -1,4 +1,5 @@
-.. index:: cosmetique; Aloe vera
+.. index:: cosmétique; Aloe vera
+
 .. index:: Aloe vera
 
 .. _cosmetique_aloe_vera:

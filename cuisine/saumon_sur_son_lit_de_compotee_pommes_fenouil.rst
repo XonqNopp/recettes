@@ -1,6 +1,6 @@
-.. index:: Saumon sur son lit de compotee pommes fenouil
+.. index:: Saumon; ...sur son lit de compotee pommes fenouil
+
 .. index:: Poisson; Saumon sur son lit de compotee pommes fenouil
-.. index:: Saumon; Saumon sur son lit de compotee pommes fenouil
 .. index:: Pomme; Saumon sur son lit de compotee pommes fenouil
 .. index:: Fenouil; Saumon sur son lit de compotee pommes fenouil
 .. index:: Echalote; Saumon sur son lit de compotee pommes fenouil
@@ -29,7 +29,7 @@ Ingrédients
 +------------+-------------+---------------------------------------------------+
 |        1/2 |           2 | fenouil                                           |
 +------------+-------------+---------------------------------------------------+
-|        1/2 |           2 | echalotes                                         |
+|        1/2 |           2 | échalotes                                         |
 +------------+-------------+---------------------------------------------------+
 |     1/2 dl |        2 dl | creme                                             |
 +------------+-------------+---------------------------------------------------+

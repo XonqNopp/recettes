@@ -5,7 +5,7 @@
 
 .. index:: Beurre; Gâteau du Vully
 .. index:: Oeuf; Gâteau du Vully
-.. index:: Double-creme; Gâteau du Vully
+.. index:: Crème double; Gâteau du Vully
 .. index:: Cannelle; Gâteau du Vully
 
 .. _cuisine_gateau_du_Vully:
@@ -48,4 +48,3 @@ Préparation
 * Etendre et laisser reposer.
 * Mélanger la garniture et l'étaler sur la pâte.
 * Cuire 20-30min au four à 200-220°C.
-

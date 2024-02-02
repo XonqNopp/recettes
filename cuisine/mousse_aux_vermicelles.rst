@@ -1,4 +1,4 @@
-.. index:: Mousse aux vermicelles
+.. index:: Mousse; ...aux vermicelles
 .. index:: Repas: dessert; Mousse aux vermicelles
 
 .. index:: Puree de marrons; Mousse aux vermicelles

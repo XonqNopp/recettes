@@ -1,4 +1,4 @@
-.. index:: Cake au citron
+.. index:: Cake; ...au citron
 
 .. index:: Sucre; Cake au citron
 .. index:: Beurre; Cake au citron

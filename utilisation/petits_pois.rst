@@ -1,4 +1,4 @@
-.. index:: Petits pois
+.. index:: Petit pois
 .. _Petits pois:
 
 Petits pois

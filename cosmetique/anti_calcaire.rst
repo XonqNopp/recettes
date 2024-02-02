@@ -1,4 +1,5 @@
-.. index:: cosmetique; Anti-calcaire
+.. index:: cosmétique; Anti-calcaire
+
 .. index:: Percarbonate de soude; Anti-calcaire
 .. index:: Acide citrique; Anti-calcaire
 .. index:: Citron; Anti-calcaire

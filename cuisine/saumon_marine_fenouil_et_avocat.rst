@@ -1,6 +1,6 @@
-.. index:: Saumon marine fenouil et avocat
+.. index:: Saumon; ...marine fenouil et avocat
+
 .. index:: Poisson; Saumon marine fenouil et avocat
-.. index:: Saumon; Saumon marine fenouil et avocat
 .. index:: Avocat; Saumon marine fenouil et avocat
 .. index:: Fenouil; Saumon marine fenouil et avocat
 .. index:: Citron; Saumon marine fenouil et avocat
