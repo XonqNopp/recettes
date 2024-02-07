@@ -474,6 +474,9 @@ class App:
         if self._results['category'] is Categories.utilisation:
             self._createUtilisationFile()
 
+            print('WARNING: you must manually edit utilisation/index.rst '
+                  f'to add the new file {self._results["filename"]}')
+
         else:
             self._createDefaultFile()
 
