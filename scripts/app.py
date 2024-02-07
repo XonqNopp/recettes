@@ -1,52 +1,59 @@
 #!/usr/bin/env python3
-# coding=utf-8
 """
 This script opens a GUI app to introduce a new recipe.
 """
+# pylint: disable=[logging-fstring-interpolation]
 from pathlib import Path
 import sys
 import re
-from collections import OrderedDict
 from argparse import ArgumentParser
 import logging
 from subprocess import run
 from enum import Enum
-from PySide2 import QtWidgets
+from typing import TypedDict
+
+# pylint: disable=[import-error]
+from PySide2 import QtWidgets  # type: ignore
 
 
 class Categories(Enum):
     """
     Enum for categories.
     """
-    utilisation = 0
-    cuisine = 1
-    cosmetique = 2
+    UTILISATION = 0
+    CUISINE = 1
+    COSMETIQUE = 2
 
     UNDEFINED = None
 
 
-DEFAULT_CATEGORY = Categories.cuisine
+DEFAULT_CATEGORY = Categories.CUISINE
 
 
 class Templates(Enum):
     """
     Enum for templates.
     """
-    aucun = 0
-    standard = 1
+    AUCUN = 0
+    STANDARD = 1
     # All values >=2 are for "X personnes" template
-    personnes2 = 2
-    personnes3 = 3
-    personnes4 = 4
-    personnes5 = 5
-    personnes6 = 6
-    personnes7 = 7
-    personnes8 = 8
+    PERSONNES2 = 2
+    PERSONNES4 = 4
 
     UNDEFINED = None
 
 
-DEFAULT_TEMPLATE = Templates.standard
+DEFAULT_TEMPLATE = Templates.STANDARD
+
+
+class ResultsDict(TypedDict):
+    """ Type hints for results dict. """
+    category: Categories
+    title: str
+    template: Templates
+    exit_code: int
+    basename: str
+    filename: Path
 
 
 def get_basename(title: str) -> str:
@@ -58,20 +65,24 @@ def get_basename(title: str) -> str:
     logging.debug(f'Prepare basename for title={title}')
 
     # Format filename
-    translateTable = str.maketrans(
-        'áàâäãçéêèëẽíìîïĩóòôöõúùûüũýỳŷÿỹñÁÀÂÄÃÉÈÊËẼÍÌÎÏĨÓÒÔÖÕÚÙÛÜŨÝỲŶŸỸÑ',
-        'aaaaaceeeeeiiiiiooooouuuuuyyyyynAAAAAEEEEEIIIIIOOOOOUUUUUYYYYYN'
+    translate_table: dict[int, int | str | None] = {}
+
+    translate_table.update(
+        str.maketrans(
+            'áàâäãçéêèëẽíìîïĩóòôöõúùûüũýỳŷÿỹñÁÀÂÄÃÉÈÊËẼÍÌÎÏĨÓÒÔÖÕÚÙÛÜŨÝỲŶŸỸÑ',
+            'aaaaaceeeeeiiiiiooooouuuuuyyyyynAAAAAEEEEEIIIIIOOOOOUUUUUYYYYYN'
+        )
     )
 
-    translateTable[ord('æ')] = 'ae'
-    translateTable[ord('œ')] = 'oe'
+    translate_table[ord('æ')] = 'ae'
+    translate_table[ord('œ')] = 'oe'
 
-    translateTable[ord('Æ')] = 'AE'
-    translateTable[ord('Œ')] = 'OE'
+    translate_table[ord('Æ')] = 'AE'
+    translate_table[ord('Œ')] = 'OE'
 
-    title = title.translate(translateTable)
+    title = title.translate(translate_table)
 
-    title = title.lower()  # no .title because ordering is then messed if there are upper and lowercase letters mixed
+    title = title.lower()  # no .title because ordering messed if upper and lowercase letters mixed
     # snake_case:
     title = title.replace(' ', '_')
     title = title.replace('-', '_')
@@ -93,7 +104,7 @@ def get_basename(title: str) -> str:
     return title + '.rst'
 
 
-def getFilename(basename: str, category: Categories) -> str:
+def get_filename(basename: str, category: Categories) -> Path:
     """
     Get the filename for the new recipe.
 
@@ -104,7 +115,7 @@ def getFilename(basename: str, category: Categories) -> str:
     Returns:
         (Path) filename
     """
-    return Path(category.name) / basename
+    return Path(category.name.lower()) / basename
 
 
 class Recettes(QtWidgets.QDialog):
@@ -116,7 +127,7 @@ class Recettes(QtWidgets.QDialog):
         1: True,  # ok
     }
 
-    def __init__(self, parent=None):
+    def __init__(self, parent=None) -> None:
         super().__init__(parent)
 
         self._logger = logging.getLogger(self.__class__.__name__)
@@ -140,18 +151,18 @@ class Recettes(QtWidgets.QDialog):
 
         layout = QtWidgets.QVBoxLayout()
 
-        self._categories = {}
+        self._categories: dict[Categories, QtWidgets.QRadioButton] = {}
 
         for category in Categories:
-            if category.name == 'UNDEFINED':
+            if category is Categories.UNDEFINED:
                 continue
 
-            self._categories[category] = QtWidgets.QRadioButton(category.name)
+            self._categories[category] = QtWidgets.QRadioButton(category.name.lower())
 
         self._categories[DEFAULT_CATEGORY].setChecked(True)
 
         for category in Categories:
-            if category.name == 'UNDEFINED':
+            if category is Categories.UNDEFINED:
                 continue
 
             layout.addWidget(self._categories[category])
@@ -161,24 +172,18 @@ class Recettes(QtWidgets.QDialog):
 
         return categories
 
-    def getCategory(self) -> str:
+    def get_category(self) -> Categories:
         """
         Read which category is selected.
         """
-        logString = 'categories:'
         for category in Categories:
-            if category.name == 'UNDEFINED':
+            if category is Categories.UNDEFINED:
                 continue
 
-            logString += f' {category.name}={self._categories[category].isChecked()}'
+            is_checked = self._categories[category].isChecked()
+            self._logger.debug(f'category {category.name} is checked: {is_checked}')
 
-        self._logger.debug(logString)
-
-        for category in Categories:
-            if category.name == 'UNDEFINED':
-                continue
-
-            if self._categories[category].isChecked():
+            if is_checked:
                 return category
 
         return Categories.UNDEFINED
@@ -200,7 +205,7 @@ class Recettes(QtWidgets.QDialog):
 
         return title
 
-    def getTitle(self) -> str:
+    def get_title(self) -> str:
         """
         Read the title field contents.
         """
@@ -218,17 +223,18 @@ class Recettes(QtWidgets.QDialog):
 
         templates = QtWidgets.QGroupBox('Modèle')
 
-        self._templates = {}
+        self._templates: dict[Templates, QtWidgets.QRadioButton] = {}
+
         for template in Templates:
-            if template.name == 'UNDEFINED':
+            if template is Templates.UNDEFINED:
                 continue
 
-            self._templates[template] = QtWidgets.QRadioButton(template.name)
+            self._templates[template] = QtWidgets.QRadioButton(template.name.lower())
 
         self._templates[DEFAULT_TEMPLATE].setChecked(True)
 
         for template in Templates:
-            if template.name == 'UNDEFINED':
+            if template is Templates.UNDEFINED:
                 continue
 
             layout.addWidget(self._templates[template])
@@ -237,48 +243,43 @@ class Recettes(QtWidgets.QDialog):
 
         return templates
 
-    def getTemplate(self) -> str:
+    def get_template(self) -> Templates:
         """
         Read which template is selected.
         """
-        logString = 'templates:'
         for template in Templates:
-            if template.name == 'UNDEFINED':
+            if template is Templates.UNDEFINED:
                 continue
 
-            logString += f' {template.name}={self._templates[template].isChecked()}'
+            is_checked = self._templates[template].isChecked()
 
-        self._logger.debug(logString)
+            self._logger.debug(f'template {template.name} is checked: {is_checked}')
 
-        for template in Templates:
-            if template.name == 'UNDEFINED':
-                continue
-
-            if self._templates[template].isChecked():
+            if is_checked:
                 return template
 
         return Templates.UNDEFINED
 
-    def isTitleEmpty(self) -> bool:
+    def is_title_empty(self) -> bool:
         """
         Check if title is empty.
         """
-        emptyTitle = bool(self.getTitle() == '')
-        self._logger.debug(f'title is empty={emptyTitle}')
-        return emptyTitle
+        empty_title = bool(self.get_title() == '')
+        self._logger.debug(f'title is empty={empty_title}')
+        return empty_title
 
-    def rejectEmptyTitle(self) -> None:
+    def reject_empty_title(self) -> None:
         """
         Reject if title is empty.
         """
         self._logger.debug('REJECTED: empty title not allowed')
 
-        msgBox = QtWidgets.QMessageBox()
-        msgBox.setWindowTitle('Titre manquant')
-        msgBox.setText('Le titre ne peut pas etre vide')
-        msgBox.exec()
+        msg_box = QtWidgets.QMessageBox()
+        msg_box.setWindowTitle('Titre manquant')
+        msg_box.setText('Le titre ne peut pas etre vide')
+        msg_box.exec()
 
-    def confirmUseExistingFile(self, filename: Path) -> bool:
+    def confirm_use_existing_file(self, filename: Path) -> bool:
         """
         Ask user if existing file is the one to use.
 
@@ -287,17 +288,17 @@ class Recettes(QtWidgets.QDialog):
         """
         self._logger.debug(f'File {filename} exists, ask user confirmation to use it')
 
-        msgBox = QtWidgets.QMessageBox()
+        msg_box = QtWidgets.QMessageBox()
 
-        msgBox.setWindowTitle(f'{filename} existe...')
-        msgBox.setText(f'Le fichier {filename} existe déjà. Est-ce bien celui que tu veux éditer?')
+        msg_box.setWindowTitle(f'{filename} existe...')
+        msg_box.setText(f'Le fichier {filename} existe déjà. Est-ce bien celui que tu veux éditer?')
 
-        msgBox.setStandardButtons(msgBox.Yes | msgBox.No)
-        msgBox.setDefaultButton(msgBox.No)
+        msg_box.setStandardButtons(msg_box.Yes | msg_box.No)
+        msg_box.setDefaultButton(msg_box.No)
 
-        msgBox.exec()
+        msg_box.exec()
 
-        return msgBox.result() == msgBox.Yes
+        return msg_box.result() == msg_box.Yes
 
     def accept(self) -> None:
         """
@@ -305,12 +306,12 @@ class Recettes(QtWidgets.QDialog):
         """
         self._logger.debug('accept')
 
-        if self.isTitleEmpty():
-            self.rejectEmptyTitle()
+        if self.is_title_empty():
+            self.reject_empty_title()
             return
 
-        filename = getFilename(get_basename(self.getTitle()), self.getCategory())
-        if filename.exists and not self.confirmUseExistingFile(filename):
+        filename = get_filename(get_basename(self.get_title()), self.get_category())
+        if filename.exists() and not self.confirm_use_existing_file(filename):
             return
 
         super().accept()
@@ -321,30 +322,34 @@ class Recettes(QtWidgets.QDialog):
         """
         self._logger.debug('Setting buttons widget')
 
-        self._buttons = QtWidgets.QDialogButtonBox(QtWidgets.QDialogButtonBox.Ok | QtWidgets.QDialogButtonBox.Cancel)
+        self._buttons = QtWidgets.QDialogButtonBox(
+            QtWidgets.QDialogButtonBox.Ok
+            | QtWidgets.QDialogButtonBox.Cancel
+        )
+
         self._buttons.accepted.connect(self.accept)
         self._buttons.rejected.connect(self.reject)
 
         return self._buttons
 
-    def getButton(self) -> bool:
+    def get_button(self) -> bool:
         """
         Read which button was clicked.
         """
-        buttonStatus = self.BUTTON_STATUS[self.result()]
-        self._logger.debug(f'Clicked on OK={buttonStatus}')
-        return buttonStatus
+        button_status = self.BUTTON_STATUS[self.result()]
+        self._logger.debug(f'Clicked on OK={button_status}')
+        return button_status
 
-    def getInputs(self) -> OrderedDict:
+    def get_inputs(self) -> dict:
         """
         Get all the user inputs we need to run post-processing.
         """
-        return OrderedDict([
-            ('button', self.getButton()),
-            ('category', self.getCategory()),
-            ('title', self.getTitle()),
-            ('template', self.getTemplate()),
-        ])
+        return {
+            'button': self.get_button(),
+            'category': self.get_category(),
+            'title': self.get_title(),
+            'template': self.get_template(),
+        }
 
 
 class App:
@@ -353,17 +358,17 @@ class App:
     """
     NEWLINE = '\n'
 
-    def __init__(self, title, category, template):
+    def __init__(self, title, category, template) -> None:
         self._logger = logging.getLogger(self.__class__.__name__)
 
         self._title = title
         self._category = category
         self._template = template
 
-        self._results = None
+        self._results: ResultsDict | None = None
 
     @property
-    def exitCode(self):
+    def exit_code(self) -> int:
         """
         Get the exit code.
         """
@@ -371,134 +376,176 @@ class App:
             # Not defined yet
             return 0
 
-        return self._results['exitCode']
+        return self._results['exit_code']
 
-    def runGUI(self):
+    def run_gui(self) -> dict:
         """
         Run the GUI app (no post-processing here).
         """
         app = QtWidgets.QApplication(sys.argv)
         recettes = Recettes()
         recettes.show()
-        exitCode = app.exec_()
+        exit_code = app.exec_()
 
-        self._results = recettes.getInputs()
-        if exitCode == 0 and not self._results['button']:
-            exitCode = 1
+        results = recettes.get_inputs()
+        results['exit_code'] = exit_code
 
-        if exitCode != 0:
-            sys.exit(exitCode)
+        if exit_code == 0 and not results['button']:
+            exit_code = 1
 
-        self._results['exitCode'] = exitCode
+        if exit_code != 0:
+            sys.exit(exit_code)
 
-    def run(self):
+        return results
+
+    def run(self) -> None:
         """
         Run the GUI app if needed.
         """
+        results = {
+            'category': self._category,
+            'title': self._title,
+            'template': self._template,
+            'exit_code': 0,
+        }
+
         if self._title is None:
-            self.runGUI()
+            results = self.run_gui()
 
-        else:
-            # store results
-            self._results = OrderedDict()
-            self._results['category'] = self._category
-            self._results['title'] = self._title
-            self._results['template'] = self._template
-            self._results['exitCode'] = 0
+        basename = get_basename(results['title'])
 
-        self._results['basename'] = get_basename(self._results['title'])
-        self._results['filename'] = getFilename(self._results['basename'], self._results['category'])
+        self._results = {
+            'category': results['category'],
+            'title': results['title'],
+            'template': results['template'],
+            'exit_code': results['exit_code'],
+            'basename': basename,
+            'filename': get_filename(basename, results['category']),
+
+        }
 
         self._logger.debug(self._results)
 
-    def _createDefaultFile(self):
+    def _create_default_file(self) -> None:
         """
         Create a default file with the template if applicable.
         """
+        if self._results is None:
+            raise ValueError('Cannot create file before parsing results')
+
         contents = ''
 
-        templateFilename = Path(__file__).parent / 'template.rst'
-        if self._results['template'] is not Templates.aucun or not templateFilename.exists():
-            self._logger.debug(f'Reading template: {templateFilename}')
+        template_filename = Path(__file__).parent / 'template.rst'
+        if self._results['template'] is not Templates.AUCUN or not template_filename.exists():
+            self._logger.debug(f'Reading template: {template_filename}')
 
-            with open(str(templateFilename), 'r', newline=self.NEWLINE) as template:
-                contents = template.read()
+            contents = template_filename.read_text(encoding='utf-8')
 
         if self._results['template'].value >= 2:
             self._logger.debug(f'Using template for {self._results["template"]}')
-            nPeople = self._results['template'].value
+            n_people = self._results['template'].value
 
-            contents = contents.replace('* eau',
-                                        f"""+------------+-------------+---------------------------------------------------+
-| 1 personne | {nPeople} personnes |                                                   |
-+============+=============+===================================================+
+            table_line = (
+                '+------------+-------------+---------------------------------------------------+'
+            )
+
+            contents = contents.replace(
+                '* eau',
+                f"""{table_line}
+| 1 personne | {n_people} personnes |                                                   |
+{table_line.replace('-', '=')}
 |          1 |           A | eau                                               |
-+------------+-------------+---------------------------------------------------+""")
+{table_line}""",
+            )
 
-        indexString = self._results['title']
+        index_string = self._results['title']
 
-        if self._category is not Categories.cuisine:
-            indexString = f'{self._category.name}; {indexString}'
+        if self._results['category'] is not Categories.CUISINE:
+            index_string = f'{self._results["category"].name.lower()}; {index_string}'
 
-        with open(str(self._results['filename']), 'w', newline=self.NEWLINE) as newFile:
-            newFile.write(f'.. index:: {indexString}\n')
-            newFile.write(f'.. _{self._results["category"].name}_{self._results["basename"].replace(".rst", "")}:\n')
+        new_contents = f'.. index:: {index_string}\n'
 
-            newFile.write('\n')
-            newFile.write(self._results['title'] + '\n')
-            newFile.write('#' * len(self._results['title']) + '\n')
+        new_contents += (
+            '.. _'
+            + self._results['category'].name.lower()
+            + '_'
+            + self._results['basename'].replace('.rst', '')
+            + ':\n'
+        )
 
-            newFile.write(contents)
+        new_contents += '\n'
+        new_contents += self._results['title'] + '\n'
+        new_contents += '#' * len(self._results['title']) + '\n'
+        new_contents += contents
 
-    def _createUtilisationFile(self):
+        self._results['filename'].write_text(new_contents)
+
+    def _create_utilisation_file(self) -> None:
         """
         Create a file for utilisation category.
         """
-        with open(str(self._results['filename']), 'w', newline=self.NEWLINE) as newFile:
-            newFile.write(f'.. index:: {self._results["title"]}\n')
-            newFile.write(f'.. _{self._results["title"]}:\n')
+        if self._results is None:
+            raise ValueError('Cannot create file before parsing results')
 
-            newFile.write('\n')
-            newFile.write(self._results['title'] + '\n')
-            newFile.write('#' * len(self._results['title']) + '\n')
-            newFile.write('\n')
+        contents = f'.. index:: {self._results["title"]}\n'
+        contents += f'.. _{self._results["title"]}:\n'
+        contents += '\n'
+        contents += self._results['title'] + '\n'
+        contents += '#' * len(self._results['title']) + '\n'
+        contents += '\n'
 
-    def createFile(self):
+        self._results['filename'].write_text(contents)
+
+    def create_file(self) -> None:
         """
         Create file from template (except if file exists).
         """
+        if self._results is None:
+            raise ValueError('Cannot create file before parsing results')
+
         if self._results['filename'].exists():
-            self._logger.debug(f'File {self._results["filename"]} already exists, skipping creation from template')
+            self._logger.debug(
+                f'File {self._results["filename"]} already exists, skipping creation from template'
+            )
             return
 
-        if self._results['category'] is Categories.utilisation:
-            self._createUtilisationFile()
+        if self._results['category'] is Categories.UTILISATION:
+            self._create_utilisation_file()
 
             print('WARNING: you must manually edit utilisation/index.rst '
                   f'to add the new file {self._results["filename"]}')
 
         else:
-            self._createDefaultFile()
+            self._create_default_file()
 
-    def gitStageFiles(self):
+    def git_stage_file(self) -> None:
         """
         Stage touched files to git for the next commit.
         """
+        if self._results is None:
+            raise ValueError('Cannot stage file before parsing results')
+
         command = ['git', 'add', str(self._results['filename'])]
         self._logger.debug(' '.join(command))
-        run(command)
+        run(command, check=True)
 
-    def confirm(self):
+    def confirm(self) -> None:
         """
         Confirm file is ready.
         """
-        if self._title is None:
-            msgBox = QtWidgets.QMessageBox()
-            msgBox.setWindowTitle('Nouvelle recette prête')
+        if self._results is None:
+            raise ValueError('Cannot prepare before parsing results')
 
-            msgBox.setText(f'La nouvelle recette peut maintenant être éditée dans:\n{self._results["filename"]}')
+        if self._results['title'] is None:
+            msg_box = QtWidgets.QMessageBox()
+            msg_box.setWindowTitle('Nouvelle recette prête')
 
-            msgBox.exec()
+            msg_box.setText(
+                'La nouvelle recette peut maintenant être éditée dans:\n'
+                + f'{self._results["filename"]}'
+            )
+
+            msg_box.exec()
 
         print(self._results['filename'])
 
@@ -506,59 +553,64 @@ class App:
         """
         Run the complete post-processing.
         """
-        self.createFile()
-        self.gitStageFiles()
+        self.create_file()
+        self.git_stage_file()
 
         self.confirm()
 
-        return self.exitCode
+        return self.exit_code
 
 
-def main():
+def main() -> int:
     """
     Main function.
     """
     # Parser
     parser = ArgumentParser()
+
     parser.add_argument(
         '-v',
         '--verbose',
         action='store_true',
         default=False,
     )
+
     parser.add_argument(
         '-t',
         '--title',
         help='Titre de la recette'
     )
+
     parser.add_argument(
         '-c',
         '--category',
-        choices=[category.name for category in Categories if category.name != 'UNDEFINED'],
-        default=DEFAULT_CATEGORY.name,
-        help=f'Categorie de la recette (defaut={DEFAULT_CATEGORY.name})'
+        choices=[category.name.lower() for category in Categories if category.name != 'UNDEFINED'],
+        default=DEFAULT_CATEGORY.name.lower(),
+        help=f'Categorie de la recette (defaut={DEFAULT_CATEGORY.name.lower()})'
     )
+
     parser.add_argument(
         '--template',
         choices=[template.name for template in Templates if template.name != 'UNDEFINED'],
         default=DEFAULT_TEMPLATE.name,
         help=f'Modele pour demarrer la recette (defaut={DEFAULT_TEMPLATE.name})'
     )
+
     args = parser.parse_args()
 
     # Logging
-    logFormat = '%(asctime)s:%(levelname)s:%(funcName)s[%(lineno)d]:%(message)s'
+    log_format = '%(asctime)s:%(levelname)s:%(funcName)s[%(lineno)d]:%(message)s'
     if args.verbose:
-        logging.basicConfig(format=logFormat, level=logging.DEBUG)
+        logging.basicConfig(format=log_format, level=logging.DEBUG)
     else:
-        logging.basicConfig(format=logFormat, level=logging.INFO)
+        logging.basicConfig(format=log_format, level=logging.INFO)
 
     # App
-    app = App(args.title, Categories[args.category], Templates[args.template])
+    app = App(args.title, Categories[args.category.upper()], Templates[args.template])
     app.run()
-    exitCode = app.process()
+    exit_code = app.process()
 
-    return exitCode
+    return exit_code
 
 
 if __name__ == '__main__':
