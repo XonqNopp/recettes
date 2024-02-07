@@ -24,6 +24,7 @@ Cette partie est tres largement inspiree du livre *Les Epluchures* de Marie Coch
    concombre.rst
    courge.rst
    courgette.rst
+   curry.rst
    epinard.rst
    fenouil.rst
    fraise.rst
