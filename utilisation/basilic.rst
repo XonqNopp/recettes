@@ -9,8 +9,9 @@
 .. index:: Eau; ...au basilic
 .. index:: jardin; Basilic
 .. index:: jardin; Anti-insectes
-.. index:: cosmetique; Apthes
-.. index:: cosmetique; Piqûres
+.. index:: cosmétique; Aphtes
+.. index:: cosmétique; Piqûres
+
 .. _Basilic:
 
 Basilic

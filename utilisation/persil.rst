@@ -1,8 +1,9 @@
 .. index:: Persil
 .. index:: Herbes aromatiques; Persil
-.. index:: cosmetique; Piqures
-.. index:: cosmetique; Haleine
-.. index:: cosmetique; Mauvaises odeurs
+.. index:: cosmétique; Piqûres
+.. index:: cosmétique; Haleine
+.. index:: cosmétique; Mauvaises odeurs
+
 .. _Persil:
 
 Persil
