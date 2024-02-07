@@ -44,7 +44,7 @@ if command -v latex > /dev/null; then
     (
         # subshell to not have to come back to previous dir after
         cd _build/latex || exit 1
-        latexpawa Recettes.tex || exit 1
+        latexpawa.pl Recettes.tex || exit 1
     )  # subshell
 
 else
@@ -60,11 +60,5 @@ fi
 
 # HTML
 sphinxBuild "html"
-
-if [ "$(uname)" = "Linux" ]; then
-    firefox _build/html/index.html
-else
-    open _build/html/index.html
-fi
 
 )  # subshell
