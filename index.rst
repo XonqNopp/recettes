@@ -12,9 +12,9 @@ Pour chercher par ingrédients: :ref:`genindex`
    :maxdepth: 2
 
    preface.rst
-   utilisation/index.rst
    cuisine/index.rst
    cosmetique/index.rst
+   utilisation/index.rst
    todo.rst
 
 Pour chercher par ingrédients: :ref:`genindex`
