@@ -3,6 +3,8 @@
 
 .. index:: Oeuf; Croquettes de chou-fleur
 .. index:: Chou-fleur; Croquettes de chou-fleur
+.. index:: Pain de sucre; Croquettes de chou-fleur
+.. index:: Chicorée; Croquettes de chou-fleur
 .. index:: Oignon; Croquettes de chou-fleur
 .. index:: Fromage: rape; Croquettes de chou-fleur
 .. index:: Fromage: Parmesan; Croquettes de chou-fleur
@@ -37,6 +39,11 @@ Ingrédients
 Préparation
 ===========
 
+.. note:
+
+   Si on utilise un robot ménager pour réduire le chou fleur en purée, on peut
+   simplement ajouter les autres ingrédients entier et utiliser le mixer.
+
 * Cuire le chou fleur (environ 10 min, il doit être tendre quand on le pique avec une pointe de couteau), puis le réduire en purée.
 * Peler et hacher l'oignon.
 * Hacher la ciboulette.
@@ -45,17 +52,12 @@ Préparation
 * Badigeonner d'huile.
 * Cuire environ 15 min au four préchauffé à 180°C.
 
-
-Notes
-=====
-
 Servir avec du ketchup.
 
-Si on utilise un robot ménager pour réduire le chou fleur en purée, on peut
-simplement ajouter les autres ingrédients entier et utiliser le mixer.
+On peut aussi remplacer le chou-fleur par du chou, de la salade pain de sucre, de la chicorée.
+L'amertume de ces légumes ne ressort pas dans cette recette.
 
 
 Source
 ======
 750g.com
-
