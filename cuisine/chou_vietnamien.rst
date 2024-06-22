@@ -25,6 +25,7 @@ Ingrédients
 * 1 cs sauce soja (goûter et rajouter au besoin)
 * poivre
 * 1 cc sambal olek
+* 5 cs beurre de cacahuètes
 
 
 Préparation
@@ -33,10 +34,19 @@ Préparation
 * Couper le chou en fines lamelles.
 * Peler et hacher finement l'ail, le gingembre et la citronnelle.
 * Chauffer l'huile dans un wok/une grande poêle profonde.
-* Mettre le chou, l'ail, le gingembre et la citronnelle dans le wok.
+* Mettre dans le wok
+  le chou,
+  l'ail,
+  le gingembre,
+  la citronnelle.
 * Cuire à feu vif 15 minutes.
-* Ajouter le poivre, le sucre, la sauce soja et le sambal olek, mélanger et retirer du
-  feu.
+* Ajouter
+  le poivre,
+  le sucre,
+  la sauce soja,
+  le beurre de cacahuètes,
+  le sambal olek,
+  mélanger et retirer du feu.
 * Laisser 2 min à couvert.
 
 
