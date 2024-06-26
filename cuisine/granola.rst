@@ -44,7 +44,7 @@ Selon l'envie, on peut encore ajouter:
 Préparation
 ===========
 
-* Préchauffez le four à 140°C (chaleur tournante).
+* Préchauffez le four à 160°C (chaleur tournante).
 * Hacher les noix
 * Bien mélanger tous les ingrédients. 
 * Etaler sur 2 plaques chemisées de papier sulfurisé.
