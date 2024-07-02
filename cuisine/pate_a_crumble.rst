@@ -12,8 +12,8 @@ Ingrédients
 
 * 50g farine
 * 50g noisettes/amandes moulues
-* 25g sucre
-* 75g beurre ou 100-150g pâte d'amandes/noisettes
+* 20g sucre
+* 75g beurre ou pâte d'amandes/noisettes
 
 
 Préparation
