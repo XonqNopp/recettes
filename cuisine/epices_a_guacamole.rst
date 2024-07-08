@@ -18,15 +18,15 @@ Epices a guacamole
 Ingrédients
 ===========
 
-Quantités: 1cc, sauf le sel 1/2cc.
+Pour 2 avocats.
 
-* sel
-* cumin
-* muscade en poudre
-* persil séché
-* coriandre en poudre
-* ail en poudre
-* paprika ou piment de Cayenne en poudre
+* 1/2 cc sel
+* 1/2 cc muscade en poudre
+* 1 cc cumin
+* 1 cc persil séché
+* 1 cc coriandre en poudre
+* 1 cc ail en poudre
+* 1 cc paprika ou piment de Cayenne en poudre
 
 
 Source
