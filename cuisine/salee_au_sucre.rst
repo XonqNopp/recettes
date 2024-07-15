@@ -68,6 +68,7 @@ Préparation
 
 * Etaler la pâte sur une grande plaque.
 * Broyer les meringues, pas trop grossièrement ni trop finement.
+* Mélanger la moitie avec la double-crème.
 * Etaler la double-crème sur la pâte.
 * Parsemer les meringues.
 * Cuire au four préchauffé à 200°C pendant 10 à 15 minutes en surveillant.
