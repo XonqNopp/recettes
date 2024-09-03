@@ -24,7 +24,7 @@ Ingrédients
 
 * 180g chocolat noir
 * 120g beurre
-* 200g sucre
+* 100g sucre
 * 3 oeufs
 * 80g farine
 
@@ -32,11 +32,14 @@ Ingrédients
 Préparation
 ===========
 
+Pour 8 moules.
+
 * Ramollir le beurre.
 * Faire fondre le chocolat.
-* Melanger le tout et verser dans des petits moules ou des tasses.
-* Cuire 18min au four a 225oC.
+* Mélanger le tout et verser dans des petits moules ou des tasses.
+* Cuire 5min au four a 225oC (6min si au frigo avant).
 
+Testée 29.08.2024.
 
 
 Variante 2
