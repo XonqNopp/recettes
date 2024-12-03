@@ -29,22 +29,23 @@ Ingrédients
 
 * 400 g de flocons d'avoine et de seigle
 * 100 g de graines de tournesol
-* 200 g de noisettes, noix, noix de pécan, noix de cajou, amandes
+* 200-300 g de noisettes, noix, noix de pécan, noix de cajou, amandes
 * 2 pincées de sel
 * 4 cc de cannelle
-* 6 cs de liquide sucré: miel, raisinée/vin cuit, confiture
 * 2 cs d'huile de colza
 
 Selon l'envie, on peut encore ajouter:
 
 * 2 cc de poudre de vanille
 * 75 g copeaux de noix de coco
+* 6 cs de liquide sucré: miel, raisinée/vin cuit, confiture
+* poudre de gingembre, cardamome...
 
 
 Préparation
 ===========
 
-* Préchauffez le four à 160°C (chaleur tournante).
+* Préchauffez le four à 160°C (chaleur tournante). Moins chaud ne va pas torréfier.
 * Hacher les noix
 * Bien mélanger tous les ingrédients. 
 * Etaler sur 2 plaques chemisées de papier sulfurisé.
