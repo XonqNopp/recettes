@@ -21,13 +21,13 @@ Ingrédients
 +================+========================================================+
 |          100 g | :ref:`cuisine_levain`                                  |
 +----------------+--------------------------------------------------------+
-|          450 g | farine                                                 |
+|          500 g | farine                                                 |
 +----------------+--------------------------------------------------------+
 |            6 g | sel                                                    |
 +----------------+--------------------------------------------------------+
-|           75 g | noix, amandes, noisettes, raisins sec, graines, etc.   |
+|          100 g | noix, amandes, noisettes, raisins sec, graines, etc.   |
 +----------------+--------------------------------------------------------+
-|          220 g | eau (a adapter en fonction de la farine, voir dessous) |
+|          250 g | eau                                                    |
 +----------------+--------------------------------------------------------+
 
 La proportion de levain va déterminer le temps de pousse.
@@ -48,7 +48,7 @@ Préparation
 
   .. warning:: Attention a ne pas la laisser lever trop longtemps.
 
-* Etirer la pâte 1-2 fois???
+* Etirer la pâte 1-2 fois
 * Mettre dans la cocotte et marquer le dessus au couteau.
 * Cuire 35-45min a 220degC.
 * Si la croute n'est pas assez dure, cuire encore 5min sans le couvercle de la cocotte.
