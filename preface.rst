@@ -8,19 +8,26 @@ Conseils
   casserole.
 
 
+Quantités de féculents
+======================
+
+Pour un repas, on compte normalement par personne 80g s'il y a un accompagnement de viande, sinon 120g.
+Le riz est souvent mesuré en tasse car il faut le cuire dans le double de volume d'eau.
+
+
 Hygiène alimentaire
 ===================
 
-*   Se laver les mains avant de commencer.
-*   Ne jamais utiliser d'ustensiles en métal dans les récipients en téflon.
+* Se laver les mains avant de commencer.
+* Ne jamais utiliser d'ustensiles en métal dans les récipients en téflon.
 
 
 Ingrédients à toujours avoir à portée
 =====================================
 
-*   Farine
-*   Huile
-*   Sel
+* Farine
+* Huile
+* Sel
 
 
 Informations importantes
@@ -57,4 +64,3 @@ Ceux qu'on ne liste pas sont:
 * lait
 * levure
 * sauce pour rouleaux de printemps
-
