@@ -12,8 +12,8 @@
 Emincé de poulet au potiron et au speculoos
 ###########################################
 
-* Préparation: 20 min
-* Cuisson: 30 min
+* Préparation: 30 min
+* Cuisson: 60 min
 
 
 Ingrédients
@@ -22,7 +22,7 @@ Ingrédients
 +------------+-------------+---------------------------------------------------+
 | 1 personne | 4 personnes |                                                   |
 +============+=============+===================================================+
-|          1 |           4 | blancs de poulet sans peau                        |
+|       150g |        600g | émincés ou filets ou blancs de poulet sans peau   |
 +------------+-------------+---------------------------------------------------+
 |        50g |        200g | speculoos                                         |
 +------------+-------------+---------------------------------------------------+
@@ -37,15 +37,15 @@ Ingrédients
 Préparation
 ===========
 
+* Découper le potiron en petits morceaux(env. 1-2cm) et les disposer dans le plat.
+* Eplucher les oignons et les couper en quartier (même s'ils sont petits). Les démonter et les disposer dans le plat.
 * Mixer les speculoos jusqu'à obtention d'une fine chapelure, verser dans une assiette.
-* Couper les blancs de poulet en petits morceaux.
 * Battre l'oeuf dans une assiette.
+* Couper le poulet en petits morceaux.
 * Passer chaque morceau de poulet dans l'oeuf puis dans les speculoos.
 * Disposer les morceaux dans un plat a gratin.
-* Eplucher les oignons et les couper en quartier. Les démonter et les disposer dans le plat.
-* Découper le potiron en petits morceaux de la même taille que le poulet et les disposer dans le plat.
 * Assaisonner et mouiller avec 1dl d'eau.
-* Cuire au four préchauffé a 180oC environ 30min.
+* Cuire au four préchauffé a 200oC environ 45-60min.
 
 
 Source
