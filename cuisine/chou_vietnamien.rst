@@ -19,13 +19,12 @@ Ingrédients
 
 * 500 g chou (blanc, frisé, kale, mais PAS rouge)
 * 2 gousses d'ail
-* 3 cs huile coco
-* 5 mm gingembre
+* 5 mm gingembre (ou 1dl jus de gingembre)
 * 1 branche de citronnelle
 * 1 cs sauce soja (goûter et rajouter au besoin)
 * poivre
 * 1 cc sambal olek
-* 5 cs beurre de cacahuètes
+* 2 cs beurre de cacahuètes
 
 
 Préparation
@@ -37,16 +36,14 @@ Préparation
 * Mettre dans le wok
   le chou,
   l'ail,
-  le gingembre,
+  le gingembre (pas si en jus),
   la citronnelle.
 * Cuire à feu vif 15 minutes.
 * Ajouter
   le poivre,
-  le sucre,
+  le jus de gingembre (si pas frais),
   la sauce soja,
   le beurre de cacahuètes,
   le sambal olek,
   mélanger et retirer du feu.
 * Laisser 2 min à couvert.
-
-
