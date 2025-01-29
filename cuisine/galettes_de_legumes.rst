@@ -9,6 +9,8 @@
 .. index:: Colrave; Galettes de légumes
 .. index:: Fenouil; Galettes de légumes
 .. index:: Radis; Galettes de légumes
+.. index:: Chicorée; Galettes de légumes
+.. index:: Pain de sucre; Galettes de légumes
 .. index:: Lait; Galettes de légumes
 .. index:: Bouillon; Galettes de légumes
 .. index:: Flocon d'avoine; Galettes de légumes
@@ -27,8 +29,8 @@
 Galettes de légumes
 ###################
 
-* Préparation: 30 min
-* Cuisson: 15 min
+* Préparation: 45 min
+* Cuisson: 30 min
 
 
 Ingrédients
@@ -39,9 +41,9 @@ Ingrédients
 +============+=============+===================================================+
 |        1/4 |           1 | gousse d'ail                                      |
 +------------+-------------+---------------------------------------------------+
-|        1/4 |           1 | oignon                                            |
+|          1 |           4 | oignon                                            |
 +------------+-------------+---------------------------------------------------+
-|       45 g |       180 g | chutes de legumes (fanes, feuilles de chou-fleur) |
+|      100 g |       400 g | chutes de légumes (fanes, feuilles de chou-fleur) |
 +------------+-------------+---------------------------------------------------+
 |       1 dl |        4 dl | lait                                              |
 +------------+-------------+---------------------------------------------------+
@@ -58,6 +60,11 @@ Ingrédients
 |            |             | herbes (persil, ciboulette, thym, romarin...)     |
 +------------+-------------+---------------------------------------------------+
 
+.. note::
+
+   On peut aussi utiliser comme légumes de la salade pain de sucre, de la chicorée.
+   L'amertume de ces légumes ne ressort pas dans cette recette.
+
 
 
 Préparation
@@ -67,10 +74,10 @@ Préparation
 * Les faire revenir dans une poêle avec du beurre jusqu'à ce qu'ils soient tendres.
 * Ajouter le lait avec du bouillon et faire bouillir.
 * Verser sur les flocons d'avoine et laisser reposer 10min a couvert.
-* Ajouter les oeufs, la farine, 4cs de jogurt et un peu des herbes, assaisonner.
+* Ajouter les oeufs, la farine et un peu des herbes, assaisonner.
 * Former des galettes de 3-4cm de long, 2-3cm de large et 1-2cm de haut, les disposer sur une plaque du four.
-* Cuire dans le four préchauffé a 180oC pendant environ 15min. Pour tester la cuisson, les galettes doivent se décoller
-  du papier.
+* Cuire dans le four préchauffé a 200oC pendant environ 30min.
+  Pour tester la cuisson, les galettes doivent se décoller du papier.
 * Servir avec le jogurt mélanger avec les herbes et un peu d'assaisonnement.
   On peut aussi accompagner d'un fromage frais.
 
