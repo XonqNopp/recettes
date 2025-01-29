@@ -35,6 +35,11 @@ Ingrédients
 * poivre
 * huile
 
+.. note::
+
+   On peut aussi remplacer le chou-fleur par du chou, de la salade pain de sucre, de la chicorée.
+   L'amertume de ces légumes ne ressort pas dans cette recette.
+
 
 Préparation
 ===========
@@ -54,10 +59,8 @@ Préparation
 
 Servir avec du ketchup.
 
-On peut aussi remplacer le chou-fleur par du chou, de la salade pain de sucre, de la chicorée.
-L'amertume de ces légumes ne ressort pas dans cette recette.
-
 
 Source
 ======
+
 750g.com
