@@ -1,6 +1,6 @@
 .. index:: Snacks; ...coco-choc
 .. index:: Invention; Snack coco-choc
-.. index:: Jamais fait; Snack coco-choc
+.. index:: A ESSAYER; Snack coco-choc
 
 .. index:: Noix de coco; Snack coco-choc
 .. index:: Chocolat; Snack coco-choc

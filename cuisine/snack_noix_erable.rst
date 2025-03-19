@@ -1,6 +1,6 @@
 .. index:: Snacks; ...noix-érable
 .. index:: Invention; Snack noix-érable
-.. index:: Jamais fait; Snack noix-érable
+.. index:: A ESSAYER; Snack noix-érable
 
 .. index:: Noix; Snack noix-érable
 .. index:: Sirop d'érable; Snack noix-érable

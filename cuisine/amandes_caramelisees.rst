@@ -1,6 +1,6 @@
 .. index:: Amande; ...caramelisees
 .. index:: Repas: friandises; Amandes caramelisees
-.. index:: Jamais fait; Amandes caramelisees
+.. index:: A ESSAYER; Amandes caramelisees
 
 .. _cuisine_amandes_caramelisees:
 

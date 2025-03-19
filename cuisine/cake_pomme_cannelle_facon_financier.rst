@@ -1,4 +1,5 @@
 .. index:: Cake; ...pomme cannelle façon financier
+.. index:: A ESSAYER; Cake pomme cannelle façon financier
 
 .. index:: Beurre; Cake pomme cannelle façon financier
 .. index:: Sucre; Cake pomme cannelle façon financier

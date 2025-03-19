@@ -1,6 +1,6 @@
 .. index:: Parmentier de volaille de Bresse
 .. index:: Saisons: 4 saisons; Parmentier de volaille de Bresse
-.. index:: Jamais fait; Parmentier de volaille de Bresse
+.. index:: A ESSAYER; Parmentier de volaille de Bresse
 
 .. index:: Pomme de terre; Parmentier de volaille de Bresse
 .. index:: Ail; Parmentier de volaille de Bresse

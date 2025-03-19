@@ -1,6 +1,6 @@
 .. index:: Pomme de terre; ...au laurier
 .. index:: Saisons: 4 saisons; Pommes de terre au laurier
-.. index:: Jamais fait; Pommes de terre au laurier
+.. index:: A ESSAYER; Pommes de terre au laurier
 
 .. index:: Laurier; Pommes de terre au laurier
 

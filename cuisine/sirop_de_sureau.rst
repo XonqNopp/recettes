@@ -1,6 +1,6 @@
 .. index:: Sirop; ...de sureau
 .. index:: Boisson; Sirop de sureau
-.. index:: Jamais fait; Sirop de sureau
+.. index:: A ESSAYER; Sirop de sureau
 
 .. index:: Sureau; Sirop de sureau
 

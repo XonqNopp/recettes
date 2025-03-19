@@ -1,6 +1,6 @@
 .. index:: Hachis parmentier
 .. index:: Saisons: 4 saisons; Hachis parmentier
-.. index:: Jamais fait; Hachis parmentier
+.. index:: A ESSAYER; Hachis parmentier
 
 .. index:: Viande hachée; Hachis parmentier
 .. index:: Pomme de terre; Hachis parmentier

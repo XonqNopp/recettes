@@ -1,6 +1,6 @@
 .. index:: Lapin; ...au four
 .. index:: Saisons: 4 saisons; Lapin au four
-.. index:: Jamais fait; Lapin au four
+.. index:: A ESSAYER; Lapin au four
 
 .. index:: Romarin; Lapin au four
 .. index:: Ail; Lapin au four

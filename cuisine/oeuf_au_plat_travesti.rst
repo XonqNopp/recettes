@@ -1,6 +1,6 @@
 .. index:: Oeuf; ...au plat travesti
 .. index:: Repas: dessert; Oeuf au plat travesti
-.. index:: Jamais fait; Oeuf au plat travesti
+.. index:: A ESSAYER; Oeuf au plat travesti
 
 .. index:: Abricot; Oeuf au plat travesti
 .. index:: Peche; Oeuf au plat travesti

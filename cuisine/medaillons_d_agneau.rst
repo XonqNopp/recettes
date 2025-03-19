@@ -1,6 +1,6 @@
 .. index:: Medaillons d'agneau
 .. index:: Saisons: 4 saisons; Medaillons d'agneau
-.. index:: Jamais fait; Medaillons d'agneau
+.. index:: A ESSAYER; Medaillons d'agneau
 
 .. index:: Agneau; Medaillons d'agneau
 .. index:: Thym; Medaillons d'agneau

@@ -1,6 +1,6 @@
 .. index:: Poire; ...caramelisees
 .. index:: Repas: dessert; Poires caramelisees
-.. index:: Jamais fait; Poires caramelisees
+.. index:: A ESSAYER; Poires caramelisees
 
 .. index:: Cannelle; Poires caramelisees
 

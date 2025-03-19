@@ -1,6 +1,6 @@
 .. index:: Torta di mosche (Ticino)
 .. index:: Par pays: CH Ticino; Torta di mosche
-.. index:: Jamais fait; Torta di mosche
+.. index:: A ESSAYER; Torta di mosche
 
 .. index:: Pain sec; Torta di mosche (Ticino)
 .. index:: Cacao; Torta di mosche (Ticino)

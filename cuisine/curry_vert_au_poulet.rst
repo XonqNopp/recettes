@@ -1,6 +1,6 @@
 .. index:: Curry; ...vert au poulet
 .. index:: Saisons: Ete; Curry vert au poulet
-.. index:: Jamais fait; Curry vert au poulet
+.. index:: A ESSAYER; Curry vert au poulet
 
 .. index:: Poulet; Curry vert au poulet
 .. index:: Aubergine; Curry vert au poulet

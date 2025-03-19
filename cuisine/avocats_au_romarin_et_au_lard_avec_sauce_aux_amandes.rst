@@ -1,5 +1,6 @@
 .. index:: Avocat; ...au romarin et au lard avec sauce aux amandes
 .. index:: Saisons: 4 saisons; Avocats au romarin et au lard avec sauce aux amandes
+.. index:: A ESSAYER; Avocats au romarin et au lard avec sauce aux amandes
 
 .. index:: Citron; Avocats au romarin et au lard avec sauce aux amandes
 .. index:: Romarin; Avocats au romarin et au lard avec sauce aux amandes
@@ -53,4 +54,3 @@ Préparation
 * Les citronner et les saler.
 * Garnir de romarin et envelopper de lard.
 * Juste avant de servir, faire griller sur tous les côtés à feu moyen pendant 3-4min, en les retournant le moins possible pour éviter de les abîmer.
-

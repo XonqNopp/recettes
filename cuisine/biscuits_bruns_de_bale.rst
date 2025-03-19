@@ -1,4 +1,5 @@
 .. index:: Biscuits; Bruns de Bâle
+.. index:: A ESSAYER; Bruns de Bâle
 
 .. index:: Amande; Bruns de Bâle
 .. index:: Sucre; Bruns de Bâle

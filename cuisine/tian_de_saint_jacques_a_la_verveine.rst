@@ -1,6 +1,6 @@
 .. index:: Tian de Saint-Jacques à la verveine
 .. index:: Saisons: 4 saisons; Tian de Saint-Jacques à la verveine
-.. index:: Jamais fait; Tian de Saint-Jacques à la verveine
+.. index:: A ESSAYER; Tian de Saint-Jacques à la verveine
 
 .. index:: Saint-Jacques; Tian de Saint-Jacques à la verveine
 .. index:: Noix de Saint-Jacques; Tian de Saint-Jacques à la verveine

@@ -2,7 +2,7 @@
 .. index:: Sorbet; ...au gingembre et au kiwi
 .. index:: Repas: gouter; Glace sorbet au gingembre et au kiwi
 .. index:: Repas: dessert; Glace sorbet au gingembre et au kiwi
-.. index:: Jamais fait; Glace sorbet au gingembre et au kiwi
+.. index:: A ESSAYER; Glace sorbet au gingembre et au kiwi
 
 .. index:: Gingembre; Glace sorbet au gingembre et au kiwi
 .. index:: Kiwi; Glace sorbet au gingembre et au kiwi

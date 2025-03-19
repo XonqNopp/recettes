@@ -1,5 +1,5 @@
 .. index:: Snacks; ...abricots
-.. index:: Jamais fait; Snack abricots
+.. index:: A ESSAYER; Snack abricots
 
 .. index:: Abricot; Snack abricots
 .. index:: Flocon d'avoine; Snack abricots

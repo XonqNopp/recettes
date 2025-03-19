@@ -1,6 +1,6 @@
 .. index:: Curry; ...rouge à la viande
 .. index:: Saisons: Ete; Curry rouge à la viande
-.. index:: Jamais fait; Curry rouge à la viande
+.. index:: A ESSAYER; Curry rouge à la viande
 
 .. index:: Boeuf; Curry rouge à la viande
 .. index:: Poulet; Curry rouge à la viande

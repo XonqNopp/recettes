@@ -1,4 +1,5 @@
 .. index:: Biscuits; ...aux figues
+.. index:: A ESSAYER; Biscuits aux figues
 
 .. index:: Amande; Biscuits aux figues
 .. index:: Flocon d'avoine; Biscuits aux figues

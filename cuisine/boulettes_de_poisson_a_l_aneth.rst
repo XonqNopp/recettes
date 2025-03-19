@@ -1,5 +1,6 @@
 .. index:: Boulettes de poisson à l'aneth
 .. index:: Saisons: Ete; Boulettes de poisson à l'aneth
+.. index:: A ESSAYER; Boulettes de poisson à l'aneth
 
 .. index:: Poisson; Boulettes de poisson à l'aneth
 .. index:: Poivron; Boulettes de poisson à l'aneth

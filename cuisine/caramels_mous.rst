@@ -1,6 +1,6 @@
 .. index:: Caramel; ...mous
 .. index:: Repas: friandises; Caramels mous
-.. index:: Jamais fait; Caramels mous
+.. index:: A ESSAYER; Caramels mous
 
 .. index:: Beurre; Caramels mous
 

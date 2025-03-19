@@ -1,7 +1,7 @@
 .. index:: Glace; ...au citron à la cardamome
 .. index:: Repas: gouter; Glace au citron à la cardamome
 .. index:: Repas: dessert; Glace au citron à la cardamome
-.. index:: Jamais fait; Glace au citron à la cardamome
+.. index:: A ESSAYER; Glace au citron à la cardamome
 
 .. index:: Cardamome; Glace au citron à la cardamome
 .. index:: Oeuf; Glace au citron à la cardamome

@@ -1,6 +1,6 @@
 .. index:: Parfait au miel et aux epices
 .. index:: Repas: dessert; Parfait au miel et aux epices
-.. index:: Jamais fait; Parfait au miel et aux epices
+.. index:: A ESSAYER; Parfait au miel et aux epices
 
 .. index:: Miel; Parfait au miel et aux epices
 .. index:: Citron; Parfait au miel et aux epices

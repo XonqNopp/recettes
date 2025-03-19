@@ -1,6 +1,6 @@
 .. index:: Calamar; ...farcis à la truite fumée
 .. index:: Saisons: 4 saisons; Calamars farcis à la truite fumée
-.. index:: Jamais fait; Calamars farcis à la truite fumée
+.. index:: A ESSAYER; Calamars farcis à la truite fumée
 
 .. index:: Oignon; Calamars farcis à la truite fumée
 .. index:: Poisson; Calamars farcis à la truite fumée
