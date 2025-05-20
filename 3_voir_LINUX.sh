@@ -31,7 +31,9 @@ $PYTHON scripts/generate_index.py cuisine cosmetique
 
 
 # LaTeX
-pdfFilename="_build/latex/Recettes.pdf"
+latexDir="_build/latex"
+mkdir -p "$latexDir"
+pdfFilename="$latexDir/Recettes.pdf"
 rm -f "$pdfFilename"
 touch "$pdfFilename"
 
@@ -43,8 +45,8 @@ if command -v latex > /dev/null; then
 
     (
         # subshell to not have to come back to previous dir after
-        cd _build/latex || exit 1
-        latexpawa.pl Recettes.tex || exit 1
+        cd "$latexDir" || exit 1
+        latexpawa Recettes.tex || exit 1
     )  # subshell
 
 else
