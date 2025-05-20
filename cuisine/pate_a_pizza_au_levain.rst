@@ -9,32 +9,38 @@ Pâte a pizza au levain
 ######################
 
 * Préparation: 15 min
-* Repos: 12h
+* Repos: 8-12h
 * Cuisson: 5-10 min
 
 
 Ingrédients
 ===========
 
-Pour 2 plaques.
-
-* 100g :ref:`cuisine_levain`
-* 290g d'eau (à adapter, cf. :ref:`cuisine_pain_au_levain`)
-* 500g farine
-* 13g sel
-* 55g huile olive
++----------+-----------+---------------------------------------------------+
+| 1 plaque | 3 plaques |                                                   |
++==========+===========+===================================================+
+|      30g |      100g | :ref:`cuisine_levain`                             |
++----------+-----------+---------------------------------------------------+
+|     140g |      420g | d'eau                                             |
++----------+-----------+---------------------------------------------------+
+|     250g |      750g | farine                                            |
++----------+-----------+---------------------------------------------------+
+|       5g |       15g | sel                                               |
++----------+-----------+---------------------------------------------------+
+|      25g |       75g | huile olive                                       |
++----------+-----------+---------------------------------------------------+
 
 
 Préparation
 ===========
 
 * Mettre tous les ingrédients dans un saladier et pétrir.
-* Laisser reposer a couvert 8-12h
+* Laisser reposer a couvert 8-12h.
 * Sans sortir la pâte du saladier, fariner généreusement le dessus, décoller gentiment le dessous en farinant bien.
-* Découper en 2 parts.
+* Découper en parts.
 * Fariner le plan de travail.
 * Former des pizzas en étirant la pâte depuis le milieu (ne pas écraser les bords!).
-* Cuire 5-10min dans le four préchauffé à 280-300°C (au moins 250°C)
+* Cuire 5-10min dans le four préchauffé à 280-300°C (au moins 250°C) avec chaleur tournante et en bas.
 
 
 Source
