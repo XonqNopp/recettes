@@ -9,7 +9,7 @@ Pain au levain
 ##############
 
 * Préparation: 15 min
-* Repos: 12h
+* Repos: 8-12h
 * Cuisson: 50 min
 
 
@@ -27,7 +27,7 @@ Ingrédients
 +----------------+--------------------------------------------------------+
 |          100 g | noix, amandes, noisettes, raisins sec, graines, etc.   |
 +----------------+--------------------------------------------------------+
-|          250 g | eau                                                    |
+|          270 g | eau                                                    |
 +----------------+--------------------------------------------------------+
 
 La proportion de levain va déterminer le temps de pousse.
@@ -49,9 +49,11 @@ Préparation
   .. warning:: Attention a ne pas la laisser lever trop longtemps.
 
 * Etirer la pâte 1-2 fois
+* Entailler (grigner) le pain pour canaliser les cassures qui se produisent quand il gonfle.
+  Ne pas hésiter a le faire profond, le pain lèvera mieux.
 * Mettre dans la cocotte et marquer le dessus au couteau.
-* Cuire 35-45min a 220degC.
-* Si la croute n'est pas assez dure, cuire encore 5min sans le couvercle de la cocotte.
+* Cuire 40min a 220degC.
+* Enlever le couvercle de la cocotte et cuire encore 10min.
 * Quand le dessous fait un toc-toc régulier, le pain est cuit.
 * Sortir le pain du four et le laisser sécher sur une grille
 
