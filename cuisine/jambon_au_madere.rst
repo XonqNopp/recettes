@@ -32,8 +32,6 @@ Ingrédients
 +------------+-------------+----------------------------------------------------------------------+
 |     1/4 dl |        1 dl | Madère (ou Porto), ou plus selon le goût                             |
 +------------+-------------+----------------------------------------------------------------------+
-|     1/2 cc |        2 cc | sel                                                                  |
-+------------+-------------+----------------------------------------------------------------------+
 |     1/2 cc |        2 cc | poivre                                                               |
 +------------+-------------+----------------------------------------------------------------------+
 
@@ -42,7 +40,7 @@ Préparation
 ===========
 
 * Rouler les tranches de jambon et les disposer dans un plat à gratin.
-* Dans un pot, mélanger le concentré de tomates avec les tomates, la crème et le Madère, puis assaisonner.
+* Dans un pot, mélanger le concentré de tomates avec les tomates, la crème et le Madère, puis assaisonner
+  (ne pas saler, le jambon donnera du sel).
 * Verser sur le jambon.
 * Cuire au four préchauffé à 200°C pendant 15-20 minutes.
-
