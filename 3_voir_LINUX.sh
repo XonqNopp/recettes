@@ -2,6 +2,8 @@
 
 # View the current state.
 
+set -ex
+
 
 PYTHON=python3
 SPHINX="sphinx-build"
@@ -15,7 +17,7 @@ fi
 # Args:
 # 1: builder (latex, html)
 function sphinxBuild() {
-    $SPHINX -W -b "$1" . "_build/$1" || exit 1
+    LC_ALL=C $SPHINX -W -b "$1" . "_build/$1"
 }
 
 
@@ -23,7 +25,7 @@ workdir=$(dirname "$0")
 
 (
 # subshell so we do not need to care about restoring CWD
-cd "$workdir" || exit 1
+cd "$workdir"
 
 
 # Generate index
@@ -41,12 +43,12 @@ if command -v latex > /dev/null; then
     # LaTeX PDF
     sphinxBuild "latex"
     rm -f "$pdfFilename"
-    $PYTHON scripts/fix_latex.py || exit 1
+    $PYTHON scripts/fix_latex.py
 
     (
         # subshell to not have to come back to previous dir after
-        cd "$latexDir" || exit 1
-        latexpawa Recettes.tex || exit 1
+        cd "$latexDir"
+        latexpawa Recettes.tex
     )  # subshell
 
 else
