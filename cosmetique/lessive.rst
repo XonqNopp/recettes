@@ -19,15 +19,18 @@ Lessive qui se conserve
 Ingrédients
 ===========
 
-* 6 cs (rases) paillettes de savon de Marseille
-* 2.5l eau chaude
-* 3 cs bicarbonate de soude
-* 1 cc d'argile colorée
-* 1 cs vinaigre blanc
-* 10 gouttes huile essentielle
++------+----------+-------------------------+
+| Base |   Nous   | Ingredients             |
++======+==========+=========================+
+|  50g |      63g | savon de Marseille rape |
++------+----------+-------------------------+
+| 1 cs | 1 1/4 cs | bicarbonate de soude    |
++------+----------+-------------------------+
+|  1 l |   1.25 l | eau chaude              |
++------+----------+-------------------------+
 
 
-Préparation
+Préparatin
 ===========
 
 * Mélanger le savon de Marseille avec l'eau chaude.
@@ -38,11 +41,15 @@ Conservation: 1 mois environ.
 
 .. note::
 
-   * Pour un linge delicat ou des couches lavables, supprimer le bicarbonate car
-     il gonfle les tissus et peut les rendre moins permeables.
-   * Pour un linge plus blanc, ajouter dans la machine 1/2 cs percarbonate de
-     soude par kilo de linge. SURTOUT PAS dans le bidon, cela fait une reaction
-     chimique lente qui produit beaucoup de mousse et des substances corrosives.
+   Pour un linge delicat ou des couches lavables, supprimer le bicarbonate car
+   il gonfle les tissus et peut les rendre moins permeables.
+
+.. note::
+
+   Pour un linge plus blanc, ajouter dans la machine 1/2 cs percarbonate de
+   soude par kilo de linge.
+   SURTOUT PAS dans le bidon, cela fait une reaction chimique lente qui produit
+   beaucoup de mousse et des substances corrosives.
 
 
 Sources
@@ -86,3 +93,21 @@ Sources
 
 * https://www.famillezerodechet.com/archives/2017/01/16/34813559.html
 * https://planetezerodechet.fr/lessive-au-lierre-recette-zero-dechet-naturelle/
+
+
+
+Lessive linge delicat
+*********************
+
+* 1 l eau
+* 40g savon de marseille rape
+* 1 bouchon shampoing bebe
+
+
+Nettoyant machine
+*****************
+
+* 200ml vinaigre blanc
+* 3cs jus citron
+* 1 feuille aluminium roulee en boule
+
