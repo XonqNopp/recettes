@@ -26,7 +26,7 @@ Ingrédients
 * 250 g beurre
 * 100 g sucre (de canne, miel, raisinée...)
 * 1 pincée de sel
-* 2 oeuf
+* 2.5 oeuf
 * 200 g amandes moulues
 * 10 cc cannelle en poudre
 * 6 cc gingembre en poudre

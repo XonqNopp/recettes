@@ -21,7 +21,7 @@ Ingrédients
 * 250 g beurre
 * 100 g sucre (miel?)
 * 1 pincée de sel
-* 3 oeufs
+* 2.5 oeufs
 * 2 citrons
 
 
