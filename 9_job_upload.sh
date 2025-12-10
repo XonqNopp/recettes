@@ -1,6 +1,6 @@
 #!/bin/sh
 # Upload to website (only from job network)
-set -e
+set -ex
 cd _build
 mv html recettes
 tar cJf recettes.tar.xz recettes
