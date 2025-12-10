@@ -1,4 +1,4 @@
+pyside6
 sphinx
 sphinx_rtd_theme
-pyside2
-
+venv-autouse

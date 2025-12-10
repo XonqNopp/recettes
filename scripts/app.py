@@ -13,7 +13,7 @@ from enum import Enum
 from typing import TypedDict
 
 # pylint: disable=[import-error]
-from PySide2 import QtWidgets  # type: ignore
+from PySide6 import QtWidgets  # type: ignore
 
 
 class Categories(Enum):
