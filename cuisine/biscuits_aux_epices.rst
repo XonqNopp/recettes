@@ -28,9 +28,9 @@ Ingrédients
 * 1 pincée de sel
 * 2.5 oeuf
 * 200 g amandes moulues
-* 10 cc cannelle en poudre
-* 6 cc gingembre en poudre
-* 6 cc cardamome en poudre
+* 15 cc cannelle en poudre
+* 10 cc gingembre en poudre
+* 10 cc cardamome en poudre
 * 2 cc clous de girofle en poudre
 * 1 cc noix de muscade en poudre
 
@@ -45,4 +45,4 @@ Préparation
 * Mettre au frais pendant 30 minutes. On peut aussi congeler la pâte et la cuire un autre jour.
 * Découper les formes de 5mm d'épaisseur et les déposer sur une plaque.
 * (Éventuellement rayer les biscuits avec une fourchette.)
-* Mettre au milieu du four à 160°C sol-voûte (pas de chaleur tournante!) pendant 15 minutes.
+* Mettre au milieu du four à 160°C chaleur tournante pendant 15 minutes.

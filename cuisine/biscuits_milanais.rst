@@ -33,7 +33,9 @@ Préparation
 * Mélanger jusqu'à ce que la pâte blanchisse.
 * Râper le zeste des citrons. Presser le jus. Ajouter les zestes, le jus et la pulpe à la pâte.
 * Tamiser la farine et rassembler la pâte.
+  La pâte va rester collante.
+  Ne pas ajouter de farine, cela risquerait d'en faire une pâte trop élastique, difficile a découper.
 * Mettre au frais pendant 2h. On peut aussi congeler la pâte et la cuire une autre fois.
-* Etaler à 8mm et découper en formes diverses.
+* Etaler à 5mm (3? a essayer) et découper en formes diverses.
 * (Eventuellement mettre au frais pendant 15 minutes.)
-* Cuire au milieu du four préchauffé à 200°C sol-voûte (pas de chaleur tournante!) pendant 10 minutes.
+* Cuire au milieu du four préchauffé à 180°C chaleur tournante pendant 10 minutes.
