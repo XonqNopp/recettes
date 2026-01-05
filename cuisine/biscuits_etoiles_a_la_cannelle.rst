@@ -10,45 +10,50 @@
 Biscuits étoiles a la cannelle
 ##############################
 
-* Préparation: ??? min
-* Cuisson: 10mm, 25 min 140°C chaleur tournante
+* Préparation: 15 min
+* Cuisson: 8mm, 20 min 140°C chaleur tournante
 
 
 Ingrédients
 ===========
 
-+-----------+-------------------------------------------------------+
-| 3 plaques | Ingrédient                                            |
-+===========+=======================================================+
-|         3 | blancs d'oeufs                                        |
-+-----------+-------------------------------------------------------+
-|  1 pincée | sel                                                   |
-+-----------+-------------------------------------------------------+
-|       35g | sucre glace                                           |
-+-----------+-------------------------------------------------------+
-|       1cs | (bombée) cannelle                                     |
-+-----------+-------------------------------------------------------+
-|  400-600g | amandes moulues                                       |
-+-----------+-------------------------------------------------------+
++----------+-------------------------------------------------------+
+| 1 plaque | Ingrédient                                            |
++==========+=======================================================+
+|        2 | blancs d'oeufs                                        |
++----------+-------------------------------------------------------+
+| 1 pincée | sel                                                   |
++----------+-------------------------------------------------------+
+|      20g | sucre glace                                           |
++----------+-------------------------------------------------------+
+|      3cs | (bombée) cannelle                                     |
++----------+-------------------------------------------------------+
+|     300g | amandes moulues                                       |
++----------+-------------------------------------------------------+
 
 
 Préparation
 ===========
 
-* Monter les blancs en neige.
-* Réserver 15g pour le glaçage, y incorporer 35g de sucre.
+* Monter les blancs en neige et y incorporer le sucre.
+* Réserver 15g pour le glaçage.
 
-  .. note:: On ne peut pas faire le glacage avec de l'eau, cela ne convient pas a la cuisson.
+  .. warning::
+
+     Le glaçage doit être fait avec des blancs battus en neige le jour-même,
+     on ne peut pas en réserver un peu pour utiliser plus tard dans la semaine.
+
+  .. note:: On ne peut pas faire le glaçage avec de l'eau, cela ne convient pas a la cuisson.
 
 * Dans le reste des blancs, incorporer le sel.
 * Incorporer la cannelle et les amandes jusqu'à ce que la pâte ne colle presque plus.
 * Aplatir (3-5cm) la pâte entre 2 feuilles de papier cuisson et mettre 1h au frigo.
 * Si la pâte est restée plus longtemps au frigo, la sortir 30-60min avant de la travailler.
-* Abaisser la pâte a 10mm d'épaisseur (plutôt plus que moins).
+* Abaisser la pâte a 8mm d'épaisseur (essayer 5mm).
   Si besoin mettre du sucre glace sur le plan de travail.
 * Découper. Si les formes a biscuits collent a la pâte, les passer dans du sucre glace.
 * Poser les biscuits sur un papier de cuisson et étaler le glaçage au pinceau.
-* Cuire 20-25min en bas du four préchauffé a 140oC chaleur tournante.
+* Cuire 20min au four préchauffé à 140oC chaleur tournante.
 
 
 Source
