@@ -1,6 +1,7 @@
 .. index:: Pain; ...au levain
 .. index:: Cuisine de base; Pain au levain
 
+.. index:: Farine; Pain au levain
 .. index:: Levain; Pain au levain
 
 .. _cuisine_pain_au_levain:
@@ -51,58 +52,58 @@ Préparation
 * Etirer la pâte 1-2 fois
 * Entailler (grigner) le pain pour canaliser les cassures qui se produisent quand il gonfle.
   Ne pas hésiter a le faire profond, le pain lèvera mieux.
-* Mettre dans la cocotte et marquer le dessus au couteau.
-* Cuire 40min a 220degC.
-* Enlever le couvercle de la cocotte et cuire encore 10min.
+* Mettre dans la cocotte.
+* Cuire 45min a 220degC.
+* Enlever le couvercle de la cocotte et cuire encore 10-15min.
 * Quand le dessous fait un toc-toc régulier, le pain est cuit.
 * Sortir le pain du four et le laisser sécher sur une grille
 
 
 .. warning::
 
-   La quantite d'eau depend d'une farine a l'autre, et meme d'un sac de farine a un autre.
-   Elle depend aussi de l'humidite ambiante.
-   La pate doit rester collante, mais sans s'accrocher aux mains.
-   Les differents stades de pate en fonction de l'eau ajoutee:
+   La quantité d'eau dépend d'une farine à l'autre, et même d'un sac de farine à un autre.
+   Elle dépend aussi de l'humidité ambiante.
+   La pâte doit rester collante, mais sans s'accrocher aux mains.
+   Les différents stades de pâte en fonction de l'eau ajoutée:
 
    * boule
-   * pate collante
-   * pate liquide
-   * pate adherente
+   * pâte collante
+   * pâte liquide
+   * pâte adhérente
 
-   Attention a ne pas arriver au stade "pate liquide", car apres le pain s'etale a la cuisson et fera une galette.
-   Il est important de petrir longtemps la pate pour que l'eau se melange bien a la farine.
-   Parfois on peut croire qu'on a trop d'eau, alors qu'en petrissant 5min de plus la consistance est bonne.
+   Attention à ne pas arriver au stade "pâte liquide", car après le pain s'étale à la cuisson et fera une galette.
+   Il est important de pétrir longtemps la pâte pour que l'eau se mélange bien à la farine.
+   Parfois on peut croire qu'on a trop d'eau, alors qu'en pétrissant 5min de plus, la consistance est bonne.
 
-   La pate ne doit pas casser trop vite si on l'etire.
-   Garder en tete que lors de la mise en forme avant d'enfourner, la consistance sera revenue un peu en arriere sur
-   notre echelle et la pate pourrait alors etre plus cassante.
+   La pâte ne doit pas casser trop vite si on l'étire.
+   Garder en tête que lors de la mise en forme avant d'enfourner, la consistance sera revenue un peu en arrière sur
+   notre échelle et la pâte pourrait alors être plus cassante.
 
-   Si au moment d'enfourner, on constate que la pate est encore trop liquide, on peut eviter la galette en mettant la
-   pate dans un moule a cake.
+   Si, au moment d'enfourner, on constate que la pâte est encore trop liquide, on peut éviter la galette en mettant la
+   pâte dans un moule à cake.
 
 
 .. note::
 
-   Si on n'a pas de cocotte, on peut tres bien mettre la pain sur une plaque.
-   Choisir le programme du four qui retient le plus l'humidite, et mettre 180-200degC.
+   Si on n'a pas de cocotte, on peut très bien mettre la pain sur une plaque.
+   Choisir le programme du four qui retient le plus l'humidité, et mettre 180-200degC.
 
 .. note::
 
    Pour faire des petits pains: 180°C 30-40 minutes avec un bol d'eau.
-   Ils levent mieux si on les laisse encore lever environ 30min une fois forme avant de les enfourner.
+   Ils lèvent mieux si on les laisse encore lever environ 30min une fois formés avant de les enfourner.
 
 .. note::
 
-   Il faut respecter les differentes etapes de la preparation, y compris le ressuage (le pain seche apres la cuisson).
+   Il faut respecter les différentes étapes de la préparation, y compris le ressuage (le pain sèche après la cuisson).
    L'article wikipedia en dessous explique bien tout ceci.
 
-   A titre d'exemple, nous avons pese une fois un pain aux differentes etapes:
+   A titre d'exemple, nous avons pesé une fois un pain aux différentes étapes:
 
-   * Juste apres le petrissage: 666g
-   * Juste avant la cuisson: 655g (-2%)
-   * Juste apres la cuisson: 598g (-9%)
-   * Apres le ressuage: 581g (-3%)
+   * Juste après le pétrissage: 666g
+   * Juste avant la cuisson: 655g, -2%
+   * Juste après la cuisson: 598g, -9% d'avant la cuisson, -10% du poids initial
+   * Après le ressuage: 581g, -3% d'après la cuisson, -13% du poids initial
 
 
 Sources
