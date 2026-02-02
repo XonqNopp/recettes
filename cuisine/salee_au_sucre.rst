@@ -50,7 +50,7 @@ Salée fribourgeoise
 *******************
 
 * Préparation: 10 min
-* Cuisson: 15 min
+* Cuisson: 30 min
 
 
 Ingrédients
@@ -68,10 +68,10 @@ Préparation
 
 * Etaler la pâte sur une grande plaque.
 * Broyer les meringues, pas trop grossièrement ni trop finement.
-* Mélanger la moitie avec la double-crème.
+* Mélanger 40g avec la double-crème.
 * Etaler la double-crème sur la pâte.
-* Parsemer les meringues.
-* Cuire au four préchauffé à 200°C pendant 10 à 15 minutes en surveillant.
+* Parsemer le reste des meringues.
+* Cuire au four préchauffé à 180°C pendant 20-30 minutes en surveillant.
 
 
 Source
