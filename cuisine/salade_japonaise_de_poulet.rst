@@ -29,4 +29,4 @@ Préparation
 Source
 ======
 
-
+Cuisiner japonais en pas à pas, les ateliers Marabout.
