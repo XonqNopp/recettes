@@ -1,4 +1,4 @@
-.. index:: Risotto; d'ailleurs
+.. index:: Risotto; ...d'ailleurs
 .. index:: Saisons: 4 saisons; Risotto d'ailleurs
 .. index:: Invention; Risotto d'ailleurs
 
