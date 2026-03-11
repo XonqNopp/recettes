@@ -1,4 +1,4 @@
-.. index:: Risotto; aux asperges tomates sechees et Sbrinz
+.. index:: Risotto; ...aux asperges tomates sechees et Sbrinz
 .. index:: Saisons: Printemps; Risotto aux asperges tomates sechees et Sbrinz
 
 .. index:: Asperge; Risotto aux asperges tomates sechees et Sbrinz

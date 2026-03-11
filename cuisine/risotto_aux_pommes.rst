@@ -1,4 +1,4 @@
-.. index:: Risotto; aux pommes
+.. index:: Risotto; ...aux pommes
 .. index:: Saisons: 4 saisons; Risotto aux pommes
 
 .. index:: Pomme; Risotto aux pommes

@@ -1,4 +1,4 @@
-.. index:: Risotto; aux tomates
+.. index:: Risotto; ...aux tomates
 .. index:: Saisons: Ete; Risotto aux tomates
 
 .. index:: Oignon; Risotto aux tomates
