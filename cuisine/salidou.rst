@@ -13,11 +13,11 @@ Préparation: 30 min
 Ingrédients
 ===========
 
-Pour manger des crêpes à 6 personnes.
+Pour manger des crêpes à 6-8 personnes.
 
 * 150g sucre
 * 60g beurre
-* 10g sel A CONFIRMER
+* 3-4g sel
 * 1-2 dl lait
 
 
