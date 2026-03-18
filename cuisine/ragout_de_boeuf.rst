@@ -45,10 +45,10 @@ Ingrédients
 Préparation
 ===========
 
+* Peler les carottes, les couper en morceaux.
+* Peler les oignons, les couper en deux et poser sur chaque moitié une feuille de laurier que l'on fixera avec un clou de girofle.
 * Chauffer une casserole ou une cocotte, y mettre un peu d'huile et faire rôtir la viande.
 * Saupoudrer avec la farine, bien mélanger et ajouter immédiatement le vin rouge.
-* Bien mélanger le tout et assaisonner avec 1cc de sel et 2 tours de poivre, ainsi que les herbes.
-* Peler les carottes, les couper en morceaux et les mettre dans la casserole.
-* Peler les oignons, les couper en deux et poser sur chaque moitié une feuille de laurier que l'on fixera avec un clou de girofle. Mettre dans la casserole.
-* Laisser mijoter au moins deux heures à petit feu. Au besoin, raouter de l'eau **petit à petit**.
-
+* Ajouter les légumes et couvrir d'eau.
+* Bien mélanger le tout et assaisonner.
+* Laisser mijoter au moins deux heures à petit feu. Au besoin, rajouter de l'eau **petit à petit**.
