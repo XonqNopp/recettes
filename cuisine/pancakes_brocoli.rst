@@ -17,11 +17,11 @@ Pancakes brocoli
 Ingrédients
 ===========
 
-Pour environ 22 pancakes.
+Pour environ 20-25 pancakes.
 
-* 400 g brocoli (1 brocoli)
-* 5 oeufs
-* 150-200 g farine
+* 300-400 g brocoli (1 brocoli)
+* 2 oeufs
+* 100 g farine
 * 1 cc sel
 * huile
 
