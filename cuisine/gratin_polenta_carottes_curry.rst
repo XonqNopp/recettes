@@ -1,4 +1,4 @@
-.. index:: Gratin polenta carottes curry
+.. index:: Gratin; ...polenta carottes curry
 .. index:: Carotte; Gratin polenta carottes curry
 .. index:: Oignon; Gratin polenta carottes curry
 .. index:: Polenta; Gratin polenta carottes curry

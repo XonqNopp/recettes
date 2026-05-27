@@ -1,4 +1,4 @@
-.. index:: Gratin de patates douces
+.. index:: Gratin; ...de patates douces
 .. index:: Oignon; Gratin de patates douces
 .. index:: Ail; Gratin de patates douces
 .. index:: Patate douce; Gratin de patates douces
