@@ -1,13 +1,13 @@
 .. index:: Pain; ...au levain
-.. index:: Cuisine de base; Pain au levain
+.. index:: Cuisine de base; Pain
 
-.. index:: Farine; Pain au levain
-.. index:: Levain; Pain au levain
+.. index:: Farine; Pain
+.. index:: Levain; Pain
 
-.. _cuisine_pain_au_levain:
+.. _cuisine_pain:
 
-Pain au levain
-##############
+Pain
+####
 
 * Préparation: 15 min
 * Repos: 8-12h

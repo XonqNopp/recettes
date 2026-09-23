@@ -1,18 +1,18 @@
-.. index:: Gaufres liégeoises au levain
-.. index:: Repas: gouter; Gaufres liégeoises au levain
+.. index:: Gaufres liégeoises
+.. index:: Repas: gouter; Gaufres liégeoises
 
-.. index:: Farine; Gaufres liégeoises au levain
-.. index:: Levain; Gaufres liégeoises au levain
-.. index:: Oeuf; Gaufres liégeoises au levain
-.. index:: Beurre; Gaufres liégeoises au levain
-.. index:: Pomme; Gaufres liégeoises au levain
-.. index:: Fromage; Gaufres liégeoises au levain
-.. index:: Sucre; Gaufres liégeoises au levain
+.. index:: Farine; Gaufres liégeoises
+.. index:: Levain; Gaufres liégeoises
+.. index:: Oeuf; Gaufres liégeoises
+.. index:: Beurre; Gaufres liégeoises
+.. index:: Pomme; Gaufres liégeoises
+.. index:: Fromage; Gaufres liégeoises
+.. index:: Sucre; Gaufres liégeoises
 
-.. _cuisine_gaufres_liegeoises_au_levain:
+.. _cuisine_gaufres_liegeoises:
 
-Gaufres liégeoises au levain
-############################
+Gaufres liégeoises
+##################
 
 * Préparation: 30 min
 * Repos: 8-12h
@@ -25,7 +25,7 @@ Ingrédients
 Pour une quinzaine de gaufres:
 
 * 250g farine
-* 125g levain
+* 125g :ref:`cuisine_levain`
 * 75g beurre
 * 5g sel
 * 50-100ml eau (ou jus de pomme)

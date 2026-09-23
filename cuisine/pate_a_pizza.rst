@@ -1,12 +1,12 @@
-.. index:: Pâte; ...à pizza au levain
-.. index:: Cuisine de base; Pâte à pizza au levain
+.. index:: Pâte; ...à pizza
+.. index:: Cuisine de base; Pâte à pizza
 
-.. index:: Levain; Pâte à pizza au levain
+.. index:: Levain; Pâte à pizza
 
-.. _cuisine_pate_a_pizza_au_levain:
+.. _cuisine_pate_a:
 
-Pâte a pizza au levain
-######################
+Pâte a pizza
+############
 
 * Préparation: 15 min
 * Repos: 8-12h

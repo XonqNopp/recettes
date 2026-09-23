@@ -30,6 +30,7 @@ Préparation
 ===========
 
 * Tout mélanger et pétrir jusqu'à homogénéité.
+* Si la pâte colle, ajouter un peu de farine.
 * Eventuellement laisser reposer au frais un moment.
 * Etaler.
 
