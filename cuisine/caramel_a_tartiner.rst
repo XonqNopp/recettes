@@ -1,11 +1,12 @@
-.. index:: Salidou
+.. index:: Caramel à tartiner
 .. index:: Caramel au beurre salé
 .. index:: Pâte à tartiner au caramel
+.. index:: Salidou
 
-.. _cuisine_salidou:
+.. _cuisine_caramel_a_tartiner:
 
-Salidou
-#######
+Caramel à tartiner (Salidou)
+############################
 
 Préparation: 30 min
 
